@@ -2,7 +2,7 @@
   "name": "oembed-spec",
   "description": "A parser for oEmbed specification",
   "homepage": "https://nicedoc.io/microlinkhq/oembed-spec",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "src/index.js",
   "author": {
     "email": "hello@microlink.io",
