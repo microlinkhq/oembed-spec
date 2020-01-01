@@ -7,14 +7,8 @@ const findProvider = require('./find-provider')
 
 const RE_FORMAT = /\{format\}/g
 
-module.exports = async (url, opts = {}) => {
-  const provider = findProvider(url)
-  if (provider === undefined) return undefined
-
+const fetchProvider = async (provider, opts) => {
   const oembedUrl = new URL(provider.oembedUrl.replace(RE_FORMAT, 'json'))
-
-  oembedUrl.searchParams.append('format', 'json')
-  oembedUrl.searchParams.append('url', url)
 
   Object.keys(opts).forEach(key =>
     oembedUrl.searchParams.append(key, opts[key])
@@ -28,4 +22,12 @@ module.exports = async (url, opts = {}) => {
   return body
 }
 
+module.exports = async (url, opts = {}) => {
+  const provider = findProvider(url)
+  return provider !== undefined
+    ? fetchProvider(provider, { ...opts, url, format: 'json' })
+    : undefined
+}
+
 module.exports.findProvider = findProvider
+module.exports.fetchProvider = fetchProvider

@@ -73,6 +73,10 @@ Any option present will be passed against the consumer request (see [oembed.com]
 
 Standalone method for finding a provider.
 
+### .fetchProvider(providers, opts)
+
+Standalone method for fetching an specific provider.
+
 ## License
 
 **oembed-spec** © [microlink.io](https://microlink.io), released under the [GNU GPLv2](https://github.com/microlinkhq/oembed-spec/blob/master/LICENSE) License.<br>
