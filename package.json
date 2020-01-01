@@ -71,17 +71,11 @@
     "release": "standard-version -a",
     "release:github": "conventional-github-releaser -p angular",
     "release:tags": "git push --follow-tags origin HEAD:master",
-    "test": "nyc ava",
+    "test": "nyc ava test/index.js test/find-provider/*.js test/providers/*.js",
     "update": "ncu -u",
     "update:check": "ncu -- --error-level 2"
   },
   "license": "MIT",
-  "ava": {
-    "files": [
-      "!test/helpers/**/*",
-      "test/**/*"
-    ]
-  },
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
