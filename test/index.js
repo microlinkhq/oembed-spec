@@ -22,6 +22,6 @@ unsupportedUrls.forEach(url => {
 })
 
 test('pass specific oEmbed parameters', async t => {
-  const output = await oEmbed('https://youtu.be/I8u2NdWuaYs')
+  const output = await oEmbed('https://youtu.be/I8u2NdWuaYs', { maxwidth: 612 })
   t.true(output.width === 612)
 })
