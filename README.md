@@ -60,7 +60,7 @@ oEmbed('http://www.youtu.be/I8u2NdWuaYs', { maxheight: 612 })
 
 #### input
 
-*Required*<br>
+_Required_<br>
 Type: `string`
 
 A valid WHATWG URL.
@@ -73,7 +73,7 @@ Any option present will be passed against the consumer request (see [oembed.com]
 
 Standalone method for finding a provider.
 
-### .fetchProvider(providers, opts)
+### .fetchProvider(provider, url, opts)
 
 Standalone method for fetching an specific provider.
 
