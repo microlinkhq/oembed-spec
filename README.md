@@ -14,7 +14,7 @@
 ## Features
 
 - Always on sync with [oEmbed providers](https://oembed.com/providers.json) (as npm postinstall hook).
-- Haandle http/https & www/non-www URLs variations.
+- Handle http/https & www/non-www URLs variations.
 - Ability to pass extra oEmbed parameters.
 - Built for speed.
 
