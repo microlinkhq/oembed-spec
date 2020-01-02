@@ -29,7 +29,8 @@
   ],
   "dependencies": {
     "got": "~9.6.0",
-    "tldts": "~5.6.3"
+    "tldts": "~5.6.3",
+    "tldts-experimental": "~5.6.3"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",

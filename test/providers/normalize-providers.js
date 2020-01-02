@@ -2,7 +2,7 @@
 
 const test = require('ava')
 
-const normalizeProviders = require('../../src/providers/normalize-providers')
+const normalizeProviders = require('../../scripts/normalize')
 
 test('create a provider per every scheme', t => {
   t.snapshot(

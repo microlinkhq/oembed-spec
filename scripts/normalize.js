@@ -8,9 +8,7 @@ module.exports = providers =>
       const { schemes = [], url: oembedUrl } = endpoint
 
       acc.push({
-        schemes: schemes.map(
-          scheme => new RegExp(scheme.replace(/\*/g, '(.*)'), 'i')
-        ),
+        schemes: schemes.map(scheme => scheme.toLowerCase().split(/[*]/g)),
         name,
         url,
         oembedUrl

@@ -22,6 +22,7 @@ const fetchProvider = async (provider, url, opts = {}) => {
 
 module.exports = async (url, opts) => {
   const provider = findProvider(url)
+  // console.log('>>>>', url, provider)
   return provider !== undefined ? fetchProvider(provider, url, opts) : undefined
 }
 
