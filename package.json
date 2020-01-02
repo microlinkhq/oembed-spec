@@ -36,7 +36,9 @@
     "@commitlint/config-conventional": "latest",
     "@microlink/demo-links": "latest",
     "ava": "latest",
+    "benchmark": "~2.1.4",
     "big-list-of-naughty-strings": "latest",
+    "chalk": "~3.0.0",
     "ci-publish": "latest",
     "conventional-github-releaser": "latest",
     "coveralls": "latest",
@@ -62,7 +64,7 @@
     "src"
   ],
   "scripts": {
-    "benchmark": "node benchmark.js",
+    "benchmark": "node ./benchmarks/benchmark.js",
     "clean": "rm -rf node_modules",
     "contributors": "(git-authors-cli && finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
