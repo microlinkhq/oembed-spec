@@ -55,7 +55,7 @@ const matchProvider = (url, domain, provider) => {
     return matchSchemes(url, schemes) ? provider : undefined
   }
 
-  if (domain === undefined) {
+  if (domain === null) {
     return undefined
   }
 
