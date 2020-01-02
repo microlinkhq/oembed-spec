@@ -1,6 +1,6 @@
 'use strict'
 
-const { getDomainWithoutSuffix } = require('tldts-experimental')
+const { getDomainWithoutSuffix } = require('tldts')
 
 const RE_NORMALIZE_URL = /^\/\/|^https?:\/\/(?:www\.)?/
 
