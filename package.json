@@ -45,8 +45,10 @@
     "git-dirty": "latest",
     "husky": "latest",
     "lint-staged": "latest",
+    "nanobench": "latest",
     "npm-check-updates": "latest",
     "nyc": "latest",
+    "oembed-parser": "latest",
     "prettier-standard": "latest",
     "standard": "latest",
     "standard-markdown": "latest",
@@ -60,6 +62,7 @@
     "src"
   ],
   "scripts": {
+    "benchmark": "node benchmark.js",
     "clean": "rm -rf node_modules",
     "contributors": "(git-authors-cli && finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
