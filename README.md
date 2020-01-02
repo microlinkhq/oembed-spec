@@ -79,7 +79,7 @@ Standalone method for fetching an specific provider.
 
 ## License
 
-**oembed-spec** © [microlink.io](https://microlink.io), released under the [GNU GPLv2](https://github.com/microlinkhq/oembed-spec/blob/master/LICENSE) License.<br>
+**oembed-spec** © [microlink.io](https://microlink.io), released under the [MIT](https://github.com/microlinkhq/oembed-spec/blob/master/LICENSE) License.<br>
 Authored and maintained by [microlink.io](https://microlink.io) with help from [contributors](https://github.com/microlinkhq/oembed-spec/contributors).
 
 > [microlink.io](https://microlink.io) · GitHub [microlink.io](https://github.com/microlinkhq) · Twitter [@microlinkhq](https://twitter.com/microlinkhq)
