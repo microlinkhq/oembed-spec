@@ -15,7 +15,7 @@ const matchSchemes = (url, schemes) => {
     }
 
     // First part should match start of URL
-    const firstPart = scheme[0]
+    const [firstPart] = scheme
     if (url.startsWith(firstPart) === false) {
       continue
     }
