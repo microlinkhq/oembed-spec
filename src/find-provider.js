@@ -65,7 +65,6 @@ const matchProvider = (url, domain, provider) => {
     domain === getDomainWithoutSuffix(oembedUrl) ||
     domain === getDomainWithoutSuffix(providerUrl)
   ) {
-    // console.log('???? 2', domain, getDomainWithoutSuffix(oembedUrl), getDomainWithoutSuffix(providerUrl))
     return provider
   }
 
