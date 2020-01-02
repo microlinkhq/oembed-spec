@@ -30,7 +30,6 @@ std dev              1.650 ms   (1.115 ms .. 2.344 ms)
 
 **oembed-spec**: `require-oembed-spec.js`
 ```shell
-
 benchmarking node require-oembed-spec.js
 time                 59.64 ms   (58.05 ms .. 61.05 ms)
                      0.999 R²   (0.998 R² .. 1.000 R²)
