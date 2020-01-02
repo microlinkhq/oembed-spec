@@ -1,7 +1,7 @@
 Benchmarks
 ==========
 
-## Loading
+## Bootstrapping
 
 This benchmark measures how long it takes to `require` the library. The
 'require-noop.js' file is used as a baseline and does not import any external
@@ -41,5 +41,3 @@ std dev              1.786 ms   (1.377 ms .. 2.313 ms)
 
 * oembed-parser 3039 url/second
 * **oembed-spec** 16825 url/second
-
-## Memory Usage
