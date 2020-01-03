@@ -39,5 +39,6 @@ std dev              1.786 ms   (1.377 ms .. 2.313 ms)
 
 ## Running
 
-* oembed-parser 3039 url/second
-* **oembed-spec** 16825 url/second
+* **oembed-spec** 16825 url/second.
+* oembed-parser 3039 url/second.
+
