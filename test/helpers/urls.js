@@ -27,11 +27,7 @@ const validUrls = [
   'https://youtu.be/I8u2NdWuaYs'
 ]
 
-const invalidUrls = [
-  'fantasticfreefoodforyou.de',
-  'google.com',
-  'https://microlink.io'
-]
+const invalidUrls = ['fantasticfreefoodforyou.de', 'google.com']
 
 const supportedUrls = [...validUrls, ...demoLinks]
 
