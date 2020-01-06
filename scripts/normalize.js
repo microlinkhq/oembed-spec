@@ -1,5 +1,7 @@
 'use strict'
 
+const { getDomainWithoutSuffix } = require('tldts')
+
 module.exports = providers =>
   providers.reduce((acc, item) => {
     const { provider_name: name, provider_url: url, endpoints } = item
@@ -11,7 +13,9 @@ module.exports = providers =>
         schemes: schemes.map(scheme => scheme.toLowerCase().split(/[*]/g)),
         name,
         url,
-        oembedUrl
+        domainWithoutSuffixOfUrl: getDomainWithoutSuffix(url),
+        oembedUrl,
+        domainWithoutSuffixOfOembedUrl: getDomainWithoutSuffix(oembedUrl)
       })
     })
 
