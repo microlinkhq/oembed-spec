@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/microlinkhq/oembed-spec/compare/v1.1.8...v1.2.0) (2020-01-07)
+
+
+### Features
+
+* support custom got options ([1925096](https://github.com/microlinkhq/oembed-spec/commit/192509633236972be1d4b6115e0e1b2a8ff8b7b7))
+
 ### [1.1.8](https://github.com/microlinkhq/oembed-spec/compare/v1.1.7...v1.1.8) (2020-01-07)
 
 ### [1.1.7](https://github.com/microlinkhq/oembed-spec/compare/v1.1.6...v1.1.7) (2020-01-03)
