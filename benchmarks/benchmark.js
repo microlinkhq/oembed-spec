@@ -19,19 +19,19 @@ function bench (name, args, fn) {
 
 function main () {
   {
-    const oEmbedParser = require('oembed-parser')
-    bench('oembed-parser', supportedUrls, urls => {
+    const oEmbedSpec = require('../')
+    bench('oembed-spec', supportedUrls, urls => {
       for (let i = 0; i < urls.length; i += 1) {
-        oEmbedParser.hasProvider(urls[i])
+        oEmbedSpec.findProvider(urls[i])
       }
     })
   }
 
   {
-    const oEmbedSpec = require('../')
-    bench('oembed-spec', supportedUrls, urls => {
+    const oEmbedParser = require('oembed-parser')
+    bench('oembed-parser', supportedUrls, urls => {
       for (let i = 0; i < urls.length; i += 1) {
-        oEmbedSpec.findProvider(urls[i])
+        oEmbedParser.hasProvider(urls[i])
       }
     })
   }
