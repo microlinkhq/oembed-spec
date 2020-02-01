@@ -9,7 +9,7 @@ const got = require('got')
 const normalizeProviders = require('./normalize')
 const tokenize = require('../src/tokenize')
 
-const fetch = url => got(url, { json: true }).then(res => res.body)
+const fetch = url => got(url).json()
 
 // Implement a simple 'counter' abstraction over an instance of `Map`. This
 // allows to implement our histogram building logic in a nicer way (see below).
