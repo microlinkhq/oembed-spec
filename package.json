@@ -32,7 +32,7 @@
     "spec"
   ],
   "dependencies": {
-    "got": "~11.2.0",
+    "got": "~11.3.0",
     "tldts": "~5.6.29"
   },
   "devDependencies": {
