@@ -12,7 +12,7 @@ const fetchProvider = async (provider, url, opts = {}, gotOpts = {}) => {
   oembedUrl.searchParams.append('format', 'json')
   oembedUrl.searchParams.append('url', url)
   Object.keys(opts).forEach(key =>
-    oembedUrl.searchParams.append(key, opts[key])
+    oembedUrl.searchParams.append(key.toLowerCase(), opts[key])
   )
   const body = await got(oembedUrl.toString(), gotOpts).json()
   body.provider_name = provider.name
