@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.3.17](https://github.com/microlinkhq/oembed-spec/compare/v1.3.16...v1.3.17) (2020-10-21)
+
 ### [1.3.16](https://github.com/microlinkhq/oembed-spec/compare/v1.3.15...v1.3.16) (2020-09-20)
 
 ### [1.3.15](https://github.com/microlinkhq/oembed-spec/compare/v1.3.14...v1.3.15) (2020-09-04)
