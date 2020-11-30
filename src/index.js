@@ -20,9 +20,11 @@ const fetchProvider = async (provider, url, opts = {}, gotOpts = {}) => {
   return body
 }
 
-module.exports = async (url, opts) => {
+module.exports = async (url, opts, gotOpts) => {
   const provider = findProvider(url)
-  return provider !== undefined ? fetchProvider(provider, url, opts) : undefined
+  return provider !== undefined
+    ? fetchProvider(provider, url, opts, gotOpts)
+    : undefined
 }
 
 module.exports.findProvider = findProvider

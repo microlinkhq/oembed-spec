@@ -73,7 +73,7 @@ Any option present will be passed against the consumer request (see [oembed.com]
 
 Standalone method for finding a provider.
 
-### .fetchProvider(provider, url, opts)
+### .fetchProvider(provider, url, [opts], [gotOpts])
 
 Standalone method for fetching an specific provider.
 
