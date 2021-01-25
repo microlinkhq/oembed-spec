@@ -6,9 +6,9 @@ const oEmbed = require('../src')
 
 const { unsupportedUrls, supportedUrls } = require('./helpers/urls')
 
-supportedUrls.forEach(url => {
+supportedUrls.forEach(([url, opts]) => {
   test(url, async t => {
-    const output = await oEmbed(url)
+    const output = await oEmbed(url, opts)
     t.true(!!output.provider_name)
     t.true(!!output.provider_url)
   })
@@ -22,11 +22,20 @@ unsupportedUrls.forEach(url => {
 })
 
 test('pass specific oEmbed parameters', async t => {
-  const output = await oEmbed('https://youtu.be/I8u2NdWuaYs', { maxwidth: 612 })
-  t.true(output.width === 612)
+  const output = await oEmbed('http://flickr.com/photos/bees/2362225867/', {
+    maxwidth: 300,
+    maxheight: 75
+  })
+  t.true(output.height === 75)
 })
 
 test('handle camel case keys', async t => {
-  const output = await oEmbed('https://youtu.be/I8u2NdWuaYs', { maxWidth: 612 })
-  t.true(output.width === 612)
+  t.true(
+    (
+      await oEmbed('http://flickr.com/photos/bees/2362225867/', {
+        maxwidth: 300,
+        maxHeight: 75
+      })
+    ).height === 75
+  )
 })

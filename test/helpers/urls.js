@@ -1,5 +1,7 @@
 'use strict'
 
+const { getDomainWithoutSuffix } = require('tldts')
+
 const demoLinks = Object.keys(require('@microlink/demo-links')).reduce(
   (acc, key) => {
     const value = require('@microlink/demo-links')[key]
@@ -9,8 +11,23 @@ const demoLinks = Object.keys(require('@microlink/demo-links')).reduce(
   []
 )
 
+const QUERY_PARAMETERS = {
+  facebook: {
+    access_token: process.env.FB_ACCESS_TOKEN
+  },
+  instagram: {
+    access_token: process.env.FB_ACCESS_TOKEN
+  }
+}
+
+const addQueryParameters = url => [
+  url,
+  QUERY_PARAMETERS[getDomainWithoutSuffix(url)]
+]
+
 const falsyValues = Array.from(new Set(require('big-list-of-naughty-strings')))
 
+/* https://developers.facebook.com/docs/plugins/oembed */
 const validUrls = [
   'http://fav.me/dcx5286',
   'https://flic.kr/p/5QEkmq',
@@ -18,7 +35,7 @@ const validUrls = [
   'https://twitter.com/officialmcafee/status/1133280322039291905',
   'https://twitter.com/tribandtweets/status/1133308311917481984',
   'https://www.deviantart.com/joeyjazz/art/SP-Ocean-Eclipse-781257606',
-  'https://www.facebook.com/alternate.de/photos/a.391014166661/10156375231596662/?type=3&theater',
+  'https://www.facebook.com/alternate.de/photos/a.391014166661/10156375231596662',
   'https://www.facebook.com/RocketBeansTV/videos/364684367488603/',
   'https://www.instagram.com/p/B5LeHK2h4p0/',
   'https://www.instagram.com/p/Bx9h8mdpMPF/?utm_source=ig_web_button_share_sheet',
@@ -29,7 +46,7 @@ const validUrls = [
 
 const invalidUrls = ['fantasticfreefoodforyou.de', 'google.com']
 
-const supportedUrls = [...validUrls, ...demoLinks]
+const supportedUrls = [...validUrls, ...demoLinks].map(addQueryParameters)
 
 const unsupportedUrls = [...invalidUrls, ...falsyValues]
 
