@@ -5,8 +5,6 @@
 ![Last version](https://img.shields.io/github/tag/microlinkhq/oembed-spec.svg?style=flat-square)
 [![Build Status](https://img.shields.io/travis/com/microlinkhq/oembed-spec/master.svg?style=flat-square)](https://travis-ci.com/microlinkhq/oembed-spec)
 [![Coverage Status](https://img.shields.io/coveralls/microlinkhq/oembed-spec.svg?style=flat-square)](https://coveralls.io/github/microlinkhq/oembed-spec)
-[![Dependency status](https://img.shields.io/david/microlinkhq/oembed-spec.svg?style=flat-square)](https://david-dm.org/microlinkhq/oembed-spec)
-[![Dev Dependencies Status](https://img.shields.io/david/dev/microlinkhq/oembed-spec.svg?style=flat-square)](https://david-dm.org/microlinkhq/oembed-spec#info=devDependencies)
 [![NPM Status](https://img.shields.io/npm/dm/oembed-spec.svg?style=flat-square)](https://www.npmjs.org/package/oembed-spec)
 
 > A parser for oEmbed specification.
