@@ -29,10 +29,11 @@ const falsyValues = Array.from(new Set(require('big-list-of-naughty-strings')))
 
 /* https://developers.facebook.com/docs/plugins/oembed */
 const validUrls = [
+  'http://fav.me/dcx5286',
   'https://flic.kr/p/5QEkmq',
   'https://twitter.com/NetflixDE/status/1133310428476530688',
   'https://twitter.com/officialmcafee/status/1133280322039291905',
-  'https://twitter.com/tribandtweets/status/1133308311917481984',
+  'https://twitter.com/tribandtwfacebooeets/status/1133308311917481984',
   'https://www.deviantart.com/joeyjazz/art/SP-Ocean-Eclipse-781257606',
   'https://www.facebook.com/alternate.de/photos/a.391014166661/10156375231596662',
   'https://www.facebook.com/RocketBeansTV/videos/364684367488603/',
