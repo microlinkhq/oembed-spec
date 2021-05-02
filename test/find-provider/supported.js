@@ -6,7 +6,7 @@ const findProvider = require('../../src/find-provider')
 
 const { supportedUrls } = require('../helpers/urls')
 
-supportedUrls.forEach(url => {
+supportedUrls.forEach(([url]) => {
   const baseUrl = url.replace(/^\/\/|^https?:\/\/(?:www\.)?/, '')
 
   const variationsUrls = [
