@@ -80,11 +80,17 @@
     "release": "standard-version -a",
     "release:github": "conventional-github-releaser -p angular",
     "release:tags": "git push --follow-tags origin HEAD:master",
-    "test": "nyc ava test/index.js test/find-provider/*.js test/providers/*.js",
+    "test": "nyc ava",
     "update": "ncu -u",
     "update:check": "ncu -- --error-level 2"
   },
   "license": "MIT",
+  "ava": {
+    "files": [
+      "test/**/*",
+      "!test/helpers/**/*"
+    ]
+  },
   "commitlint": {
     "extends": [
       "@commitlint/config-conventional"
@@ -98,7 +104,7 @@
   },
   "lint-staged": {
     "package.json": [
-      "finepack"
+      "finepack --sort-ignore-object-at ava"
     ],
     "*.js": [
       "prettier-standard"
