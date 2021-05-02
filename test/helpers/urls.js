@@ -29,7 +29,6 @@ const falsyValues = Array.from(new Set(require('big-list-of-naughty-strings')))
 
 /* https://developers.facebook.com/docs/plugins/oembed */
 const validUrls = [
-  'http://fav.me/dcx5286',
   'https://flic.kr/p/5QEkmq',
   'https://twitter.com/NetflixDE/status/1133310428476530688',
   'https://twitter.com/officialmcafee/status/1133280322039291905',
