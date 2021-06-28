@@ -2,7 +2,7 @@
   <img src="https://cdn.microlink.io/logo/banner.png" alt="microlink logo">
 </div>
 
-[![Build Status](https://img.shields.io/travis/com/microlinkhq/oembed-spec/master.svg?style=flat-square)](https://travis-ci.com/microlinkhq/oembed-spec)
+![Last version](https://img.shields.io/github/tag/microlinkhq/oembed-spec.svg?style=flat-square)
 [![Coverage Status](https://img.shields.io/coveralls/microlinkhq/oembed-spec.svg?style=flat-square)](https://coveralls.io/github/microlinkhq/oembed-spec)
 [![NPM Status](https://img.shields.io/npm/dm/oembed-spec.svg?style=flat-square)](https://www.npmjs.org/package/oembed-spec)
 
