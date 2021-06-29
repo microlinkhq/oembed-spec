@@ -53,7 +53,7 @@ oEmbed('http://www.youtu.be/I8u2NdWuaYs', { maxheight: 612 })
 
 ## API
 
-### oEmbed(input, [options])
+### oEmbed(input, [options], [gotOpts])
 
 #### input
 
@@ -65,6 +65,10 @@ A valid WHATWG URL.
 #### options
 
 Any option present will be passed against the consumer request (see [oembed.com](https://oembed.com) section 2.2).
+
+#### gotOpts
+
+Any option present will be passed to [got](https://github.com/sindresorhus/got).
 
 ### .findProvider(url)
 
