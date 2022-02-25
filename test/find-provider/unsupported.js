@@ -6,8 +6,8 @@ const findProvider = require('../../src/find-provider')
 
 const { unsupportedUrls } = require('../helpers/urls')
 
-unsupportedUrls.forEach(url => {
-  test(JSON.stringify(url), t => {
+unsupportedUrls.forEach((url, index) => {
+  test(`case ${index} (${String(url)})`, t => {
     t.true(findProvider(url) === undefined)
   })
 })

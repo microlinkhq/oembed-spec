@@ -14,8 +14,8 @@ supportedUrls.forEach(([url, opts]) => {
   })
 })
 
-unsupportedUrls.forEach(url => {
-  test(JSON.stringify(url), async t => {
+unsupportedUrls.forEach((url, index) => {
+  test(`case ${index} (${String(url)})`, async t => {
     const output = await oEmbed(url)
     t.true(output === undefined)
   })
