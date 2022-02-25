@@ -1,14 +1,14 @@
 on:
   push:
     branches:
-    - master
+      - master
   pull_request:
     branches:
-    - master
+      - master
   schedule:
     # Every Monday at 09:00 on Monday
     # https://crontab.guru/#00_09_*_*_1
-    - cron:  '00 09 * * 1'
+    - cron: '00 09 * * 1'
 
 jobs:
   test:
@@ -27,7 +27,7 @@ jobs:
         env:
           FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
       - name: Report
-        run: mkdir -p coverage && npx nyc report --reporter=text-lcov > coverage/lcov.info
+        run: mkdir -p coverage && npx c8 report --reporter=text-lcov > coverage/lcov.info
       - name: Coverage
         uses: coverallsapp/github-action@master
         with:

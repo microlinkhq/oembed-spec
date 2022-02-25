@@ -42,6 +42,7 @@
     "ava": "latest",
     "benchmark": "latest",
     "big-list-of-naughty-strings": "latest",
+    "c8": "latest",
     "chalk": "latest",
     "ci-publish": "latest",
     "conventional-github-releaser": "latest",
@@ -49,10 +50,9 @@
     "finepack": "latest",
     "git-authors-cli": "latest",
     "git-dirty": "latest",
-    "lint-staged": "latest",
+    "nano-staged": "latest",
     "nanobench": "latest",
     "npm-check-updates": "latest",
-    "nyc": "latest",
     "oembed-parser": "latest",
     "prettier-standard": "latest",
     "simple-git-hooks": "latest",
@@ -80,7 +80,7 @@
     "release": "standard-version -a",
     "release:github": "conventional-github-releaser -p angular",
     "release:tags": "git push --follow-tags origin HEAD:master",
-    "test": "nyc ava",
+    "test": "c8 ava",
     "update": "ncu -u",
     "update:check": "ncu -- --error-level 2"
   },
@@ -96,19 +96,19 @@
       "@commitlint/config-conventional"
     ]
   },
-  "lint-staged": {
-    "package.json": [
-      "finepack --sort-ignore-object-at ava"
-    ],
+  "nano-staged": {
     "*.js": [
       "prettier-standard"
     ],
     "*.md": [
       "standard-markdown"
+    ],
+    "package.json": [
+      "finepack --sort-ignore-object-at ava"
     ]
   },
   "simple-git-hooks": {
     "commit-msg": "npx commitlint --edit",
-    "pre-commit": "npx lint-staged"
+    "pre-commit": "npx nano-staged"
   }
 }
