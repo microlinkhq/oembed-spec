@@ -13,10 +13,6 @@
     {
       "name": "Kiko Beats",
       "email": "josefrancisco.verdu@gmail.com"
-    },
-    {
-      "name": "Rémi Berson",
-      "email": "remi@cliqz.com"
     }
   ],
   "repository": {
@@ -83,8 +79,8 @@
   "license": "MIT",
   "ava": {
     "files": [
-      "test/**/*",
-      "!test/helpers/**/*"
+      "!test/helpers/**/*",
+      "test/**/*"
     ]
   },
   "commitlint": {
