@@ -79,8 +79,8 @@
   "license": "MIT",
   "ava": {
     "files": [
-      "test/**/*",
-      "!test/helpers/**/*"
+      "!test/helpers/**/*",
+      "test/**/*"
     ]
   },
   "commitlint": {
