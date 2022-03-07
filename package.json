@@ -63,7 +63,7 @@
   "scripts": {
     "benchmark": "node ./benchmarks/benchmark.js",
     "clean": "rm -rf node_modules",
-    "contributors": "(git-authors-cli && finepack && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
+    "contributors": "(git-authors-cli && finepack --sort-ignore-object-at ava && git add package.json && git commit -m 'build: contributors' --no-verify) || true",
     "lint": "standard-markdown README.md && standard",
     "postinstall": "node scripts/postinstall.js",
     "postrelease": "npm run release:tags && npm run release:github && (ci-publish || npm publish --access=public)",
@@ -79,8 +79,8 @@
   "license": "MIT",
   "ava": {
     "files": [
-      "!test/helpers/**/*",
-      "test/**/*"
+      "test/**/*",
+      "!test/helpers/**/*"
     ]
   },
   "commitlint": {
