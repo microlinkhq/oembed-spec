@@ -28,7 +28,7 @@
     "spec"
   ],
   "dependencies": {
-    "got": "~11.8.1",
+    "got": "~12.3.0",
     "tldts": "~5.7.0"
   },
   "devDependencies": {
