@@ -2,7 +2,7 @@
 
 const PROVIDERS_URL = 'https://oembed.com/providers.json'
 
-const { writeFile } = require('fs').promises
+const { writeFile } = require('fs/promises')
 const path = require('path')
 const got = require('got')
 
