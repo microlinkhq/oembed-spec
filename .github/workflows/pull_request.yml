@@ -1,4 +1,4 @@
-name: test
+name: pull_request
 
 on:
   push:
@@ -10,13 +10,13 @@ on:
 
 jobs:
   test:
+    if: github.ref != 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v3
         with:
-          token: ${{ secrets.GH_TOKEN }}
-          fetch-depth: 2
+          token: ${{ secrets.GITHUB_TOKEN }}
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
@@ -33,12 +33,3 @@ jobs:
         uses: coverallsapp/github-action@master
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Release
-        if: ${{ github.ref == 'refs/heads/master' && !startsWith(github.event.head_commit.message, 'chore(release):') && !startsWith(github.event.head_commit.message, 'docs:') }}
-        env:
-          CONVENTIONAL_GITHUB_RELEASER_TOKEN: ${{ secrets.GH_TOKEN }}
-          NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
-        run: |
-          git config --global user.email ${{ secrets.GIT_EMAIL }}
-          git config --global user.name ${{ secrets.GIT_USERNAME }}
-          npm run release
