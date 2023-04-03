@@ -11,8 +11,16 @@
   },
   "contributors": [
     {
-      "name": "Kiko",
+      "name": "Kiko Beats",
       "email": "josefrancisco.verdu@gmail.com"
+    },
+    {
+      "name": "Rémi",
+      "email": "remusao@users.noreply.github.com"
+    },
+    {
+      "name": "Rémi Berson",
+      "email": "remi@cliqz.com"
     }
   ],
   "repository": {
