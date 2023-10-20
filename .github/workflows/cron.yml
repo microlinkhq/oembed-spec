@@ -2,9 +2,7 @@ name: cron
 
 on:
   schedule:
-    # Every Monday at 09:00 on Monday
-    # https://crontab.guru/#00_09_*_*_1
-    - cron: '00 09 * * 1'
+    - cron: '0 0 * * MON'
 
 jobs:
   test:
@@ -13,8 +11,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GH_TOKEN }}
-      - name: Setup Node.js
+          token: ${{ secrets.GH_TOKEN }}      - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: lts/*
@@ -27,6 +24,6 @@ jobs:
       - name: Report
         run: mkdir -p coverage && npx c8 report --reporter=text-lcov > coverage/lcov.info
       - name: Coverage
-        uses: coverallsapp/github-action@master
+        uses: coverallsapp/github-action@main
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
