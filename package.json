@@ -37,7 +37,7 @@
   ],
   "dependencies": {
     "got": "~11.8.6",
-    "tldts": "~6.1.0"
+    "tldts": "~7.0.2"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
