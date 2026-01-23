@@ -50,19 +50,15 @@ const matchSchemes = (url, schemes) => {
 }
 
 const matchProvider = (url, provider) => {
-  const {
-    schemes,
-    domainWithoutSuffixOfOembedUrl,
-    domainWithoutSuffixOfUrl
-  } = provider
+  const { schemes, domainWithoutSuffixOfOembedUrl, domainWithoutSuffixOfUrl } =
+    provider
 
   if (schemes.length !== 0) {
     return matchSchemes(url, schemes) === true ? provider : undefined
   }
 
   // Since the URL doesn't have an scheme to match, try to match over oEmbed/url
-  // domain. These are pre-computed during postinstall so that no redundant work
-  // is needed.
+  // domain. These are pre-computed so that no redundant work is needed.
   const domain = getDomainWithoutSuffix(url)
   if (
     domain !== null &&
@@ -96,7 +92,7 @@ module.exports = url => {
   // work is needed. In case of a match, we usually have a list of one or two
   // candidates, which is very quick to match against.
   //
-  // For more details about `index`, see documentation in `scripts/postinstall.js`.
+  // For more details about `index`, see documentation in `scripts/fetch-providers.js`.
   const indicesOfCandidates = new Set()
   for (const token of tokenize(baseUrl)) {
     const providersForToken = index[token]

@@ -117,11 +117,19 @@ function buildIndex (providers) {
   }
 }
 
-fetch(PROVIDERS_URL)
-  .then(json =>
-    writeFile(
-      path.resolve(__dirname, '../src/providers.json'),
-      JSON.stringify(buildIndex(normalizeProviders(json)), null, 2)
-    )
+async function main () {
+  const json = await fetch(PROVIDERS_URL)
+  const providers = normalizeProviders(json)
+  const data = buildIndex(providers)
+  await writeFile(
+    path.resolve(__dirname, '../src/providers.json'),
+    JSON.stringify(data, null, 2)
   )
-  .catch(error => console.error(error) || process.exit(1))
+}
+
+main()
+  .then(() => process.exit(0))
+  .catch(error => {
+    console.error(error)
+    process.exit(1)
+  })
