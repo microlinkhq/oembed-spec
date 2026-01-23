@@ -2,14 +2,13 @@
 
 const { getDomainWithoutSuffix } = require('tldts')
 
-const demoLinks = Object.keys(require('@microlink/demo-links')).reduce(
-  (acc, key) => {
+const demoLinks = Object.keys(require('@microlink/demo-links'))
+  .reduce((acc, key) => {
     const value = require('@microlink/demo-links')[key]
     if (value.iframe) acc.push(value.url)
     return acc
-  },
-  []
-)
+  }, [])
+  .filter(url => !url.includes('gfycat.com'))
 
 const QUERY_PARAMETERS = {
   facebook: {

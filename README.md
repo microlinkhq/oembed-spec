@@ -13,7 +13,7 @@
 
 ## Features
 
-- Always on sync with [oEmbed providers](https://oembed.com/providers.json) (as npm postinstall hook).
+- Always on sync with [oEmbed providers](https://oembed.com/providers.json) (updated weekly via GitHub Actions).
 - Handle http/https & www/non-www URLs variations.
 - Ability to pass extra oEmbed parameters.
 - Built for speed (see [benchmarks](benchmarks/README.md)).

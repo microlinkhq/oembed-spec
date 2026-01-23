@@ -34,4 +34,3 @@ coverage
 ############################
 .env
 .envrc
-src/providers.json

@@ -1,0 +1,8875 @@
+{
+  "providers": [
+    {
+      "schemes": [
+        [
+          "http://www.23hq.com/",
+          "/photo/",
+          ""
+        ]
+      ],
+      "name": "23HQ",
+      "url": "http://www.23hq.com",
+      "domainWithoutSuffixOfUrl": "23hq",
+      "oembedUrl": "http://www.23hq.com/23/oembed",
+      "domainWithoutSuffixOfOembedUrl": "23hq"
+    },
+    {
+      "schemes": [
+        [
+          "https://playout.3qsdn.com/embed/",
+          ""
+        ]
+      ],
+      "name": "3Q",
+      "url": "https://3q.video/",
+      "domainWithoutSuffixOfUrl": "3q",
+      "oembedUrl": "https://playout.3qsdn.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "3qsdn"
+    },
+    {
+      "schemes": [
+        [
+          "https://store.abraia.me/",
+          ""
+        ]
+      ],
+      "name": "Abraia",
+      "url": "https://abraia.me",
+      "domainWithoutSuffixOfUrl": "abraia",
+      "oembedUrl": "https://api.abraia.me/oembed",
+      "domainWithoutSuffixOfOembedUrl": "abraia"
+    },
+    {
+      "schemes": [
+        [
+          "https://play.acast.com/s/",
+          ""
+        ]
+      ],
+      "name": "Acast",
+      "url": "https://embed.acast.com",
+      "domainWithoutSuffixOfUrl": "acast",
+      "oembedUrl": "https://oembed.acast.com/v1/embed-player",
+      "domainWithoutSuffixOfOembedUrl": "acast"
+    },
+    {
+      "schemes": [
+        [
+          "https://secure.actblue.com/donate/",
+          ""
+        ]
+      ],
+      "name": "ActBlue",
+      "url": "https://secure.actblue.com",
+      "domainWithoutSuffixOfUrl": "actblue",
+      "oembedUrl": "https://secure.actblue.com/cf/oembed",
+      "domainWithoutSuffixOfOembedUrl": "actblue"
+    },
+    {
+      "schemes": [
+        [
+          "https://adilo.bigcommand.com/watch/",
+          ""
+        ]
+      ],
+      "name": "Adilo",
+      "url": "https://adilo.bigcommand.com",
+      "domainWithoutSuffixOfUrl": "bigcommand",
+      "oembedUrl": "https://adilo.bigcommand.com/web/oembed",
+      "domainWithoutSuffixOfOembedUrl": "bigcommand"
+    },
+    {
+      "schemes": [
+        [
+          "https://vod.afreecatv.com/player/"
+        ],
+        [
+          "https://v.afree.ca/st/"
+        ],
+        [
+          "https://vod.afreecatv.com/st/"
+        ],
+        [
+          "https://vod.afreecatv.com/player/station/"
+        ],
+        [
+          "https://play.afreecatv.com/"
+        ]
+      ],
+      "name": "afreecaTV",
+      "url": "https://www.afreecatv.com",
+      "domainWithoutSuffixOfUrl": "afreecatv",
+      "oembedUrl": "https://openapi.afreecatv.com/oembed/embedinfo",
+      "domainWithoutSuffixOfOembedUrl": "afreecatv"
+    },
+    {
+      "schemes": [
+        [
+          "https://altium.com/viewer/",
+          ""
+        ]
+      ],
+      "name": "Altium LLC",
+      "url": "https://altium.com",
+      "domainWithoutSuffixOfUrl": "altium",
+      "oembedUrl": "https://viewer.altium.com/shell/oembed",
+      "domainWithoutSuffixOfOembedUrl": "altium"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.altrulabs.com/",
+          "/",
+          "?answer_id=",
+          ""
+        ],
+        [
+          "https://app.altrulabs.com/player/",
+          ""
+        ]
+      ],
+      "name": "Altru",
+      "url": "https://www.altrulabs.com",
+      "domainWithoutSuffixOfUrl": "altrulabs",
+      "oembedUrl": "https://api.altrulabs.com/api/v1/social/oembed",
+      "domainWithoutSuffixOfOembedUrl": "altrulabs"
+    },
+    {
+      "schemes": [
+        [
+          "http://live.amcharts.com/",
+          ""
+        ],
+        [
+          "https://live.amcharts.com/",
+          ""
+        ]
+      ],
+      "name": "amCharts Live Editor",
+      "url": "https://live.amcharts.com/",
+      "domainWithoutSuffixOfUrl": "amcharts",
+      "oembedUrl": "https://live.amcharts.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "amcharts"
+    },
+    {
+      "schemes": [
+        [
+          "https://amtraker.com/trains/",
+          ""
+        ],
+        [
+          "https://amtraker.com/trains/",
+          "/",
+          ""
+        ],
+        [
+          "https://",
+          ".amtraker.com/trains/",
+          ""
+        ],
+        [
+          "https://",
+          ".amtraker.com/trains/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Amtraker",
+      "url": "https://amtraker.com",
+      "domainWithoutSuffixOfUrl": "amtraker",
+      "oembedUrl": "https://api.amtraker.com/v3/oembed",
+      "domainWithoutSuffixOfOembedUrl": "amtraker"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.animatron.com/project/",
+          ""
+        ],
+        [
+          "https://animatron.com/project/",
+          ""
+        ]
+      ],
+      "name": "Animatron",
+      "url": "https://www.animatron.com/",
+      "domainWithoutSuffixOfUrl": "animatron",
+      "oembedUrl": "https://animatron.com/oembed/json",
+      "domainWithoutSuffixOfOembedUrl": "animatron"
+    },
+    {
+      "schemes": [
+        [
+          "http://animoto.com/play/",
+          ""
+        ]
+      ],
+      "name": "Animoto",
+      "url": "http://animoto.com/",
+      "domainWithoutSuffixOfUrl": "animoto",
+      "oembedUrl": "http://animoto.com/oembeds/create",
+      "domainWithoutSuffixOfOembedUrl": "animoto"
+    },
+    {
+      "schemes": [
+        [
+          "https://anniemusic.app/t/",
+          ""
+        ],
+        [
+          "https://anniemusic.app/p/",
+          ""
+        ]
+      ],
+      "name": "AnnieMusic",
+      "url": "https://anniemusic.app",
+      "domainWithoutSuffixOfUrl": "anniemusic",
+      "oembedUrl": "https://api.anniemusic.app/api/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "anniemusic"
+    },
+    {
+      "schemes": [
+        [
+          "https://appforcestudio.com/playground/",
+          ""
+        ]
+      ],
+      "name": "AppForceStudio",
+      "url": "https://appforcestudio.com",
+      "domainWithoutSuffixOfUrl": "appforcestudio",
+      "oembedUrl": "https://us-central1-themerax-cc903.cloudfunctions.net/playgroundApi/oembed",
+      "domainWithoutSuffixOfOembedUrl": "cloudfunctions"
+    },
+    {
+      "schemes": [
+        [
+          "https://storymaps.arcgis.com/stories/",
+          ""
+        ]
+      ],
+      "name": "ArcGIS StoryMaps",
+      "url": "https://storymaps.arcgis.com",
+      "domainWithoutSuffixOfUrl": "arcgis",
+      "oembedUrl": "https://storymaps.arcgis.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "arcgis"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.archivos.digital/app/view/",
+          ""
+        ]
+      ],
+      "name": "Archivos",
+      "url": "https://app.archivos.digital",
+      "domainWithoutSuffixOfUrl": "archivos",
+      "oembedUrl": "https://app.archivos.digital/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "archivos"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".studio.assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "http://studio.assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "http://",
+          ".app-edu.assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "http://app-edu.assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "http://assemblr.world/",
+          ""
+        ],
+        [
+          "http://editor.assemblrworld.com/",
+          ""
+        ],
+        [
+          "http://",
+          ".assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "http://",
+          ".assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "https://",
+          ".studio.assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "https://studio.assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "https://",
+          ".app-edu.assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "https://app-edu.assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "https://assemblr.world/",
+          ""
+        ],
+        [
+          "https://editor.assemblrworld.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".assemblrworld.com/creation/",
+          ""
+        ],
+        [
+          "https://",
+          ".assemblrworld.com/creation/",
+          ""
+        ]
+      ],
+      "name": "AssemblrWorld",
+      "url": "https://assemblrworld.com/",
+      "domainWithoutSuffixOfUrl": "assemblrworld",
+      "oembedUrl": "https://studio.assemblrworld.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "assemblrworld"
+    },
+    {
+      "schemes": [
+        [
+          "https://audio.com/",
+          ""
+        ],
+        [
+          "https://www.audio.com/",
+          ""
+        ],
+        [
+          "http://audio.com/",
+          ""
+        ],
+        [
+          "http://www.audio.com/",
+          ""
+        ]
+      ],
+      "name": "audio.com",
+      "url": "https://audio.com/",
+      "domainWithoutSuffixOfUrl": "audio",
+      "oembedUrl": "https://api.audio.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "audio"
+    },
+    {
+      "schemes": [
+        [
+          "https://audioboom.com/channels/",
+          ""
+        ],
+        [
+          "https://audioboom.com/channel/",
+          ""
+        ],
+        [
+          "https://audioboom.com/playlists/",
+          ""
+        ],
+        [
+          "https://audioboom.com/podcasts/",
+          ""
+        ],
+        [
+          "https://audioboom.com/podcast/",
+          ""
+        ],
+        [
+          "https://audioboom.com/posts/",
+          ""
+        ],
+        [
+          "https://audioboom.com/episodes/",
+          ""
+        ]
+      ],
+      "name": "Audioboom",
+      "url": "https://audioboom.com",
+      "domainWithoutSuffixOfUrl": "audioboom",
+      "oembedUrl": "https://audioboom.com/publishing/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "audioboom"
+    },
+    {
+      "schemes": [
+        [
+          "https://audioclip.naver.com/channels/",
+          "/clips/",
+          ""
+        ],
+        [
+          "https://audioclip.naver.com/audiobooks/",
+          ""
+        ]
+      ],
+      "name": "AudioClip",
+      "url": "https://audioclip.naver.com",
+      "domainWithoutSuffixOfUrl": "naver",
+      "oembedUrl": "https://audioclip.naver.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "naver"
+    },
+    {
+      "schemes": [
+        [
+          "https://audiomack.com/",
+          "/song/",
+          ""
+        ],
+        [
+          "https://audiomack.com/",
+          "/album/",
+          ""
+        ],
+        [
+          "https://audiomack.com/",
+          "/playlist/",
+          ""
+        ]
+      ],
+      "name": "Audiomack",
+      "url": "https://audiomack.com",
+      "domainWithoutSuffixOfUrl": "audiomack",
+      "oembedUrl": "https://audiomack.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "audiomack"
+    },
+    {
+      "schemes": [
+        [
+          "https://podcasts.audiomeans.fr/",
+          ""
+        ]
+      ],
+      "name": "Audiomeans",
+      "url": "https://audiomeans.fr",
+      "domainWithoutSuffixOfUrl": "audiomeans",
+      "oembedUrl": "https://podcasts.audiomeans.fr/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "audiomeans"
+    },
+    {
+      "schemes": [
+        [
+          "https://audius.co/",
+          ""
+        ]
+      ],
+      "name": "Audius",
+      "url": "https://audius.co",
+      "domainWithoutSuffixOfUrl": "audius",
+      "oembedUrl": "https://audius.co/oembed",
+      "domainWithoutSuffixOfOembedUrl": "audius"
+    },
+    {
+      "schemes": [
+        [
+          "https://backtracks.fm/",
+          "/",
+          "/e/",
+          ""
+        ],
+        [
+          "https://backtracks.fm/",
+          "/s/",
+          "/",
+          ""
+        ],
+        [
+          "https://backtracks.fm/",
+          "/",
+          "/",
+          "/",
+          "/e/",
+          "/",
+          ""
+        ],
+        [
+          "https://backtracks.fm/",
+          ""
+        ],
+        [
+          "http://backtracks.fm/",
+          ""
+        ]
+      ],
+      "name": "Backtracks",
+      "url": "https://backtracks.fm",
+      "domainWithoutSuffixOfUrl": "backtracks",
+      "oembedUrl": "https://backtracks.fm/oembed",
+      "domainWithoutSuffixOfOembedUrl": "backtracks"
+    },
+    {
+      "schemes": [
+        [
+          "https://balsamiq.cloud/",
+          ""
+        ]
+      ],
+      "name": "Balsamiq Cloud",
+      "url": "https://balsamiq.cloud/",
+      "domainWithoutSuffixOfUrl": "balsamiq",
+      "oembedUrl": "https://balsamiq.cloud/oembed",
+      "domainWithoutSuffixOfOembedUrl": "balsamiq"
+    },
+    {
+      "schemes": [
+        [
+          "https://beams.fm/",
+          ""
+        ]
+      ],
+      "name": "Beams.fm",
+      "url": "http://beams.fm",
+      "domainWithoutSuffixOfUrl": "beams",
+      "oembedUrl": "https://api.beams.fm/oEmbed",
+      "domainWithoutSuffixOfOembedUrl": "beams"
+    },
+    {
+      "schemes": [],
+      "name": "Beautiful.AI",
+      "url": "https://www.beautiful.ai/",
+      "domainWithoutSuffixOfUrl": "beautiful",
+      "oembedUrl": "https://www.beautiful.ai/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "beautiful"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.behance.net/gallery/",
+          "/",
+          ""
+        ],
+        [
+          "https://www.behance.net/",
+          "/services/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Behance",
+      "url": "https://www.behance.net",
+      "domainWithoutSuffixOfUrl": "behance",
+      "oembedUrl": "https://www.behance.net/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "behance"
+    },
+    {
+      "schemes": [
+        [
+          "http://beta.quellensuche.de/",
+          ""
+        ]
+      ],
+      "name": "Beta QuellenSuche",
+      "url": "http://beta.quellensuche.de",
+      "domainWithoutSuffixOfUrl": "quellensuche",
+      "oembedUrl": "http://beta.quellensuche.de/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "quellensuche"
+    },
+    {
+      "schemes": [
+        [
+          "https://cloud.biqapp.com/",
+          ""
+        ]
+      ],
+      "name": "biqnetwork",
+      "url": "https://biqapp.com/",
+      "domainWithoutSuffixOfUrl": "biqapp",
+      "oembedUrl": "https://biqapp.com/api/v1/video/oembed",
+      "domainWithoutSuffixOfOembedUrl": "biqapp"
+    },
+    {
+      "schemes": [],
+      "name": "Bitchute",
+      "url": "https://bitchute.com/",
+      "domainWithoutSuffixOfUrl": "bitchute",
+      "oembedUrl": "https://api.bitchute.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "bitchute"
+    },
+    {
+      "schemes": [
+        [
+          "https://blackfire.io/profiles/",
+          "/graph"
+        ],
+        [
+          "https://blackfire.io/profiles/compare/",
+          "/graph"
+        ]
+      ],
+      "name": "Blackfire.io",
+      "url": "https://blackfire.io",
+      "domainWithoutSuffixOfUrl": "blackfire",
+      "oembedUrl": "https://blackfire.io/oembed",
+      "domainWithoutSuffixOfOembedUrl": "blackfire"
+    },
+    {
+      "schemes": [
+        [
+          "https://blogcast.host/embed/",
+          ""
+        ],
+        [
+          "https://blogcast.host/embedly/",
+          ""
+        ]
+      ],
+      "name": "Blogcast",
+      "url": "https://blogcast.host/",
+      "domainWithoutSuffixOfUrl": "blogcast",
+      "oembedUrl": "https://blogcast.host/oembed",
+      "domainWithoutSuffixOfOembedUrl": "blogcast"
+    },
+    {
+      "schemes": [
+        [
+          "https://bsky.app/profile/",
+          "/post/",
+          ""
+        ]
+      ],
+      "name": "Bluesky Social",
+      "url": "https://bsky.app",
+      "domainWithoutSuffixOfUrl": "bsky",
+      "oembedUrl": "https://embed.bsky.app/oembed",
+      "domainWithoutSuffixOfOembedUrl": "bsky"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.bookingmood.com/embed/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Bookingmood",
+      "url": "https://www.bookingmood.com",
+      "domainWithoutSuffixOfUrl": "bookingmood",
+      "oembedUrl": "https://bookingmood.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "bookingmood"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.bornetube.dk/media/",
+          ""
+        ],
+        [
+          "https://www.bornetube.dk/video/",
+          ""
+        ]
+      ],
+      "name": "Bornetube",
+      "url": "https://www.bornetube.dk/",
+      "domainWithoutSuffixOfUrl": "bornetube",
+      "oembedUrl": "https://www.bornetube.dk/media/lasync/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "bornetube"
+    },
+    {
+      "schemes": [
+        [
+          "https://boxofficebuz.com/embed/video/",
+          ""
+        ]
+      ],
+      "name": "Box Office Buz",
+      "url": "https://boxofficebuz.com",
+      "domainWithoutSuffixOfUrl": "boxofficebuz",
+      "oembedUrl": "https://api.boxofficebuz.com/v2/oembed",
+      "domainWithoutSuffixOfOembedUrl": "boxofficebuz"
+    },
+    {
+      "schemes": [
+        [
+          "https://view.briovr.com/api/v1/worlds/oembed/",
+          ""
+        ]
+      ],
+      "name": "BrioVR",
+      "url": "https://view.briovr.com/",
+      "domainWithoutSuffixOfUrl": "briovr",
+      "oembedUrl": "https://view.briovr.com/api/v1/worlds/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "briovr"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.bumper.com/oembed/bumper"
+        ],
+        [
+          "https://www.bumper.com/oembed-s/bumper"
+        ]
+      ],
+      "name": "Bumper",
+      "url": "http://www.bumper.com",
+      "domainWithoutSuffixOfUrl": "bumper",
+      "oembedUrl": "https://www.bumper.com/oembed/bumper",
+      "domainWithoutSuffixOfOembedUrl": "bumper"
+    },
+    {
+      "schemes": [
+        [
+          "https://iframe.mediadelivery.net/",
+          ""
+        ],
+        [
+          "http://iframe.mediadelivery.net/",
+          ""
+        ],
+        [
+          "https://video.bunnycdn.com/",
+          ""
+        ],
+        [
+          "http://video.bunnycdn.com/",
+          ""
+        ]
+      ],
+      "name": "Bunny",
+      "url": "https://bunny.net/",
+      "domainWithoutSuffixOfUrl": "bunny",
+      "oembedUrl": "https://video.bunnycdn.com/OEmbed",
+      "domainWithoutSuffixOfOembedUrl": "bunnycdn"
+    },
+    {
+      "schemes": [
+        [
+          "https://buttondown.email/",
+          ""
+        ]
+      ],
+      "name": "Buttondown",
+      "url": "https://buttondown.email/",
+      "domainWithoutSuffixOfUrl": "buttondown",
+      "oembedUrl": "https://buttondown.email/embed",
+      "domainWithoutSuffixOfOembedUrl": "buttondown"
+    },
+    {
+      "schemes": [
+        [
+          "https://cmc.byzart.eu/files/",
+          ""
+        ]
+      ],
+      "name": "Byzart Project",
+      "url": "https://cmc.byzart.eu",
+      "domainWithoutSuffixOfUrl": "byzart",
+      "oembedUrl": "https://cmc.byzart.eu/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "byzart"
+    },
+    {
+      "schemes": [
+        [
+          "https://cacoo.com/diagrams/",
+          ""
+        ]
+      ],
+      "name": "Cacoo",
+      "url": "https://cacoo.com",
+      "domainWithoutSuffixOfUrl": "cacoo",
+      "oembedUrl": "http://cacoo.com/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "cacoo"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.canva.com/design/",
+          "/view"
+        ]
+      ],
+      "name": "Canva",
+      "url": "https://www.canva.com",
+      "domainWithoutSuffixOfUrl": "canva",
+      "oembedUrl": "https://www.canva.com/_oembed",
+      "domainWithoutSuffixOfOembedUrl": "canva"
+    },
+    {
+      "schemes": [
+        [
+          "https://carbon.music/",
+          ""
+        ],
+        [
+          "https://www.carbon.music/",
+          ""
+        ]
+      ],
+      "name": "Carbon",
+      "url": "https://carbon.music/",
+      "domainWithoutSuffixOfUrl": "carbon",
+      "oembedUrl": "https://carbon.music/oembed",
+      "domainWithoutSuffixOfOembedUrl": "carbon"
+    },
+    {
+      "schemes": [
+        [
+          "http://minesweeper.today/",
+          ""
+        ],
+        [
+          "https://minesweeper.today/",
+          ""
+        ]
+      ],
+      "name": "Cardinal Blue",
+      "url": "https://minesweeper.today/",
+      "domainWithoutSuffixOfUrl": "minesweeper",
+      "oembedUrl": "https://minesweeper.today/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "minesweeper"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.castmake-ai.com/c/",
+          "/episodes/",
+          ""
+        ]
+      ],
+      "name": "castmake",
+      "url": "https://www.castmake-ai.com",
+      "domainWithoutSuffixOfUrl": "castmake-ai",
+      "oembedUrl": "http://castmake-ai.com/api/embed",
+      "domainWithoutSuffixOfOembedUrl": "castmake-ai"
+    },
+    {
+      "schemes": [
+        [
+          "http://img.catbo.at/",
+          ""
+        ]
+      ],
+      "name": "CatBoat",
+      "url": "http://img.catbo.at/",
+      "domainWithoutSuffixOfUrl": "catbo",
+      "oembedUrl": "http://img.catbo.at/oembed.json",
+      "domainWithoutSuffixOfOembedUrl": "catbo"
+    },
+    {
+      "schemes": [
+        [
+          "https://embeds.celero.io/",
+          ""
+        ]
+      ],
+      "name": "Celero",
+      "url": "https://www.celero.io",
+      "domainWithoutSuffixOfUrl": "celero",
+      "oembedUrl": "https://api.celero.io/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "celero"
+    },
+    {
+      "schemes": [
+        [
+          "http://view.ceros.com/",
+          ""
+        ],
+        [
+          "https://view.ceros.com/",
+          ""
+        ]
+      ],
+      "name": "Ceros",
+      "url": "http://www.ceros.com/",
+      "domainWithoutSuffixOfUrl": "ceros",
+      "oembedUrl": "http://view.ceros.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "ceros"
+    },
+    {
+      "schemes": [
+        [
+          "https://chainflix.net/video/",
+          ""
+        ],
+        [
+          "https://chainflix.net/video/embed/",
+          ""
+        ],
+        [
+          "https://",
+          ".chainflix.net/video/",
+          ""
+        ],
+        [
+          "https://",
+          ".chainflix.net/video/embed/",
+          ""
+        ]
+      ],
+      "name": "Chainflix",
+      "url": "https://chainflix.net",
+      "domainWithoutSuffixOfUrl": "chainflix",
+      "oembedUrl": "https://www.chainflix.net/video/oembed",
+      "domainWithoutSuffixOfOembedUrl": "chainflix"
+    },
+    {
+      "schemes": [
+        [
+          "http://public.chartblocks.com/c/",
+          ""
+        ]
+      ],
+      "name": "ChartBlocks",
+      "url": "http://www.chartblocks.com/",
+      "domainWithoutSuffixOfUrl": "chartblocks",
+      "oembedUrl": "http://embed.chartblocks.com/1.0/oembed",
+      "domainWithoutSuffixOfOembedUrl": "chartblocks"
+    },
+    {
+      "schemes": [
+        [
+          "http://chirb.it/",
+          ""
+        ]
+      ],
+      "name": "chirbit.com",
+      "url": "http://www.chirbit.com/",
+      "domainWithoutSuffixOfUrl": "chirbit",
+      "oembedUrl": "http://chirb.it/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "chirb"
+    },
+    {
+      "schemes": [
+        [
+          "https://chroco.ooo/mypage/",
+          ""
+        ],
+        [
+          "https://chroco.ooo/story/",
+          ""
+        ]
+      ],
+      "name": "CHROCO",
+      "url": "https://chroco.ooo/",
+      "domainWithoutSuffixOfUrl": "chroco",
+      "oembedUrl": "https://chroco.ooo/embed",
+      "domainWithoutSuffixOfOembedUrl": "chroco"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.circuitlab.com/circuit/",
+          ""
+        ]
+      ],
+      "name": "CircuitLab",
+      "url": "https://www.circuitlab.com/",
+      "domainWithoutSuffixOfUrl": "circuitlab",
+      "oembedUrl": "https://www.circuitlab.com/circuit/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "circuitlab"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.clipland.com/v/",
+          ""
+        ],
+        [
+          "https://www.clipland.com/v/",
+          ""
+        ]
+      ],
+      "name": "Clipland",
+      "url": "http://www.clipland.com/",
+      "domainWithoutSuffixOfUrl": "clipland",
+      "oembedUrl": "https://www.clipland.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "clipland"
+    },
+    {
+      "schemes": [
+        [
+          "https://clueso.site/",
+          ""
+        ]
+      ],
+      "name": "Clueso",
+      "url": "https://clueso.io",
+      "domainWithoutSuffixOfUrl": "clueso",
+      "oembedUrl": "https://clueso.site/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "clueso"
+    },
+    {
+      "schemes": [
+        [
+          "http://clyp.it/",
+          ""
+        ],
+        [
+          "http://clyp.it/playlist/",
+          ""
+        ]
+      ],
+      "name": "Clyp",
+      "url": "http://clyp.it/",
+      "domainWithoutSuffixOfUrl": "clyp",
+      "oembedUrl": "http://api.clyp.it/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "clyp"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.ilovecoco.video/",
+          "/embed"
+        ]
+      ],
+      "name": "CoCo Corp",
+      "url": "https://ilovecoco.video",
+      "domainWithoutSuffixOfUrl": "ilovecoco",
+      "oembedUrl": "https://app.ilovecoco.video/api/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "ilovecoco"
+    },
+    {
+      "schemes": [
+        [
+          "https://codehs.com/editor/share_abacus/",
+          ""
+        ]
+      ],
+      "name": "CodeHS",
+      "url": "http://www.codehs.com",
+      "domainWithoutSuffixOfUrl": "codehs",
+      "oembedUrl": "https://codehs.com/api/sharedprogram/1/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "codehs"
+    },
+    {
+      "schemes": [
+        [
+          "http://codepen.io/",
+          ""
+        ],
+        [
+          "https://codepen.io/",
+          ""
+        ]
+      ],
+      "name": "CodePen",
+      "url": "https://codepen.io",
+      "domainWithoutSuffixOfUrl": "codepen",
+      "oembedUrl": "https://codepen.io/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "codepen"
+    },
+    {
+      "schemes": [
+        [
+          "http://codepoints.net/",
+          ""
+        ],
+        [
+          "https://codepoints.net/",
+          ""
+        ],
+        [
+          "http://www.codepoints.net/",
+          ""
+        ],
+        [
+          "https://www.codepoints.net/",
+          ""
+        ]
+      ],
+      "name": "Codepoints",
+      "url": "https://codepoints.net",
+      "domainWithoutSuffixOfUrl": "codepoints",
+      "oembedUrl": "https://codepoints.net/api/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "codepoints"
+    },
+    {
+      "schemes": [
+        [
+          "https://codesandbox.io/s/",
+          ""
+        ],
+        [
+          "https://codesandbox.io/embed/",
+          ""
+        ]
+      ],
+      "name": "CodeSandbox",
+      "url": "https://codesandbox.io",
+      "domainWithoutSuffixOfUrl": "codesandbox",
+      "oembedUrl": "https://codesandbox.io/oembed",
+      "domainWithoutSuffixOfOembedUrl": "codesandbox"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.collegehumor.com/video/",
+          ""
+        ]
+      ],
+      "name": "CollegeHumor",
+      "url": "http://www.collegehumor.com/",
+      "domainWithoutSuffixOfUrl": "collegehumor",
+      "oembedUrl": "http://www.collegehumor.com/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "collegehumor"
+    },
+    {
+      "schemes": [
+        [
+          "https://commaful.com/play/",
+          ""
+        ]
+      ],
+      "name": "Commaful",
+      "url": "https://commaful.com",
+      "domainWithoutSuffixOfUrl": "commaful",
+      "oembedUrl": "https://commaful.com/api/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "commaful"
+    },
+    {
+      "schemes": [
+        [
+          "http://coub.com/view/",
+          ""
+        ],
+        [
+          "http://coub.com/embed/",
+          ""
+        ]
+      ],
+      "name": "Coub",
+      "url": "http://coub.com/",
+      "domainWithoutSuffixOfUrl": "coub",
+      "oembedUrl": "http://coub.com/api/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "coub"
+    },
+    {
+      "schemes": [
+        [
+          "http://crowdranking.com/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Crowd Ranking",
+      "url": "http://crowdranking.com",
+      "domainWithoutSuffixOfUrl": "crowdranking",
+      "oembedUrl": "http://crowdranking.com/api/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "crowdranking"
+    },
+    {
+      "schemes": [
+        [
+          "https://crumb.sh/",
+          ""
+        ]
+      ],
+      "name": "Crumb.sh",
+      "url": "https://crumb.sh",
+      "domainWithoutSuffixOfUrl": "crumb",
+      "oembedUrl": "https://crumb.sh/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "crumb"
+    },
+    {
+      "schemes": [
+        [
+          "https://cueup.io/user/",
+          "/sounds/",
+          ""
+        ]
+      ],
+      "name": "Cueup DJ Booking",
+      "url": "https://cueup.io",
+      "domainWithoutSuffixOfUrl": "cueup",
+      "oembedUrl": "https://gql.cueup.io/oembed",
+      "domainWithoutSuffixOfOembedUrl": "cueup"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".curated.co/",
+          ""
+        ]
+      ],
+      "name": "Curated",
+      "url": "https://curated.co/",
+      "domainWithoutSuffixOfUrl": "curated",
+      "oembedUrl": "https://api.curated.co/oembed",
+      "domainWithoutSuffixOfOembedUrl": "curated"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.customerdb.com/share/",
+          ""
+        ]
+      ],
+      "name": "CustomerDB",
+      "url": "http://customerdb.com/",
+      "domainWithoutSuffixOfUrl": "customerdb",
+      "oembedUrl": "https://app.customerdb.com/embed",
+      "domainWithoutSuffixOfOembedUrl": "customerdb"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.dadan.io/",
+          ""
+        ],
+        [
+          "https://stage.dadan.io/",
+          ""
+        ]
+      ],
+      "name": "dadan",
+      "url": "https://www.dadan.io",
+      "domainWithoutSuffixOfUrl": "dadan",
+      "oembedUrl": "https://app.dadan.io/api/video/oembed",
+      "domainWithoutSuffixOfOembedUrl": "dadan"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.dailymotion.com/video/",
+          ""
+        ],
+        [
+          "https://geo.dailymotion.com/player.html?video=",
+          ""
+        ]
+      ],
+      "name": "Dailymotion",
+      "url": "https://www.dailymotion.com",
+      "domainWithoutSuffixOfUrl": "dailymotion",
+      "oembedUrl": "https://www.dailymotion.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "dailymotion"
+    },
+    {
+      "schemes": [
+        [
+          "https://dalexni.com/i/",
+          ""
+        ]
+      ],
+      "name": "DALEXNI",
+      "url": "https://dalexni.com/",
+      "domainWithoutSuffixOfUrl": "dalexni",
+      "oembedUrl": "https://dalexni.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "dalexni"
+    },
+    {
+      "schemes": [
+        [
+          "https://datawrapper.dwcdn.net/",
+          ""
+        ]
+      ],
+      "name": "Datawrapper",
+      "url": "http://www.datawrapper.de",
+      "domainWithoutSuffixOfUrl": "datawrapper",
+      "oembedUrl": "https://api.datawrapper.de/v3/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "datawrapper"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".deseret.com/",
+          ""
+        ]
+      ],
+      "name": "Deseret News",
+      "url": "https://www.deseret.com",
+      "domainWithoutSuffixOfUrl": "deseret",
+      "oembedUrl": "https://embed.deseret.com/",
+      "domainWithoutSuffixOfOembedUrl": "deseret"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".deviantart.com/art/",
+          ""
+        ],
+        [
+          "http://",
+          ".deviantart.com/",
+          "#/d",
+          ""
+        ],
+        [
+          "http://fav.me/",
+          ""
+        ],
+        [
+          "http://sta.sh/",
+          ""
+        ],
+        [
+          "https://",
+          ".deviantart.com/art/",
+          ""
+        ],
+        [
+          "https://",
+          ".deviantart.com/",
+          "/art/",
+          ""
+        ],
+        [
+          "https://sta.sh/",
+          ""
+        ],
+        [
+          "https://",
+          ".deviantart.com/",
+          "#/d",
+          ""
+        ]
+      ],
+      "name": "Deviantart.com",
+      "url": "http://www.deviantart.com",
+      "domainWithoutSuffixOfUrl": "deviantart",
+      "oembedUrl": "http://backend.deviantart.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "deviantart"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.ultimedia.com/central/video/edit/id/",
+          "/topic_id/",
+          "/"
+        ],
+        [
+          "https://www.ultimedia.com/default/index/videogeneric/id/",
+          "/showtitle/1/viewnc/1"
+        ],
+        [
+          "https://www.ultimedia.com/default/index/videogeneric/id/",
+          ""
+        ]
+      ],
+      "name": "Digiteka",
+      "url": "https://www.ultimedia.com/",
+      "domainWithoutSuffixOfUrl": "ultimedia",
+      "oembedUrl": "https://www.ultimedia.com/api/search/oembed",
+      "domainWithoutSuffixOfOembedUrl": "ultimedia"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".docdroid.net/",
+          ""
+        ],
+        [
+          "http://",
+          ".docdroid.net/",
+          ""
+        ],
+        [
+          "https://docdro.id/",
+          ""
+        ],
+        [
+          "http://docdro.id/",
+          ""
+        ],
+        [
+          "https://",
+          ".docdroid.com/",
+          ""
+        ],
+        [
+          "http://",
+          ".docdroid.com/",
+          ""
+        ]
+      ],
+      "name": "DocDroid",
+      "url": "https://www.docdroid.net/",
+      "domainWithoutSuffixOfUrl": "docdroid",
+      "oembedUrl": "https://www.docdroid.net/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "docdroid"
+    },
+    {
+      "schemes": [
+        [
+          "http://docswell.com/s/",
+          "/",
+          ""
+        ],
+        [
+          "https://docswell.com/s/",
+          "/",
+          ""
+        ],
+        [
+          "http://www.docswell.com/s/",
+          "/",
+          ""
+        ],
+        [
+          "https://www.docswell.com/s/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Docswell",
+      "url": "https://docswell.com",
+      "domainWithoutSuffixOfUrl": "docswell",
+      "oembedUrl": "https://www.docswell.com/service/oembed",
+      "domainWithoutSuffixOfOembedUrl": "docswell"
+    },
+    {
+      "schemes": [
+        [
+          "http://dotsub.com/view/",
+          ""
+        ]
+      ],
+      "name": "Dotsub",
+      "url": "http://dotsub.com/",
+      "domainWithoutSuffixOfUrl": "dotsub",
+      "oembedUrl": "http://dotsub.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "dotsub"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.dreambroker.com/channel/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Dream Broker",
+      "url": "https://dreambroker.com",
+      "domainWithoutSuffixOfUrl": "dreambroker",
+      "oembedUrl": "https://dreambroker.com/channel/oembed",
+      "domainWithoutSuffixOfOembedUrl": "dreambroker"
+    },
+    {
+      "schemes": [
+        [
+          "https://d.tube/v/",
+          ""
+        ]
+      ],
+      "name": "DTube",
+      "url": "https://d.tube/",
+      "domainWithoutSuffixOfUrl": "d",
+      "oembedUrl": "https://api.d.tube/oembed",
+      "domainWithoutSuffixOfOembedUrl": "d"
+    },
+    {
+      "schemes": [
+        [
+          "http://app.echoeshq.com/embed/",
+          ""
+        ]
+      ],
+      "name": "EchoesHQ",
+      "url": "https://echoeshq.com",
+      "domainWithoutSuffixOfUrl": "echoeshq",
+      "oembedUrl": "https://api.echoeshq.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "echoeshq"
+    },
+    {
+      "schemes": [],
+      "name": "eduMedia",
+      "url": "https://www.edumedia-sciences.com/",
+      "domainWithoutSuffixOfUrl": "edumedia-sciences",
+      "oembedUrl": "https://www.edumedia-sciences.com/oembed.json",
+      "domainWithoutSuffixOfOembedUrl": "edumedia-sciences"
+    },
+    {
+      "schemes": [],
+      "name": "eduMedia",
+      "url": "https://www.edumedia-sciences.com/",
+      "domainWithoutSuffixOfUrl": "edumedia-sciences",
+      "oembedUrl": "https://www.edumedia-sciences.com/oembed.xml",
+      "domainWithoutSuffixOfOembedUrl": "edumedia-sciences"
+    },
+    {
+      "schemes": [
+        [
+          "http://egliseinfo.catholique.fr/",
+          ""
+        ]
+      ],
+      "name": "EgliseInfo",
+      "url": "http://egliseinfo.catholique.fr/",
+      "domainWithoutSuffixOfUrl": "catholique",
+      "oembedUrl": "http://egliseinfo.catholique.fr/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "catholique"
+    },
+    {
+      "schemes": [
+        [
+          "https://elevenlabs.io/",
+          ""
+        ]
+      ],
+      "name": "ElevenLabs",
+      "url": "https://elevenlabs.io/",
+      "domainWithoutSuffixOfUrl": "elevenlabs",
+      "oembedUrl": "https://elevenlabs.io/next/oembed",
+      "domainWithoutSuffixOfOembedUrl": "elevenlabs"
+    },
+    {
+      "schemes": [
+        [
+          "https://embedery.com/widget/",
+          ""
+        ]
+      ],
+      "name": "Embedery",
+      "url": "https://embedery.com/",
+      "domainWithoutSuffixOfUrl": "embedery",
+      "oembedUrl": "https://embedery.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "embedery"
+    },
+    {
+      "schemes": [
+        [
+          "https://ethfiddle.com/",
+          ""
+        ]
+      ],
+      "name": "Ethfiddle",
+      "url": "https://www.ethfiddle.com/",
+      "domainWithoutSuffixOfUrl": "ethfiddle",
+      "oembedUrl": "https://ethfiddle.com/services/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "ethfiddle"
+    },
+    {
+      "schemes": [
+        [
+          "https://evt.live/",
+          ""
+        ],
+        [
+          "https://evt.live/",
+          "/",
+          ""
+        ],
+        [
+          "https://live.eventlive.pro/",
+          ""
+        ],
+        [
+          "https://live.eventlive.pro/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "EventLive",
+      "url": "https://eventlive.pro",
+      "domainWithoutSuffixOfUrl": "eventlive",
+      "oembedUrl": "https://evt.live/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "evt"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.everviz.com/embed/",
+          ""
+        ],
+        [
+          "http://app.everviz.com/embed/",
+          ""
+        ]
+      ],
+      "name": "everviz",
+      "url": "https://everviz.com",
+      "domainWithoutSuffixOfUrl": "everviz",
+      "oembedUrl": "https://api.everviz.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "everviz"
+    },
+    {
+      "schemes": [
+        [
+          "https://cdn.everwall.com/hubs/iframe/",
+          ""
+        ]
+      ],
+      "name": "Everwall",
+      "url": "https://everwall.com",
+      "domainWithoutSuffixOfUrl": "everwall",
+      "oembedUrl": "https://cdn.everwall.com/hubs/oembed",
+      "domainWithoutSuffixOfOembedUrl": "everwall"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.ex.co/stories/",
+          ""
+        ],
+        [
+          "https://www.playbuzz.com/",
+          ""
+        ]
+      ],
+      "name": "Ex.Co",
+      "url": "https://ex.co",
+      "domainWithoutSuffixOfUrl": "ex",
+      "oembedUrl": "https://oembed.ex.co/item",
+      "domainWithoutSuffixOfOembedUrl": "ex"
+    },
+    {
+      "schemes": [
+        [
+          "https://eyrie.io/board/",
+          ""
+        ],
+        [
+          "https://eyrie.io/sparkfun/",
+          ""
+        ]
+      ],
+      "name": "Eyrie",
+      "url": "https://eyrie.io/",
+      "domainWithoutSuffixOfUrl": "eyrie",
+      "oembedUrl": "https://eyrie.io/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "eyrie"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.facebook.com/",
+          "/posts/",
+          ""
+        ],
+        [
+          "https://www.facebook.com/",
+          "/activity/",
+          ""
+        ],
+        [
+          "https://www.facebook.com/",
+          "/photos/",
+          ""
+        ],
+        [
+          "https://www.facebook.com/photo.php?fbid=",
+          ""
+        ],
+        [
+          "https://www.facebook.com/photos/",
+          ""
+        ],
+        [
+          "https://www.facebook.com/permalink.php?story_fbid=",
+          ""
+        ],
+        [
+          "https://www.facebook.com/media/set?set=",
+          ""
+        ],
+        [
+          "https://www.facebook.com/questions/",
+          ""
+        ],
+        [
+          "https://www.facebook.com/notes/",
+          "/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Facebook",
+      "url": "https://www.facebook.com/",
+      "domainWithoutSuffixOfUrl": "facebook",
+      "oembedUrl": "https://graph.facebook.com/v16.0/oembed_post",
+      "domainWithoutSuffixOfOembedUrl": "facebook"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.facebook.com/",
+          "/videos/",
+          ""
+        ],
+        [
+          "https://www.facebook.com/video.php?id=",
+          ""
+        ],
+        [
+          "https://www.facebook.com/video.php?v=",
+          ""
+        ]
+      ],
+      "name": "Facebook",
+      "url": "https://www.facebook.com/",
+      "domainWithoutSuffixOfUrl": "facebook",
+      "oembedUrl": "https://graph.facebook.com/v16.0/oembed_video",
+      "domainWithoutSuffixOfOembedUrl": "facebook"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.facebook.com/",
+          ""
+        ]
+      ],
+      "name": "Facebook",
+      "url": "https://www.facebook.com/",
+      "domainWithoutSuffixOfUrl": "facebook",
+      "oembedUrl": "https://graph.facebook.com/v16.0/oembed_page",
+      "domainWithoutSuffixOfOembedUrl": "facebook"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.getfader.com/projects/",
+          "/publish"
+        ]
+      ],
+      "name": "Fader",
+      "url": "https://app.getfader.com",
+      "domainWithoutSuffixOfUrl": "getfader",
+      "oembedUrl": "https://app.getfader.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "getfader"
+    },
+    {
+      "schemes": [
+        [
+          "https://faithlifetv.com/items/",
+          ""
+        ],
+        [
+          "https://faithlifetv.com/items/resource/",
+          "/",
+          ""
+        ],
+        [
+          "https://faithlifetv.com/media/",
+          ""
+        ],
+        [
+          "https://faithlifetv.com/media/assets/",
+          ""
+        ],
+        [
+          "https://faithlifetv.com/media/resource/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Faithlife TV",
+      "url": "https://faithlifetv.com",
+      "domainWithoutSuffixOfUrl": "faithlifetv",
+      "oembedUrl": "https://faithlifetv.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "faithlifetv"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.figma.com/file/",
+          ""
+        ],
+        [
+          "https://www.figma.com/design/",
+          ""
+        ],
+        [
+          "https://www.figma.com/board/",
+          ""
+        ],
+        [
+          "https://www.figma.com/slides/",
+          ""
+        ],
+        [
+          "https://www.figma.com/buzz/",
+          ""
+        ],
+        [
+          "https://www.figma.com/site/",
+          ""
+        ],
+        [
+          "https://www.figma.com/make/",
+          ""
+        ]
+      ],
+      "name": "Figma",
+      "url": "https://www.figma.com",
+      "domainWithoutSuffixOfUrl": "figma",
+      "oembedUrl": "https://www.figma.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "figma"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.filestage.io/step/",
+          "",
+          ""
+        ]
+      ],
+      "name": "Filestage",
+      "url": "https://filestage.io/",
+      "domainWithoutSuffixOfUrl": "filestage",
+      "oembedUrl": "https://app.filestage.io/oembed",
+      "domainWithoutSuffixOfOembedUrl": "filestage"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".fireworktv.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".fireworktv.com/embed/",
+          "/v/",
+          ""
+        ]
+      ],
+      "name": "Firework",
+      "url": "https://fireworktv.com/",
+      "domainWithoutSuffixOfUrl": "fireworktv",
+      "oembedUrl": "https://www.fireworktv.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "fireworktv"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.fite.tv/watch/",
+          ""
+        ]
+      ],
+      "name": "FITE",
+      "url": "https://www.fite.tv/",
+      "domainWithoutSuffixOfUrl": "fite",
+      "oembedUrl": "https://www.fite.tv/oembed",
+      "domainWithoutSuffixOfOembedUrl": "fite"
+    },
+    {
+      "schemes": [
+        [
+          "https://flat.io/score/",
+          ""
+        ],
+        [
+          "https://",
+          ".flat.io/score/",
+          ""
+        ]
+      ],
+      "name": "Flat",
+      "url": "https://flat.io",
+      "domainWithoutSuffixOfUrl": "flat",
+      "oembedUrl": "https://flat.io/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "flat"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".flickr.com/photos/",
+          ""
+        ],
+        [
+          "http://flic.kr/p/",
+          ""
+        ],
+        [
+          "http://flic.kr/s/",
+          ""
+        ],
+        [
+          "https://",
+          ".flickr.com/photos/",
+          ""
+        ],
+        [
+          "https://flic.kr/p/",
+          ""
+        ],
+        [
+          "https://flic.kr/s/",
+          ""
+        ],
+        [
+          "https://",
+          ".",
+          ".flickr.com/",
+          "/",
+          ""
+        ],
+        [
+          "http://",
+          ".",
+          ".flickr.com/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Flickr",
+      "url": "https://www.flickr.com/",
+      "domainWithoutSuffixOfUrl": "flickr",
+      "oembedUrl": "https://www.flickr.com/services/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "flickr"
+    },
+    {
+      "schemes": [
+        [
+          "https://public.flourish.studio/visualisation/",
+          ""
+        ],
+        [
+          "https://public.flourish.studio/story/",
+          ""
+        ]
+      ],
+      "name": "Flourish",
+      "url": "https://flourish.studio/",
+      "domainWithoutSuffixOfUrl": "flourish",
+      "oembedUrl": "https://app.flourish.studio/api/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "flourish"
+    },
+    {
+      "schemes": [
+        [
+          "https://flowhub.org/f/",
+          ""
+        ],
+        [
+          "https://flowhub.org/s/",
+          ""
+        ]
+      ],
+      "name": "FlowHubOrg",
+      "url": "https://flows.flowhub.org",
+      "domainWithoutSuffixOfUrl": "flowhub",
+      "oembedUrl": "https://flowhub.org/o/embed",
+      "domainWithoutSuffixOfOembedUrl": "flowhub"
+    },
+    {
+      "schemes": [
+        [
+          "https://fooday.app/",
+          "/reviews/",
+          ""
+        ],
+        [
+          "https://fooday.app/",
+          "/spots/",
+          ""
+        ]
+      ],
+      "name": "Fooday",
+      "url": "https://fooday.app",
+      "domainWithoutSuffixOfUrl": "fooday",
+      "oembedUrl": "https://fooday.app/oembed",
+      "domainWithoutSuffixOfOembedUrl": "fooday"
+    },
+    {
+      "schemes": [
+        [
+          "https://forms.form-data.com/",
+          ""
+        ]
+      ],
+      "name": "Form-Data",
+      "url": "https://form-data.com",
+      "domainWithoutSuffixOfUrl": "form-data",
+      "oembedUrl": "https://forms.form-data.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "form-data"
+    },
+    {
+      "schemes": [
+        [
+          "http://fiso.foxsports.com.au/isomorphic-widget/",
+          ""
+        ],
+        [
+          "https://fiso.foxsports.com.au/isomorphic-widget/",
+          ""
+        ]
+      ],
+      "name": "FOX SPORTS Australia",
+      "url": "http://www.foxsports.com.au",
+      "domainWithoutSuffixOfUrl": "foxsports",
+      "oembedUrl": "https://fiso.foxsports.com.au/oembed",
+      "domainWithoutSuffixOfOembedUrl": "foxsports"
+    },
+    {
+      "schemes": [
+        [
+          "https://framatube.org/w/",
+          ""
+        ]
+      ],
+      "name": "Framatube",
+      "url": "https://framatube.org/",
+      "domainWithoutSuffixOfUrl": "framatube",
+      "oembedUrl": "https://framatube.org/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "framatube"
+    },
+    {
+      "schemes": [
+        [
+          "http://framebuzz.com/v/",
+          ""
+        ],
+        [
+          "https://framebuzz.com/v/",
+          ""
+        ]
+      ],
+      "name": "FrameBuzz",
+      "url": "https://framebuzz.com/",
+      "domainWithoutSuffixOfUrl": "framebuzz",
+      "oembedUrl": "https://framebuzz.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "framebuzz"
+    },
+    {
+      "schemes": [
+        [
+          "https://framer.com/share/",
+          ""
+        ],
+        [
+          "https://framer.com/embed/",
+          ""
+        ]
+      ],
+      "name": "Framer",
+      "url": "https://www.framer.com",
+      "domainWithoutSuffixOfUrl": "framer",
+      "oembedUrl": "https://api.framer.com/web/oembed",
+      "domainWithoutSuffixOfOembedUrl": "framer"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".geograph.org.uk/",
+          ""
+        ],
+        [
+          "http://",
+          ".geograph.co.uk/",
+          ""
+        ],
+        [
+          "http://",
+          ".geograph.ie/",
+          ""
+        ],
+        [
+          "http://",
+          ".wikimedia.org/",
+          "_geograph.org.uk_",
+          ""
+        ]
+      ],
+      "name": "Geograph Britain and Ireland",
+      "url": "https://www.geograph.org.uk/",
+      "domainWithoutSuffixOfUrl": "geograph",
+      "oembedUrl": "http://api.geograph.org.uk/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "geograph"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".geograph.org.gg/",
+          ""
+        ],
+        [
+          "http://",
+          ".geograph.org.je/",
+          ""
+        ],
+        [
+          "http://channel-islands.geograph.org/",
+          ""
+        ],
+        [
+          "http://channel-islands.geographs.org/",
+          ""
+        ],
+        [
+          "http://",
+          ".channel.geographs.org/",
+          ""
+        ]
+      ],
+      "name": "Geograph Channel Islands",
+      "url": "http://channel-islands.geograph.org/",
+      "domainWithoutSuffixOfUrl": "geograph",
+      "oembedUrl": "http://www.geograph.org.gg/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "geograph"
+    },
+    {
+      "schemes": [
+        [
+          "http://geo-en.hlipp.de/",
+          ""
+        ],
+        [
+          "http://geo.hlipp.de/",
+          ""
+        ],
+        [
+          "http://germany.geograph.org/",
+          ""
+        ]
+      ],
+      "name": "Geograph Germany",
+      "url": "http://geo-en.hlipp.de/",
+      "domainWithoutSuffixOfUrl": "hlipp",
+      "oembedUrl": "http://geo.hlipp.de/restapi.php/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "hlipp"
+    },
+    {
+      "schemes": [
+        [
+          "http://gty.im/",
+          ""
+        ]
+      ],
+      "name": "Getty Images",
+      "url": "http://www.gettyimages.com/",
+      "domainWithoutSuffixOfUrl": "gettyimages",
+      "oembedUrl": "http://embed.gettyimages.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "gettyimages"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.gifnote.com/play/",
+          ""
+        ]
+      ],
+      "name": "Gifnote",
+      "url": "https://www.gifnote.com/",
+      "domainWithoutSuffixOfUrl": "gifnote",
+      "oembedUrl": "https://www.gifnote.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "gifnote"
+    },
+    {
+      "schemes": [
+        [
+          "https://giphy.com/gifs/",
+          ""
+        ],
+        [
+          "https://giphy.com/clips/",
+          ""
+        ],
+        [
+          "http://gph.is/",
+          ""
+        ],
+        [
+          "https://media.giphy.com/media/",
+          "/giphy.gif"
+        ]
+      ],
+      "name": "GIPHY",
+      "url": "https://giphy.com",
+      "domainWithoutSuffixOfUrl": "giphy",
+      "oembedUrl": "https://giphy.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "giphy"
+    },
+    {
+      "schemes": [],
+      "name": "GloriaTV",
+      "url": "https://gloria.tv/",
+      "domainWithoutSuffixOfUrl": "gloria",
+      "oembedUrl": "https://gloria.tv/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "gloria"
+    },
+    {
+      "schemes": [
+        [
+          "https://view.gmetri.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".gmetri.com/",
+          ""
+        ]
+      ],
+      "name": "GMetri",
+      "url": "https://www.gmetri.com/",
+      "domainWithoutSuffixOfUrl": "gmetri",
+      "oembedUrl": "https://embed.gmetri.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "gmetri"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.gong.io/call?id=",
+          ""
+        ]
+      ],
+      "name": "Gong",
+      "url": "https://www.gong.io/",
+      "domainWithoutSuffixOfUrl": "gong",
+      "oembedUrl": "https://app.gong.io/oembed",
+      "domainWithoutSuffixOfOembedUrl": "gong"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.good-for-job.jp/slides/",
+          ""
+        ]
+      ],
+      "name": "GOOD FOR JOB",
+      "url": "https://www.good-for-job.jp",
+      "domainWithoutSuffixOfUrl": "good-for-job",
+      "oembedUrl": "https://www.good-for-job.jp/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "good-for-job"
+    },
+    {
+      "schemes": [
+        [
+          "https://grain.co/highlight/",
+          ""
+        ],
+        [
+          "https://grain.co/share/",
+          ""
+        ],
+        [
+          "https://grain.com/share/",
+          ""
+        ]
+      ],
+      "name": "Grain",
+      "url": "https://grain.com",
+      "domainWithoutSuffixOfUrl": "grain",
+      "oembedUrl": "https://api.grain.com/_/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "grain"
+    },
+    {
+      "schemes": [
+        [
+          "https://gtchannel.com/watch/",
+          ""
+        ]
+      ],
+      "name": "GT Channel",
+      "url": "https://gtchannel.com",
+      "domainWithoutSuffixOfUrl": "gtchannel",
+      "oembedUrl": "https://api.luminery.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "luminery"
+    },
+    {
+      "schemes": [
+        [
+          "https://gumlet.tv/watch/",
+          ""
+        ],
+        [
+          "https://play.gumlet.io/embed/",
+          ""
+        ]
+      ],
+      "name": "Gumlet",
+      "url": "https://www.gumlet.com/",
+      "domainWithoutSuffixOfUrl": "gumlet",
+      "oembedUrl": "https://api.gumlet.com/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "gumlet"
+    },
+    {
+      "schemes": [
+        [
+          "https://gw2fashions.com/fashion/",
+          ""
+        ]
+      ],
+      "name": "GW2 Fashions",
+      "url": "https://gw2fashions.com/",
+      "domainWithoutSuffixOfUrl": "gw2fashions",
+      "oembedUrl": "https://gw2fashions.com/fashion/oembed",
+      "domainWithoutSuffixOfOembedUrl": "gw2fashions"
+    },
+    {
+      "schemes": [
+        [
+          "https://gyazo.com/",
+          ""
+        ]
+      ],
+      "name": "Gyazo",
+      "url": "https://gyazo.com",
+      "domainWithoutSuffixOfUrl": "gyazo",
+      "oembedUrl": "https://api.gyazo.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "gyazo"
+    },
+    {
+      "schemes": [
+        [
+          "https://core.hash.ai/@",
+          ""
+        ]
+      ],
+      "name": "HASH",
+      "url": "https://hash.ai",
+      "domainWithoutSuffixOfUrl": "hash",
+      "oembedUrl": "https://api.hash.ai/oembed",
+      "domainWithoutSuffixOfOembedUrl": "hash"
+    },
+    {
+      "schemes": [
+        [
+          "https://hearthis.at/",
+          "/",
+          "/"
+        ],
+        [
+          "https://hearthis.at/",
+          "/set/",
+          "/"
+        ]
+      ],
+      "name": "hearthis.at",
+      "url": "https://hearthis.at/",
+      "domainWithoutSuffixOfUrl": "hearthis",
+      "oembedUrl": "https://hearthis.at/oembed/?format=json",
+      "domainWithoutSuffixOfOembedUrl": "hearthis"
+    },
+    {
+      "schemes": [
+        [
+          "https://helenenglish.education/widget",
+          ""
+        ]
+      ],
+      "name": "helenenglish_education",
+      "url": "https://helenenglish.education/",
+      "domainWithoutSuffixOfUrl": "helenenglish",
+      "oembedUrl": "https://helenenglish.education/embed",
+      "domainWithoutSuffixOfOembedUrl": "helenenglish"
+    },
+    {
+      "schemes": [
+        [
+          "https://heyzine.com/flip-book/",
+          ""
+        ],
+        [
+          "https://",
+          ".hflip.co/",
+          ""
+        ],
+        [
+          "https://",
+          ".aflip.in/",
+          ""
+        ]
+      ],
+      "name": "Heyzine",
+      "url": "https://heyzine.com",
+      "domainWithoutSuffixOfUrl": "heyzine",
+      "oembedUrl": "https://heyzine.com/api1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "heyzine"
+    },
+    {
+      "schemes": [
+        [
+          "https://player.hihaho.com/",
+          ""
+        ]
+      ],
+      "name": "hihaho",
+      "url": "https://www.hihaho.com",
+      "domainWithoutSuffixOfUrl": "hihaho",
+      "oembedUrl": "https://player.hihaho.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "hihaho"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".hippovideo.io/",
+          ""
+        ],
+        [
+          "https://",
+          ".hippovideo.io/",
+          ""
+        ]
+      ],
+      "name": "HippoVideo",
+      "url": "https://hippovideo.io",
+      "domainWithoutSuffixOfUrl": "hippovideo",
+      "oembedUrl": "https://www.hippovideo.io/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "hippovideo"
+    },
+    {
+      "schemes": [
+        [
+          "https://homey.app/f/",
+          ""
+        ],
+        [
+          "https://homey.app/",
+          "/flow/",
+          ""
+        ]
+      ],
+      "name": "Homey",
+      "url": "https://homey.app",
+      "domainWithoutSuffixOfUrl": "homey",
+      "oembedUrl": "https://homey.app/api/oembed/flow",
+      "domainWithoutSuffixOfOembedUrl": "homey"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".hopvue.com/",
+          ""
+        ]
+      ],
+      "name": "Hopvue",
+      "url": "https://www.hopvue.com",
+      "domainWithoutSuffixOfUrl": "hopvue",
+      "oembedUrl": "https://portal.hopvue.com/api/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "hopvue"
+    },
+    {
+      "schemes": [
+        [
+          "http://huffduffer.com/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "HuffDuffer",
+      "url": "http://huffduffer.com",
+      "domainWithoutSuffixOfUrl": "huffduffer",
+      "oembedUrl": "http://huffduffer.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "huffduffer"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.hulu.com/watch/",
+          ""
+        ]
+      ],
+      "name": "Hulu",
+      "url": "http://www.hulu.com/",
+      "domainWithoutSuffixOfUrl": "hulu",
+      "oembedUrl": "http://www.hulu.com/api/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "hulu"
+    },
+    {
+      "schemes": [
+        [
+          "https://icosa.gallery/view/",
+          ""
+        ]
+      ],
+      "name": "Icosa Gallery",
+      "url": "https://icosa.gallery",
+      "domainWithoutSuffixOfUrl": "icosa",
+      "oembedUrl": "https://api.icosa.gallery/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "icosa"
+    },
+    {
+      "schemes": [
+        [
+          "https://oembed.ideamapper.com/",
+          ""
+        ]
+      ],
+      "name": "Ideamapper",
+      "url": "https://ideamapper.com/",
+      "domainWithoutSuffixOfUrl": "ideamapper",
+      "oembedUrl": "https://oembed.ideamapper.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "ideamapper"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".idomoo.com/",
+          ""
+        ]
+      ],
+      "name": "Idomoo",
+      "url": "https://idomoo.com/",
+      "domainWithoutSuffixOfUrl": "idomoo",
+      "oembedUrl": "https://oembed.idomoo.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "idomoo"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.ifixit.com/guide/view/",
+          ""
+        ]
+      ],
+      "name": "iFixit",
+      "url": "http://www.iFixit.com",
+      "domainWithoutSuffixOfUrl": "ifixit",
+      "oembedUrl": "http://www.ifixit.com/Embed",
+      "domainWithoutSuffixOfOembedUrl": "ifixit"
+    },
+    {
+      "schemes": [
+        [
+          "http://ifttt.com/recipes/",
+          ""
+        ]
+      ],
+      "name": "IFTTT",
+      "url": "http://www.ifttt.com/",
+      "domainWithoutSuffixOfUrl": "ifttt",
+      "oembedUrl": "http://www.ifttt.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "ifttt"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".videocdn.net/player/",
+          ""
+        ],
+        [
+          "https://",
+          ".euvideocdn.com/player/",
+          ""
+        ]
+      ],
+      "name": "Ignite",
+      "url": "https://ignite.video/",
+      "domainWithoutSuffixOfUrl": "ignite",
+      "oembedUrl": "https://app.ignitevideo.cloud/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "ignitevideo"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.iheart.com/podcast/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "iHeartRadio",
+      "url": "https://www.iheart.com",
+      "domainWithoutSuffixOfUrl": "iheart",
+      "oembedUrl": "https://www.iheart.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "iheart"
+    },
+    {
+      "schemes": [
+        [
+          "http://qr.imenupro.com/",
+          ""
+        ],
+        [
+          "https://qr.imenupro.com/",
+          ""
+        ]
+      ],
+      "name": "iMenuPro",
+      "url": "https://imenupro.com",
+      "domainWithoutSuffixOfUrl": "imenupro",
+      "oembedUrl": "https://qr.imenupro.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "imenupro"
+    },
+    {
+      "schemes": [
+        [
+          "https://incredible.dev/watch/",
+          ""
+        ]
+      ],
+      "name": "Incredible",
+      "url": "https://incredible.dev",
+      "domainWithoutSuffixOfUrl": "incredible",
+      "oembedUrl": "https://oembed.incredible.dev/oembed",
+      "domainWithoutSuffixOfOembedUrl": "incredible"
+    },
+    {
+      "schemes": [
+        [
+          "https://player.indacolive.com/player/jwp/clients/",
+          ""
+        ]
+      ],
+      "name": "Indaco",
+      "url": "https://player.indacolive.com/",
+      "domainWithoutSuffixOfUrl": "indacolive",
+      "oembedUrl": "https://player.indacolive.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "indacolive"
+    },
+    {
+      "schemes": [
+        [
+          "https://infogram.com/",
+          ""
+        ]
+      ],
+      "name": "Infogram",
+      "url": "https://infogram.com/",
+      "domainWithoutSuffixOfUrl": "infogram",
+      "oembedUrl": "https://infogram.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "infogram"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".infoveave.net/e/",
+          ""
+        ],
+        [
+          "https://",
+          ".infoveave.net/p/",
+          ""
+        ]
+      ],
+      "name": "Infoveave",
+      "url": "https://infoveave.net/",
+      "domainWithoutSuffixOfUrl": "infoveave",
+      "oembedUrl": "https://infoveave.net/services/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "infoveave"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.injurymap.com/exercises/",
+          ""
+        ]
+      ],
+      "name": "Injurymap",
+      "url": "https://www.injurymap.com/",
+      "domainWithoutSuffixOfUrl": "injurymap",
+      "oembedUrl": "https://www.injurymap.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "injurymap"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.inoreader.com/oembed/"
+        ]
+      ],
+      "name": "Inoreader",
+      "url": "https://www.inoreader.com",
+      "domainWithoutSuffixOfUrl": "inoreader",
+      "oembedUrl": "https://www.inoreader.com/oembed/api/",
+      "domainWithoutSuffixOfOembedUrl": "inoreader"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".inphood.com/",
+          ""
+        ]
+      ],
+      "name": "inphood",
+      "url": "http://inphood.com/",
+      "domainWithoutSuffixOfUrl": "inphood",
+      "oembedUrl": "http://api.inphood.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "inphood"
+    },
+    {
+      "schemes": [
+        [
+          "https://insighttimer.com/",
+          ""
+        ]
+      ],
+      "name": "Insight Timer",
+      "url": "https://insighttimer.com/",
+      "domainWithoutSuffixOfUrl": "insighttimer",
+      "oembedUrl": "https://widgets.insighttimer.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "insighttimer"
+    },
+    {
+      "schemes": [
+        [
+          "http://instagram.com/",
+          "/p/",
+          ""
+        ],
+        [
+          "http://www.instagram.com/",
+          "/p/",
+          ""
+        ],
+        [
+          "https://instagram.com/",
+          "/p/",
+          ""
+        ],
+        [
+          "https://www.instagram.com/",
+          "/p/",
+          ""
+        ],
+        [
+          "http://instagram.com/p/",
+          ""
+        ],
+        [
+          "http://instagr.am/p/",
+          ""
+        ],
+        [
+          "http://www.instagram.com/p/",
+          ""
+        ],
+        [
+          "http://www.instagr.am/p/",
+          ""
+        ],
+        [
+          "https://instagram.com/p/",
+          ""
+        ],
+        [
+          "https://instagr.am/p/",
+          ""
+        ],
+        [
+          "https://www.instagram.com/p/",
+          ""
+        ],
+        [
+          "https://www.instagr.am/p/",
+          ""
+        ],
+        [
+          "http://instagram.com/tv/",
+          ""
+        ],
+        [
+          "http://instagr.am/tv/",
+          ""
+        ],
+        [
+          "http://www.instagram.com/tv/",
+          ""
+        ],
+        [
+          "http://www.instagr.am/tv/",
+          ""
+        ],
+        [
+          "https://instagram.com/tv/",
+          ""
+        ],
+        [
+          "https://instagr.am/tv/",
+          ""
+        ],
+        [
+          "https://www.instagram.com/tv/",
+          ""
+        ],
+        [
+          "https://www.instagr.am/tv/",
+          ""
+        ],
+        [
+          "http://www.instagram.com/reel/",
+          ""
+        ],
+        [
+          "https://www.instagram.com/reel/",
+          ""
+        ],
+        [
+          "http://instagram.com/reel/",
+          ""
+        ],
+        [
+          "https://instagram.com/reel/",
+          ""
+        ],
+        [
+          "http://instagr.am/reel/",
+          ""
+        ],
+        [
+          "https://instagr.am/reel/",
+          ""
+        ]
+      ],
+      "name": "Instagram",
+      "url": "https://instagram.com",
+      "domainWithoutSuffixOfUrl": "instagram",
+      "oembedUrl": "https://graph.facebook.com/v16.0/instagram_oembed",
+      "domainWithoutSuffixOfOembedUrl": "facebook"
+    },
+    {
+      "schemes": [
+        [
+          "https://ppa.insticator.com/embed-unit/",
+          ""
+        ]
+      ],
+      "name": "Insticator Inc",
+      "url": "https://www.insticator.com/",
+      "domainWithoutSuffixOfUrl": "insticator",
+      "oembedUrl": "https://www.insticator.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "insticator"
+    },
+    {
+      "schemes": [
+        [
+          "https://issuu.com/",
+          "/docs/",
+          ""
+        ]
+      ],
+      "name": "Issuu",
+      "url": "https://issuu.com/",
+      "domainWithoutSuffixOfUrl": "issuu",
+      "oembedUrl": "https://issuu.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "issuu"
+    },
+    {
+      "schemes": [
+        [
+          "https://samay.itabtechinfosys.com/",
+          ""
+        ]
+      ],
+      "name": "Itabtech infosys",
+      "url": "https://samay.itabtechinfosys.com/",
+      "domainWithoutSuffixOfUrl": "itabtechinfosys",
+      "oembedUrl": "https://samay.itabtechinfosys.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "itabtechinfosys"
+    },
+    {
+      "schemes": [
+        [
+          "https://play.itemis.io/",
+          ""
+        ]
+      ],
+      "name": "itemis CREATE",
+      "url": "https://play.itemis.io",
+      "domainWithoutSuffixOfUrl": "itemis",
+      "oembedUrl": "https://create.storage.api.itemis.io/api/embed",
+      "domainWithoutSuffixOfOembedUrl": "itemis"
+    },
+    {
+      "schemes": [
+        [
+          "https://jovian.ml/",
+          ""
+        ],
+        [
+          "https://jovian.ml/viewer",
+          ""
+        ],
+        [
+          "https://",
+          ".jovian.ml/",
+          ""
+        ],
+        [
+          "https://jovian.ai/",
+          ""
+        ],
+        [
+          "https://jovian.ai/viewer",
+          ""
+        ],
+        [
+          "https://",
+          ".jovian.ai/",
+          ""
+        ],
+        [
+          "https://jovian.com/",
+          ""
+        ],
+        [
+          "https://jovian.com/viewer",
+          ""
+        ],
+        [
+          "https://",
+          ".jovian.com/",
+          ""
+        ]
+      ],
+      "name": "Jovian",
+      "url": "https://jovian.com/",
+      "domainWithoutSuffixOfUrl": "jovian",
+      "oembedUrl": "https://api.jovian.com/oembed.json",
+      "domainWithoutSuffixOfOembedUrl": "jovian"
+    },
+    {
+      "schemes": [
+        [
+          "https://play.juntos.live/solo/",
+          ""
+        ],
+        [
+          "https://play.juntos.live/host/quiz/",
+          ""
+        ]
+      ],
+      "name": "Juntos",
+      "url": "https://juntos.live",
+      "domainWithoutSuffixOfUrl": "juntos",
+      "oembedUrl": "https://play.juntos.live/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "juntos"
+    },
+    {
+      "schemes": [
+        [
+          "https://tv.kakao.com/channel/",
+          "/cliplink/",
+          ""
+        ],
+        [
+          "https://tv.kakao.com/m/channel/",
+          "/cliplink/",
+          ""
+        ],
+        [
+          "https://tv.kakao.com/channel/v/",
+          ""
+        ],
+        [
+          "https://tv.kakao.com/channel/",
+          "/livelink/",
+          ""
+        ],
+        [
+          "https://tv.kakao.com/m/channel/",
+          "/livelink/",
+          ""
+        ],
+        [
+          "https://tv.kakao.com/channel/l/",
+          ""
+        ]
+      ],
+      "name": "KakaoTv",
+      "url": "https://tv.kakao.com/",
+      "domainWithoutSuffixOfUrl": "kakao",
+      "oembedUrl": "https://tv.kakao.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "kakao"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.kickstarter.com/projects/",
+          ""
+        ]
+      ],
+      "name": "Kickstarter",
+      "url": "http://www.kickstarter.com",
+      "domainWithoutSuffixOfUrl": "kickstarter",
+      "oembedUrl": "http://www.kickstarter.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "kickstarter"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.kidoju.com/en/x/",
+          "/",
+          ""
+        ],
+        [
+          "https://www.kidoju.com/fr/x/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Kidoju",
+      "url": "https://www.kidoju.com/",
+      "domainWithoutSuffixOfUrl": "kidoju",
+      "oembedUrl": "https://www.kidoju.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "kidoju"
+    },
+    {
+      "schemes": [
+        [
+          "https://halaman.email/form/",
+          ""
+        ],
+        [
+          "https://aplikasi.kirim.email/form/",
+          ""
+        ]
+      ],
+      "name": "Kirim.Email",
+      "url": "https://kirim.email/",
+      "domainWithoutSuffixOfUrl": "kirim",
+      "oembedUrl": "https://halaman.email/service/oembed",
+      "domainWithoutSuffixOfOembedUrl": "halaman"
+    },
+    {
+      "schemes": [
+        [
+          "http://kit.co/",
+          "/",
+          ""
+        ],
+        [
+          "https://kit.co/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Kit",
+      "url": "https://kit.co/",
+      "domainWithoutSuffixOfUrl": "kit",
+      "oembedUrl": "https://embed.kit.co/oembed",
+      "domainWithoutSuffixOfOembedUrl": "kit"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.kitchenbowl.com/recipe/",
+          ""
+        ]
+      ],
+      "name": "Kitchenbowl",
+      "url": "http://www.kitchenbowl.com",
+      "domainWithoutSuffixOfUrl": "kitchenbowl",
+      "oembedUrl": "http://www.kitchenbowl.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "kitchenbowl"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.kmdr.sh/h/",
+          ""
+        ],
+        [
+          "https://app.kmdr.sh/history/",
+          ""
+        ]
+      ],
+      "name": "kmdr",
+      "url": "https://kmdr.sh",
+      "domainWithoutSuffixOfUrl": "kmdr",
+      "oembedUrl": "https://api.kmdr.sh/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "kmdr"
+    },
+    {
+      "schemes": [
+        [
+          "http://jdr.knacki.info/meuh/",
+          ""
+        ],
+        [
+          "https://jdr.knacki.info/meuh/",
+          ""
+        ]
+      ],
+      "name": "Knacki",
+      "url": "http://jdr.knacki.info",
+      "domainWithoutSuffixOfUrl": "knacki",
+      "oembedUrl": "https://jdr.knacki.info/oembed",
+      "domainWithoutSuffixOfOembedUrl": "knacki"
+    },
+    {
+      "schemes": [
+        [
+          "https://knowledgepad.co/#/knowledge/",
+          ""
+        ]
+      ],
+      "name": "Knowledge Pad",
+      "url": "https://knowledgepad.co/",
+      "domainWithoutSuffixOfUrl": "knowledgepad",
+      "oembedUrl": "https://api.spoonacular.com/knowledge/oembed",
+      "domainWithoutSuffixOfOembedUrl": "spoonacular"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".kooapp.com/koo/",
+          ""
+        ],
+        [
+          "http://",
+          ".kooapp.com/koo/",
+          ""
+        ]
+      ],
+      "name": "Kooapp",
+      "url": "https://kooapp.com",
+      "domainWithoutSuffixOfUrl": "kooapp",
+      "oembedUrl": "https://embed.kooapp.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "kooapp"
+    },
+    {
+      "schemes": [
+        [
+          "https://kubit.ai/",
+          ""
+        ],
+        [
+          "https://",
+          ".kubit.ai/",
+          ""
+        ]
+      ],
+      "name": "Kubit",
+      "url": "https://kubit.ai",
+      "domainWithoutSuffixOfUrl": "kubit",
+      "oembedUrl": "https://kubit.ai/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "kubit"
+    },
+    {
+      "schemes": [
+        [
+          "https://kurozora.app/episodes/",
+          ""
+        ],
+        [
+          "https://kurozora.app/songs/",
+          ""
+        ]
+      ],
+      "name": "Kurozora",
+      "url": "https://kurozora.app/",
+      "domainWithoutSuffixOfUrl": "kurozora",
+      "oembedUrl": "https://kurozora.app/oembed",
+      "domainWithoutSuffixOfOembedUrl": "kurozora"
+    },
+    {
+      "schemes": [
+        [
+          "http://learningapps.org/",
+          ""
+        ]
+      ],
+      "name": "LearningApps.org",
+      "url": "http://learningapps.org/",
+      "domainWithoutSuffixOfUrl": "learningapps",
+      "oembedUrl": "http://learningapps.org/oembed.php",
+      "domainWithoutSuffixOfOembedUrl": "learningapps"
+    },
+    {
+      "schemes": [
+        [
+          "https://umotion-test.univ-lemans.fr/video/",
+          ""
+        ]
+      ],
+      "name": "LeMans.Pod",
+      "url": "https://umotion-test.univ-lemans.fr/",
+      "domainWithoutSuffixOfUrl": "univ-lemans",
+      "oembedUrl": "https://umotion-test.univ-lemans.fr/oembed",
+      "domainWithoutSuffixOfOembedUrl": "univ-lemans"
+    },
+    {
+      "schemes": [
+        [
+          "https://pod.univ-lille.fr/video/",
+          ""
+        ]
+      ],
+      "name": "Lille.Pod",
+      "url": "https://pod.univ-lille.fr/",
+      "domainWithoutSuffixOfUrl": "univ-lille",
+      "oembedUrl": "https://pod.univ-lille.fr/video/oembed",
+      "domainWithoutSuffixOfOembedUrl": "univ-lille"
+    },
+    {
+      "schemes": [
+        [
+          "https://place.line.me/businesses/",
+          ""
+        ]
+      ],
+      "name": "Line Place",
+      "url": "https://place.line.me",
+      "domainWithoutSuffixOfUrl": "line",
+      "oembedUrl": "https://place.line.me/oembed",
+      "domainWithoutSuffixOfOembedUrl": "line"
+    },
+    {
+      "schemes": [
+        [
+          "https://linkstackz.com/irf/",
+          ""
+        ],
+        [
+          "https://linkstackz.com/post/",
+          ""
+        ]
+      ],
+      "name": "Linkstackz",
+      "url": "https://www.linkstackz.com/",
+      "domainWithoutSuffixOfUrl": "linkstackz",
+      "oembedUrl": "https://api.linkstackz.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "linkstackz"
+    },
+    {
+      "schemes": [
+        [
+          "https://livestream.com/accounts/",
+          "/events/",
+          ""
+        ],
+        [
+          "https://livestream.com/accounts/",
+          "/events/",
+          "/videos/",
+          ""
+        ],
+        [
+          "https://livestream.com/",
+          "/events/",
+          ""
+        ],
+        [
+          "https://livestream.com/",
+          "/events/",
+          "/videos/",
+          ""
+        ],
+        [
+          "https://livestream.com/",
+          "/",
+          ""
+        ],
+        [
+          "https://livestream.com/",
+          "/",
+          "/videos/",
+          ""
+        ]
+      ],
+      "name": "Livestream",
+      "url": "https://livestream.com/",
+      "domainWithoutSuffixOfUrl": "livestream",
+      "oembedUrl": "https://livestream.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "livestream"
+    },
+    {
+      "schemes": [
+        [
+          "https://loom.com/i/",
+          ""
+        ],
+        [
+          "https://loom.com/share/",
+          ""
+        ]
+      ],
+      "name": "Loom",
+      "url": "https://www.loom.com/",
+      "domainWithoutSuffixOfUrl": "loom",
+      "oembedUrl": "https://www.loom.com/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "loom"
+    },
+    {
+      "schemes": [
+        [
+          "https://lottiefiles.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".lottiefiles.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".lottie.host/",
+          ""
+        ],
+        [
+          "https://lottie.host/",
+          ""
+        ]
+      ],
+      "name": "LottieFiles",
+      "url": "https://lottiefiles.com/",
+      "domainWithoutSuffixOfUrl": "lottiefiles",
+      "oembedUrl": "https://embed.lottiefiles.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "lottiefiles"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.ludus.one/",
+          ""
+        ]
+      ],
+      "name": "Ludus",
+      "url": "https://ludus.one",
+      "domainWithoutSuffixOfUrl": "ludus",
+      "oembedUrl": "https://app.ludus.one/oembed",
+      "domainWithoutSuffixOfOembedUrl": "ludus"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".lumiere.is/v/",
+          ""
+        ]
+      ],
+      "name": "Lumiere",
+      "url": "https://latd.com",
+      "domainWithoutSuffixOfUrl": "latd",
+      "oembedUrl": "https://admin.lumiere.is/api/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "lumiere"
+    },
+    {
+      "schemes": [
+        [
+          "https://marimo.app/",
+          ""
+        ]
+      ],
+      "name": "marimo",
+      "url": "https://marimo.io/",
+      "domainWithoutSuffixOfUrl": "marimo",
+      "oembedUrl": "https://marimo.app/oembed",
+      "domainWithoutSuffixOfOembedUrl": "marimo"
+    },
+    {
+      "schemes": [
+        [
+          "http://mathembed.com/latex?inputtext=",
+          ""
+        ],
+        [
+          "http://mathembed.com/latex?inputtext=",
+          ""
+        ]
+      ],
+      "name": "MathEmbed",
+      "url": "http://mathembed.com",
+      "domainWithoutSuffixOfUrl": "mathembed",
+      "oembedUrl": "http://mathembed.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "mathembed"
+    },
+    {
+      "schemes": [],
+      "name": "Matterport",
+      "url": "https://matterport.com/",
+      "domainWithoutSuffixOfUrl": "matterport",
+      "oembedUrl": "https://my.matterport.com/api/v1/models/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "matterport"
+    },
+    {
+      "schemes": [
+        [
+          "https://me.me/i/",
+          ""
+        ]
+      ],
+      "name": "me.me",
+      "url": "https://me.me/",
+      "domainWithoutSuffixOfUrl": "me",
+      "oembedUrl": "https://me.me/oembed",
+      "domainWithoutSuffixOfOembedUrl": "me"
+    },
+    {
+      "schemes": [
+        [
+          "https://mdstrm.com/embed/",
+          ""
+        ],
+        [
+          "https://mdstrm.com/live-stream/",
+          ""
+        ],
+        [
+          "https://mdstrm.com/image/",
+          ""
+        ]
+      ],
+      "name": "Mediastream",
+      "url": "https://mdstrm.com/",
+      "domainWithoutSuffixOfUrl": "mdstrm",
+      "oembedUrl": "https://mdstrm.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "mdstrm"
+    },
+    {
+      "schemes": [
+        [
+          "https://medienarchiv.zhdk.ch/entries/",
+          ""
+        ],
+        [
+          "https://zhdk.medienarchiv.ch/entries/",
+          ""
+        ]
+      ],
+      "name": "Medienarchiv der Künste - Zürcher Hochschule der Künste",
+      "url": "https://medienarchiv.zhdk.ch/",
+      "domainWithoutSuffixOfUrl": "zhdk",
+      "oembedUrl": "https://medienarchiv.zhdk.ch/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "zhdk"
+    },
+    {
+      "schemes": [
+        [
+          "https://mermaid.ink/img/",
+          ""
+        ],
+        [
+          "https://mermaid.ink/svg/",
+          ""
+        ]
+      ],
+      "name": "Mermaid Ink",
+      "url": "https://mermaid.ink",
+      "domainWithoutSuffixOfUrl": "mermaid",
+      "oembedUrl": "https://mermaid.ink/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "mermaid"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".microsoftstream.com/video/",
+          ""
+        ],
+        [
+          "https://",
+          ".microsoftstream.com/channel/",
+          ""
+        ]
+      ],
+      "name": "Microsoft Stream",
+      "url": "https://stream.microsoft.com",
+      "domainWithoutSuffixOfUrl": "microsoft",
+      "oembedUrl": "https://web.microsoftstream.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "microsoftstream"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.minervaknows.com/featured-recipes/",
+          ""
+        ],
+        [
+          "https://www.minervaknows.com/themes/",
+          ""
+        ],
+        [
+          "https://www.minervaknows.com/themes/",
+          "/recipes/",
+          ""
+        ],
+        [
+          "https://app.minervaknows.com/recipes/",
+          ""
+        ],
+        [
+          "https://app.minervaknows.com/recipes/",
+          "/follow"
+        ]
+      ],
+      "name": "Minerva",
+      "url": "https://www.minervaknows.com",
+      "domainWithoutSuffixOfUrl": "minervaknows",
+      "oembedUrl": "https://oembed.minervaknows.com",
+      "domainWithoutSuffixOfOembedUrl": "minervaknows"
+    },
+    {
+      "schemes": [
+        [
+          "https://miro.com/app/board/",
+          ""
+        ]
+      ],
+      "name": "Miro",
+      "url": "https://miro.com/",
+      "domainWithoutSuffixOfUrl": "miro",
+      "oembedUrl": "https://miro.com/api/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "miro"
+    },
+    {
+      "schemes": [
+        [
+          "https://miro.com/video-player/",
+          ""
+        ]
+      ],
+      "name": "Miro",
+      "url": "https://miro.com/",
+      "domainWithoutSuffixOfUrl": "miro",
+      "oembedUrl": "https://miro.com/video-player/oembed",
+      "domainWithoutSuffixOfOembedUrl": "miro"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.mixcloud.com/",
+          "/",
+          "/"
+        ],
+        [
+          "https://www.mixcloud.com/",
+          "/",
+          "/"
+        ]
+      ],
+      "name": "MixCloud",
+      "url": "https://mixcloud.com/",
+      "domainWithoutSuffixOfUrl": "mixcloud",
+      "oembedUrl": "https://www.mixcloud.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "mixcloud"
+    },
+    {
+      "schemes": [
+        [
+          "https://mixpanel.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".mixpanel.com/",
+          ""
+        ]
+      ],
+      "name": "Mixpanel",
+      "url": "https://mixpanel.com/",
+      "domainWithoutSuffixOfUrl": "mixpanel",
+      "oembedUrl": "https://mixpanel.com/api/app/embed/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "mixpanel"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.mobypicture.com/user/",
+          "/view/",
+          ""
+        ],
+        [
+          "http://moby.to/",
+          ""
+        ]
+      ],
+      "name": "Moby Picture",
+      "url": "http://www.mobypicture.com",
+      "domainWithoutSuffixOfUrl": "mobypicture",
+      "oembedUrl": "http://api.mobypicture.com/oEmbed",
+      "domainWithoutSuffixOfOembedUrl": "mobypicture"
+    },
+    {
+      "schemes": [
+        [
+          "https://musicboxmaniacs.com/explore/melody/",
+          ""
+        ]
+      ],
+      "name": "Music Box Maniacs",
+      "url": "https://musicboxmaniacs.com/",
+      "domainWithoutSuffixOfUrl": "musicboxmaniacs",
+      "oembedUrl": "https://musicboxmaniacs.com/embed/",
+      "domainWithoutSuffixOfOembedUrl": "musicboxmaniacs"
+    },
+    {
+      "schemes": [
+        [
+          "https://mybeweeg.com/w/",
+          ""
+        ]
+      ],
+      "name": "myBeweeg",
+      "url": "https://mybeweeg.com",
+      "domainWithoutSuffixOfUrl": "mybeweeg",
+      "oembedUrl": "https://mybeweeg.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "mybeweeg"
+    },
+    {
+      "schemes": [
+        [
+          "https://mysqlexplain.com/explain/",
+          ""
+        ],
+        [
+          "https://embed.mysqlexplain.com/explain/",
+          ""
+        ]
+      ],
+      "name": "MySQL Visual Explain",
+      "url": "https://mysqlexplain.com",
+      "domainWithoutSuffixOfUrl": "mysqlexplain",
+      "oembedUrl": "https://api.mysqlexplain.com/v2/oembed.json",
+      "domainWithoutSuffixOfOembedUrl": "mysqlexplain"
+    },
+    {
+      "schemes": [
+        [
+          "https://namchey.com/embeds/",
+          ""
+        ]
+      ],
+      "name": "Namchey",
+      "url": "https://namchey.com",
+      "domainWithoutSuffixOfUrl": "namchey",
+      "oembedUrl": "https://namchey.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "namchey"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".nanoo.tv/link/",
+          ""
+        ],
+        [
+          "http://nanoo.tv/link/",
+          ""
+        ],
+        [
+          "http://",
+          ".nanoo.pro/link/",
+          ""
+        ],
+        [
+          "http://nanoo.pro/link/",
+          ""
+        ],
+        [
+          "https://",
+          ".nanoo.tv/link/",
+          ""
+        ],
+        [
+          "https://nanoo.tv/link/",
+          ""
+        ],
+        [
+          "https://",
+          ".nanoo.pro/link/",
+          ""
+        ],
+        [
+          "https://nanoo.pro/link/",
+          ""
+        ],
+        [
+          "http://media.zhdk.ch/signatur/",
+          ""
+        ],
+        [
+          "http://new.media.zhdk.ch/signatur/",
+          ""
+        ],
+        [
+          "https://media.zhdk.ch/signatur/",
+          ""
+        ],
+        [
+          "https://new.media.zhdk.ch/signatur/",
+          ""
+        ]
+      ],
+      "name": "nanoo.tv",
+      "url": "https://www.nanoo.tv/",
+      "domainWithoutSuffixOfUrl": "nanoo",
+      "oembedUrl": "https://www.nanoo.tv/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "nanoo"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.nb.no/items/",
+          ""
+        ]
+      ],
+      "name": "Nasjonalbiblioteket",
+      "url": "https://www.nb.no/",
+      "domainWithoutSuffixOfUrl": "nb",
+      "oembedUrl": "https://api.nb.no/catalog/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "nb"
+    },
+    {
+      "schemes": [
+        [
+          "https://naturalatlas.com/",
+          ""
+        ],
+        [
+          "https://naturalatlas.com/",
+          "/",
+          ""
+        ],
+        [
+          "https://naturalatlas.com/",
+          "/",
+          "/",
+          ""
+        ],
+        [
+          "https://naturalatlas.com/",
+          "/",
+          "/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Natural Atlas",
+      "url": "https://naturalatlas.com/",
+      "domainWithoutSuffixOfUrl": "naturalatlas",
+      "oembedUrl": "https://naturalatlas.com/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "naturalatlas"
+    },
+    {
+      "schemes": [
+        [
+          "https://naver.me/",
+          ""
+        ],
+        [
+          "https://m.naver.com/shorts/",
+          ""
+        ]
+      ],
+      "name": "Naver Clip",
+      "url": "https://m.naver.com/shorts",
+      "domainWithoutSuffixOfUrl": "naver",
+      "oembedUrl": "https://m.naver.com/shorts/oEmbed",
+      "domainWithoutSuffixOfOembedUrl": "naver"
+    },
+    {
+      "schemes": [
+        [
+          "https://ndla.no/",
+          ""
+        ],
+        [
+          "https://ndla.no/article/",
+          ""
+        ],
+        [
+          "https://ndla.no/audio/",
+          ""
+        ],
+        [
+          "https://ndla.no/concept/",
+          ""
+        ],
+        [
+          "https://ndla.no/image/",
+          ""
+        ],
+        [
+          "https://ndla.no/video/",
+          ""
+        ]
+      ],
+      "name": "NDLA - Norwegian Digital Learning Arena",
+      "url": "https://ndla.no",
+      "domainWithoutSuffixOfUrl": "ndla",
+      "oembedUrl": "https://ndla.no/oembed",
+      "domainWithoutSuffixOfOembedUrl": "ndla"
+    },
+    {
+      "schemes": [
+        [
+          "https://nebula.tv/videos/",
+          ""
+        ]
+      ],
+      "name": "Nebula",
+      "url": "https://nebula.tv",
+      "domainWithoutSuffixOfUrl": "nebula",
+      "oembedUrl": "https://nebula.tv/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "nebula"
+    },
+    {
+      "schemes": [
+        [
+          "https://beta.nebula.tv/videos/",
+          ""
+        ]
+      ],
+      "name": "Nebula Beta",
+      "url": "https://beta.nebula.tv",
+      "domainWithoutSuffixOfUrl": "nebula",
+      "oembedUrl": "https://beta.nebula.tv/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "nebula"
+    },
+    {
+      "schemes": [
+        [
+          "https://cloud.needle.tools/-/assets/",
+          "/file"
+        ],
+        [
+          "https://cloud.needle.tools/view?file=",
+          ""
+        ],
+        [
+          "https://",
+          ".needle.run/",
+          ""
+        ]
+      ],
+      "name": "Needle Cloud",
+      "url": "https://cloud.needle.tools",
+      "domainWithoutSuffixOfUrl": "needle",
+      "oembedUrl": "https://cloud.needle.tools/oembed",
+      "domainWithoutSuffixOfOembedUrl": "needle"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".neetorecord.com/watch/",
+          ""
+        ]
+      ],
+      "name": "neetoRecord",
+      "url": "https://neetorecord.com",
+      "domainWithoutSuffixOfUrl": "neetorecord",
+      "oembedUrl": "https://api.neetorecord.com/api/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "neetorecord"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".nfb.ca/film/",
+          ""
+        ]
+      ],
+      "name": "nfb.ca",
+      "url": "http://www.nfb.ca/",
+      "domainWithoutSuffixOfUrl": "nfb",
+      "oembedUrl": "http://www.nfb.ca/remote/services/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "nfb"
+    },
+    {
+      "schemes": [
+        [
+          "https://nopaste.ml/",
+          ""
+        ]
+      ],
+      "name": "NoPaste",
+      "url": "https://nopaste.ml",
+      "domainWithoutSuffixOfUrl": "nopaste",
+      "oembedUrl": "https://oembed.nopaste.ml",
+      "domainWithoutSuffixOfOembedUrl": "nopaste"
+    },
+    {
+      "schemes": [
+        [
+          "https://observablehq.com/@",
+          "/",
+          ""
+        ],
+        [
+          "https://observablehq.com/d/",
+          ""
+        ],
+        [
+          "https://observablehq.com/embed/",
+          ""
+        ]
+      ],
+      "name": "Observable",
+      "url": "https://observablehq.com",
+      "domainWithoutSuffixOfUrl": "observablehq",
+      "oembedUrl": "https://api.observablehq.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "observablehq"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.odds.com.au/",
+          ""
+        ],
+        [
+          "https://odds.com.au/",
+          ""
+        ]
+      ],
+      "name": "Odds.com.au",
+      "url": "https://www.odds.com.au",
+      "domainWithoutSuffixOfUrl": "odds",
+      "oembedUrl": "https://www.odds.com.au/api/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "odds"
+    },
+    {
+      "schemes": [
+        [
+          "https://song.link/",
+          ""
+        ],
+        [
+          "https://album.link/",
+          ""
+        ],
+        [
+          "https://artist.link/",
+          ""
+        ],
+        [
+          "https://playlist.link/",
+          ""
+        ],
+        [
+          "https://pods.link/",
+          ""
+        ],
+        [
+          "https://mylink.page/",
+          ""
+        ],
+        [
+          "https://odesli.co/",
+          ""
+        ]
+      ],
+      "name": "Odesli (formerly Songlink)",
+      "url": "https://odesli.co",
+      "domainWithoutSuffixOfUrl": "odesli",
+      "oembedUrl": "https://song.link/oembed",
+      "domainWithoutSuffixOfOembedUrl": "song"
+    },
+    {
+      "schemes": [
+        [
+          "https://odysee.com/",
+          "/",
+          ""
+        ],
+        [
+          "https://odysee.com/",
+          ""
+        ]
+      ],
+      "name": "Odysee",
+      "url": "https://odysee.com",
+      "domainWithoutSuffixOfUrl": "odysee",
+      "oembedUrl": "https://odysee.com/$/oembed",
+      "domainWithoutSuffixOfOembedUrl": "odysee"
+    },
+    {
+      "schemes": [
+        [
+          "http://official.fm/tracks/",
+          ""
+        ],
+        [
+          "http://official.fm/playlists/",
+          ""
+        ]
+      ],
+      "name": "Official FM",
+      "url": "http://official.fm",
+      "domainWithoutSuffixOfUrl": "official",
+      "oembedUrl": "http://official.fm/services/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "official"
+    },
+    {
+      "schemes": [
+        [
+          "https://omniscope.me/",
+          ""
+        ]
+      ],
+      "name": "Omniscope",
+      "url": "https://omniscope.me/",
+      "domainWithoutSuffixOfUrl": "omniscope",
+      "oembedUrl": "https://omniscope.me/_global_/oembed/json",
+      "domainWithoutSuffixOfOembedUrl": "omniscope"
+    },
+    {
+      "schemes": [
+        [
+          "https://omny.fm/shows/",
+          ""
+        ]
+      ],
+      "name": "Omny Studio",
+      "url": "https://omnystudio.com",
+      "domainWithoutSuffixOfUrl": "omnystudio",
+      "oembedUrl": "https://omny.fm/oembed",
+      "domainWithoutSuffixOfOembedUrl": "omny"
+    },
+    {
+      "schemes": [
+        [
+          "https://orbitvu.co/001/",
+          "/ov3601/view"
+        ],
+        [
+          "https://orbitvu.co/001/",
+          "/ov3601/",
+          "/view"
+        ],
+        [
+          "https://orbitvu.co/001/",
+          "/ov3602/",
+          "/view"
+        ],
+        [
+          "https://orbitvu.co/001/",
+          "/2/orbittour/",
+          "/view"
+        ],
+        [
+          "https://orbitvu.co/001/",
+          "/1/2/orbittour/",
+          "/view"
+        ],
+        [
+          "http://orbitvu.co/001/",
+          "/ov3601/view"
+        ],
+        [
+          "http://orbitvu.co/001/",
+          "/ov3601/",
+          "/view"
+        ],
+        [
+          "http://orbitvu.co/001/",
+          "/ov3602/",
+          "/view"
+        ],
+        [
+          "http://orbitvu.co/001/",
+          "/2/orbittour/",
+          "/view"
+        ],
+        [
+          "http://orbitvu.co/001/",
+          "/1/2/orbittour/",
+          "/view"
+        ]
+      ],
+      "name": "Orbitvu",
+      "url": "https://orbitvu.co",
+      "domainWithoutSuffixOfUrl": "orbitvu",
+      "oembedUrl": "http://orbitvu.co/service/oembed",
+      "domainWithoutSuffixOfOembedUrl": "orbitvu"
+    },
+    {
+      "schemes": [
+        [
+          "https://origits.com/v/",
+          ""
+        ]
+      ],
+      "name": "Origits",
+      "url": "https://origits.com/",
+      "domainWithoutSuffixOfUrl": "origits",
+      "oembedUrl": "https://origits.net/oembed",
+      "domainWithoutSuffixOfOembedUrl": "origits"
+    },
+    {
+      "schemes": [
+        [
+          "https://origits.com/v/",
+          ""
+        ]
+      ],
+      "name": "Origits",
+      "url": "https://origits.com/",
+      "domainWithoutSuffixOfUrl": "origits",
+      "oembedUrl": "https://origits.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "origits"
+    },
+    {
+      "schemes": [
+        [
+          "https://outplayed.tv/media/",
+          ""
+        ]
+      ],
+      "name": "Outplayed.tv",
+      "url": "https://outplayed.tv/",
+      "domainWithoutSuffixOfUrl": "outplayed",
+      "oembedUrl": "https://outplayed.tv/oembed",
+      "domainWithoutSuffixOfOembedUrl": "outplayed"
+    },
+    {
+      "schemes": [
+        [
+          "https://overflow.io/s/",
+          ""
+        ],
+        [
+          "https://overflow.io/embed/",
+          ""
+        ]
+      ],
+      "name": "Overflow",
+      "url": "https://overflow.io",
+      "domainWithoutSuffixOfUrl": "overflow",
+      "oembedUrl": "https://overflow.io/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "overflow"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.oz.com/",
+          "/video/",
+          ""
+        ]
+      ],
+      "name": "OZ",
+      "url": "https://www.oz.com/",
+      "domainWithoutSuffixOfUrl": "oz",
+      "oembedUrl": "https://core.oz.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "oz"
+    },
+    {
+      "schemes": [
+        [
+          "https://padlet.com/",
+          ""
+        ]
+      ],
+      "name": "Padlet",
+      "url": "https://padlet.com/",
+      "domainWithoutSuffixOfUrl": "padlet",
+      "oembedUrl": "https://padlet.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "padlet"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".tv.pandavideo.com.br/embed/?v=",
+          ""
+        ],
+        [
+          "https://",
+          ".tv.pandavideo.com.br/",
+          "/playlist.m3u8"
+        ],
+        [
+          "https://dashboard.pandavideo.com.br/#/videos/",
+          ""
+        ]
+      ],
+      "name": "Panda Video",
+      "url": "https://pandavideo.com/",
+      "domainWithoutSuffixOfUrl": "pandavideo",
+      "oembedUrl": "https://api-v2.pandavideo.com.br/oembed",
+      "domainWithoutSuffixOfOembedUrl": "pandavideo"
+    },
+    {
+      "schemes": [
+        [
+          "http://pastery.net/",
+          ""
+        ],
+        [
+          "https://pastery.net/",
+          ""
+        ],
+        [
+          "http://www.pastery.net/",
+          ""
+        ],
+        [
+          "https://www.pastery.net/",
+          ""
+        ]
+      ],
+      "name": "Pastery",
+      "url": "https://www.pastery.net",
+      "domainWithoutSuffixOfUrl": "pastery",
+      "oembedUrl": "https://www.pastery.net/oembed",
+      "domainWithoutSuffixOfOembedUrl": "pastery"
+    },
+    {
+      "schemes": [
+        [
+          "https://peertube.tv/w/",
+          ""
+        ]
+      ],
+      "name": "PeerTube.TV",
+      "url": "https://peertube.tv/",
+      "domainWithoutSuffixOfUrl": "peertube",
+      "oembedUrl": "https://peertube.tv/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "peertube"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.picturelfy.com/p/",
+          ""
+        ],
+        [
+          "https://www.picturelfy.com/p/",
+          ""
+        ]
+      ],
+      "name": "Picturelfy",
+      "url": "https://www.picturelfy.com/",
+      "domainWithoutSuffixOfUrl": "picturelfy",
+      "oembedUrl": "https://api.picturelfy.com/service/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "picturelfy"
+    },
+    {
+      "schemes": [
+        [
+          "https://piggy.to/@",
+          "/",
+          ""
+        ],
+        [
+          "https://piggy.to/view/",
+          ""
+        ]
+      ],
+      "name": "Piggy",
+      "url": "https://piggy.to",
+      "domainWithoutSuffixOfUrl": "piggy",
+      "oembedUrl": "https://piggy.to/oembed",
+      "domainWithoutSuffixOfOembedUrl": "piggy"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".builder.pikasso.xyz/embed/",
+          ""
+        ]
+      ],
+      "name": "Pikasso",
+      "url": "https://builder.pikasso.xyz",
+      "domainWithoutSuffixOfUrl": "pikasso",
+      "oembedUrl": "https://builder.pikasso.xyz/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "pikasso"
+    },
+    {
+      "schemes": [],
+      "name": "PingVP",
+      "url": "https://www.pingvp.com/",
+      "domainWithoutSuffixOfUrl": "pingvp",
+      "oembedUrl": "https://beta.pingvp.com.kpnis.nl/p/oembed.php",
+      "domainWithoutSuffixOfOembedUrl": "kpnis"
+    },
+    {
+      "schemes": [
+        [
+          "https://tools.pinpoll.com/embed/",
+          ""
+        ]
+      ],
+      "name": "Pinpoll",
+      "url": "https://www.pinpoll.com/products/tools",
+      "domainWithoutSuffixOfUrl": "pinpoll",
+      "oembedUrl": "https://tools.pinpoll.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "pinpoll"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.pinterest.com/",
+          ""
+        ]
+      ],
+      "name": "Pinterest",
+      "url": "https://www.pinterest.com",
+      "domainWithoutSuffixOfUrl": "pinterest",
+      "oembedUrl": "https://www.pinterest.com/oembed.json",
+      "domainWithoutSuffixOfOembedUrl": "pinterest"
+    },
+    {
+      "schemes": [
+        [
+          "https://player.pitchhub.com/en/public/player/",
+          ""
+        ]
+      ],
+      "name": "PitchHub",
+      "url": "https://www.pitchhub.com/",
+      "domainWithoutSuffixOfUrl": "pitchhub",
+      "oembedUrl": "https://player.pitchhub.com/en/public/oembed",
+      "domainWithoutSuffixOfOembedUrl": "pitchhub"
+    },
+    {
+      "schemes": [
+        [
+          "https://store.pixdor.com/place-marker-widget/",
+          "/show"
+        ],
+        [
+          "https://store.pixdor.com/map/",
+          "/show"
+        ]
+      ],
+      "name": "Pixdor",
+      "url": "http://www.pixdor.com/",
+      "domainWithoutSuffixOfUrl": "pixdor",
+      "oembedUrl": "https://store.pixdor.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "pixdor"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.plusdocs.com/",
+          "/snapshots/",
+          ""
+        ],
+        [
+          "https://app.plusdocs.com/",
+          "/pages/edit/",
+          ""
+        ],
+        [
+          "https://app.plusdocs.com/",
+          "/pages/share/",
+          ""
+        ]
+      ],
+      "name": "Plusdocs",
+      "url": "http://plusdocs.com",
+      "domainWithoutSuffixOfUrl": "plusdocs",
+      "oembedUrl": "https://app.plusdocs.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "plusdocs"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".podbean.com/e/",
+          ""
+        ],
+        [
+          "http://",
+          ".podbean.com/e/",
+          ""
+        ]
+      ],
+      "name": "Podbean",
+      "url": "http://podbean.com",
+      "domainWithoutSuffixOfUrl": "podbean",
+      "oembedUrl": "https://api.podbean.com/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "podbean"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".polldaddy.com/s/",
+          ""
+        ],
+        [
+          "http://",
+          ".polldaddy.com/poll/",
+          ""
+        ],
+        [
+          "http://",
+          ".polldaddy.com/ratings/",
+          ""
+        ]
+      ],
+      "name": "Poll Daddy",
+      "url": "http://polldaddy.com",
+      "domainWithoutSuffixOfUrl": "polldaddy",
+      "oembedUrl": "http://polldaddy.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "polldaddy"
+    },
+    {
+      "schemes": [
+        [
+          "https://portfolium.com/entry/",
+          ""
+        ]
+      ],
+      "name": "Portfolium",
+      "url": "https://portfolium.com",
+      "domainWithoutSuffixOfUrl": "portfolium",
+      "oembedUrl": "https://api.portfolium.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "portfolium"
+    },
+    {
+      "schemes": [
+        [
+          "https://present.do/decks/",
+          ""
+        ]
+      ],
+      "name": "Present",
+      "url": "https://present.do",
+      "domainWithoutSuffixOfUrl": "present",
+      "oembedUrl": "https://gateway.cobalt.run/present/decks/oembed",
+      "domainWithoutSuffixOfOembedUrl": "cobalt"
+    },
+    {
+      "schemes": [
+        [
+          "https://prezi.com/v/",
+          ""
+        ],
+        [
+          "https://",
+          ".prezi.com/v/",
+          ""
+        ]
+      ],
+      "name": "Prezi Video",
+      "url": "https://prezi.com/",
+      "domainWithoutSuffixOfUrl": "prezi",
+      "oembedUrl": "https://prezi.com/v/oembed",
+      "domainWithoutSuffixOfOembedUrl": "prezi"
+    },
+    {
+      "schemes": [
+        [
+          "https://programmingly.dev/snippets/",
+          ""
+        ]
+      ],
+      "name": "Programmingly.dev",
+      "url": "https://programmingly.dev",
+      "domainWithoutSuffixOfUrl": "programmingly",
+      "oembedUrl": "https://programmingly.dev/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "programmingly"
+    },
+    {
+      "schemes": [
+        [
+          "https://qtpi.gg/fashion/",
+          ""
+        ]
+      ],
+      "name": "QTpi",
+      "url": "https://qtpi.gg/",
+      "domainWithoutSuffixOfUrl": "qtpi",
+      "oembedUrl": "https://qtpi.gg/fashion/oembed",
+      "domainWithoutSuffixOfOembedUrl": "qtpi"
+    },
+    {
+      "schemes": [
+        [
+          "https://quartr.com/",
+          ""
+        ],
+        [
+          "https://web.quartr.com/",
+          ""
+        ]
+      ],
+      "name": "Quartr",
+      "url": "http://quartr.com",
+      "domainWithoutSuffixOfUrl": "quartr",
+      "oembedUrl": "https://web.quartr.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "quartr"
+    },
+    {
+      "schemes": [
+        [
+          "http://quellensuche.de/",
+          ""
+        ]
+      ],
+      "name": "QuellenSuche",
+      "url": "http://quellensuche.de",
+      "domainWithoutSuffixOfUrl": "quellensuche",
+      "oembedUrl": "http://quellensuche.de/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "quellensuche"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.quiz.biz/quizz-",
+          ".html"
+        ]
+      ],
+      "name": "Quiz.biz",
+      "url": "http://www.quiz.biz/",
+      "domainWithoutSuffixOfUrl": "quiz",
+      "oembedUrl": "http://www.quiz.biz/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "quiz"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.quizz.biz/quizz-",
+          ".html"
+        ]
+      ],
+      "name": "Quizz.biz",
+      "url": "http://www.quizz.biz/",
+      "domainWithoutSuffixOfUrl": "quizz",
+      "oembedUrl": "http://www.quizz.biz/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "quizz"
+    },
+    {
+      "schemes": [
+        [
+          "https://play.radiopublic.com/",
+          ""
+        ],
+        [
+          "https://radiopublic.com/",
+          ""
+        ],
+        [
+          "https://www.radiopublic.com/",
+          ""
+        ],
+        [
+          "http://play.radiopublic.com/",
+          ""
+        ],
+        [
+          "http://radiopublic.com/",
+          ""
+        ],
+        [
+          "http://www.radiopublic.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".radiopublic.com/",
+          ""
+        ]
+      ],
+      "name": "RadioPublic",
+      "url": "https://radiopublic.com",
+      "domainWithoutSuffixOfUrl": "radiopublic",
+      "oembedUrl": "https://oembed.radiopublic.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "radiopublic"
+    },
+    {
+      "schemes": [
+        [
+          "https://raindrop.io/",
+          ""
+        ],
+        [
+          "https://raindrop.io/",
+          "/",
+          ""
+        ],
+        [
+          "https://raindrop.io/",
+          "/",
+          "/",
+          ""
+        ],
+        [
+          "https://raindrop.io/",
+          "/",
+          "/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Raindrop",
+      "url": "https://raindrop.io",
+      "domainWithoutSuffixOfUrl": "raindrop",
+      "oembedUrl": "https://pub.raindrop.io/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "raindrop"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.rcvis.com/v/",
+          ""
+        ],
+        [
+          "https://www.rcvis.com/visualize=",
+          ""
+        ],
+        [
+          "https://www.rcvis.com/ve/",
+          ""
+        ],
+        [
+          "https://www.rcvis.com/visualizeembedded=",
+          ""
+        ]
+      ],
+      "name": "rcvis",
+      "url": "https://www.rcvis.com/",
+      "domainWithoutSuffixOfUrl": "rcvis",
+      "oembedUrl": "https://animatron.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "animatron"
+    },
+    {
+      "schemes": [
+        [
+          "https://reddit.com/r/",
+          "/comments/",
+          "/",
+          ""
+        ],
+        [
+          "https://www.reddit.com/r/",
+          "/comments/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Reddit",
+      "url": "https://reddit.com/",
+      "domainWithoutSuffixOfUrl": "reddit",
+      "oembedUrl": "https://www.reddit.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "reddit"
+    },
+    {
+      "schemes": [
+        [
+          "https://redlof-medien.de/",
+          ""
+        ],
+        [
+          "https://www.redlof-medien.de/",
+          ""
+        ]
+      ],
+      "name": "Redlof-Medien",
+      "url": "https://redlof-medien.de",
+      "domainWithoutSuffixOfUrl": "redlof-medien",
+      "oembedUrl": "https://redlof-medien.de/wp-json/oembed/1.0/embed",
+      "domainWithoutSuffixOfOembedUrl": "redlof-medien"
+    },
+    {
+      "schemes": [
+        [
+          "https://show.wexcreator.com/",
+          ""
+        ],
+        [
+          "https://showroom.redlof-medien.de/",
+          ""
+        ]
+      ],
+      "name": "Redlof-Medien",
+      "url": "https://redlof-medien.de",
+      "domainWithoutSuffixOfUrl": "redlof-medien",
+      "oembedUrl": "https://api.wexcreator.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "wexcreator"
+    },
+    {
+      "schemes": [
+        [
+          "http://rwire.com/",
+          ""
+        ]
+      ],
+      "name": "ReleaseWire",
+      "url": "http://www.releasewire.com/",
+      "domainWithoutSuffixOfUrl": "releasewire",
+      "oembedUrl": "http://publisher.releasewire.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "releasewire"
+    },
+    {
+      "schemes": [
+        [
+          "https://repl.it/@",
+          "/",
+          ""
+        ],
+        [
+          "https://replit.com/@",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Replit",
+      "url": "https://replit.com/",
+      "domainWithoutSuffixOfUrl": "replit",
+      "oembedUrl": "https://replit.com/data/oembed",
+      "domainWithoutSuffixOfOembedUrl": "replit"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.reverbnation.com/",
+          ""
+        ],
+        [
+          "https://www.reverbnation.com/",
+          "/songs/",
+          ""
+        ]
+      ],
+      "name": "ReverbNation",
+      "url": "https://www.reverbnation.com/",
+      "domainWithoutSuffixOfUrl": "reverbnation",
+      "oembedUrl": "https://www.reverbnation.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "reverbnation"
+    },
+    {
+      "schemes": [
+        [
+          "http://roomshare.jp/post/",
+          ""
+        ],
+        [
+          "http://roomshare.jp/en/post/",
+          ""
+        ]
+      ],
+      "name": "Roomshare",
+      "url": "http://roomshare.jp",
+      "domainWithoutSuffixOfUrl": "roomshare",
+      "oembedUrl": "http://roomshare.jp/en/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "roomshare"
+    },
+    {
+      "schemes": [
+        [
+          "https://roosterteeth.com/",
+          ""
+        ]
+      ],
+      "name": "RoosterTeeth",
+      "url": "https://roosterteeth.com",
+      "domainWithoutSuffixOfUrl": "roosterteeth",
+      "oembedUrl": "https://roosterteeth.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "roosterteeth"
+    },
+    {
+      "schemes": [],
+      "name": "Rumble",
+      "url": "https://rumble.com/",
+      "domainWithoutSuffixOfUrl": "rumble",
+      "oembedUrl": "https://rumble.com/api/Media/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "rumble"
+    },
+    {
+      "schemes": [
+        [
+          "http://embed.runkit.com/",
+          ","
+        ],
+        [
+          "https://embed.runkit.com/",
+          ","
+        ]
+      ],
+      "name": "Runkit",
+      "url": "https://runkit.com",
+      "domainWithoutSuffixOfUrl": "runkit",
+      "oembedUrl": "https://embed.runkit.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "runkit"
+    },
+    {
+      "schemes": [
+        [
+          "https://octopus.saooti.com/main/pub/podcast/",
+          ""
+        ]
+      ],
+      "name": "Saooti",
+      "url": "https://octopus.saooti.com",
+      "domainWithoutSuffixOfUrl": "saooti",
+      "oembedUrl": "https://octopus.saooti.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "saooti"
+    },
+    {
+      "schemes": [
+        [
+          "http://videos.sapo.pt/",
+          ""
+        ]
+      ],
+      "name": "Sapo Videos",
+      "url": "http://videos.sapo.pt",
+      "domainWithoutSuffixOfUrl": "sapo",
+      "oembedUrl": "http://videos.sapo.pt/oembed",
+      "domainWithoutSuffixOfOembedUrl": "sapo"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.satcat.com/sats/",
+          ""
+        ]
+      ],
+      "name": "Satcat",
+      "url": "https://www.satcat.com/",
+      "domainWithoutSuffixOfUrl": "satcat",
+      "oembedUrl": "https://www.satcat.com/api/sats/oembed",
+      "domainWithoutSuffixOfOembedUrl": "satcat"
+    },
+    {
+      "schemes": [
+        [
+          "https://api.satoplayer.com/players/embed/",
+          ""
+        ]
+      ],
+      "name": "Sato Video Player",
+      "url": "http://satoplayer.com",
+      "domainWithoutSuffixOfUrl": "satoplayer",
+      "oembedUrl": "https://api.satoplayer.com/players/oembed",
+      "domainWithoutSuffixOfOembedUrl": "satoplayer"
+    },
+    {
+      "schemes": [
+        [
+          "https://sbedit.net/",
+          ""
+        ]
+      ],
+      "name": "sbedit",
+      "url": "https://sbedit.net",
+      "domainWithoutSuffixOfUrl": "sbedit",
+      "oembedUrl": "https://sbedit.net/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "sbedit"
+    },
+    {
+      "schemes": [
+        [
+          "https://getscenes.com/e/",
+          ""
+        ],
+        [
+          "https://getscenes.com/event/",
+          ""
+        ]
+      ],
+      "name": "Scenes",
+      "url": "https://getscenes.com",
+      "domainWithoutSuffixOfUrl": "getscenes",
+      "oembedUrl": "https://getscenes.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "getscenes"
+    },
+    {
+      "schemes": [
+        [
+          "https://console.screen9.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".screen9.tv/",
+          ""
+        ]
+      ],
+      "name": "Screen9",
+      "url": "http://www.screen9.com/",
+      "domainWithoutSuffixOfUrl": "screen9",
+      "oembedUrl": "https://api.screen9.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "screen9"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.screencast.com/",
+          ""
+        ]
+      ],
+      "name": "Screencast.com",
+      "url": "http://www.screencast.com/",
+      "domainWithoutSuffixOfUrl": "screencast",
+      "oembedUrl": "https://api.screencast.com/external/oembed",
+      "domainWithoutSuffixOfOembedUrl": "screencast"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.screenr.com/",
+          "/"
+        ]
+      ],
+      "name": "Screenr",
+      "url": "http://www.screenr.com/",
+      "domainWithoutSuffixOfUrl": "screenr",
+      "oembedUrl": "http://www.screenr.com/api/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "screenr"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.scribblemaps.com/maps/view/",
+          ""
+        ],
+        [
+          "https://www.scribblemaps.com/maps/view/",
+          ""
+        ],
+        [
+          "http://scribblemaps.com/maps/view/",
+          ""
+        ],
+        [
+          "https://scribblemaps.com/maps/view/",
+          ""
+        ]
+      ],
+      "name": "ScribbleMaps",
+      "url": "https://scribblemaps.com",
+      "domainWithoutSuffixOfUrl": "scribblemaps",
+      "oembedUrl": "https://scribblemaps.com/api/services/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "scribblemaps"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.scribd.com/doc/",
+          ""
+        ]
+      ],
+      "name": "Scribd",
+      "url": "http://www.scribd.com/",
+      "domainWithoutSuffixOfUrl": "scribd",
+      "oembedUrl": "http://www.scribd.com/services/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "scribd"
+    },
+    {
+      "schemes": [
+        [
+          "https://embed.sendtonews.com/oembed/",
+          ""
+        ]
+      ],
+      "name": "SendtoNews",
+      "url": "http://www.sendtonews.com/",
+      "domainWithoutSuffixOfUrl": "sendtonews",
+      "oembedUrl": "https://embed.sendtonews.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "sendtonews"
+    },
+    {
+      "schemes": [
+        [
+          "https://shared-file-kappa.vercel.app/file/",
+          ""
+        ]
+      ],
+      "name": "SharedFile",
+      "url": "https://shared-file-kappa.vercel.app/file/",
+      "domainWithoutSuffixOfUrl": "vercel",
+      "oembedUrl": "https://shared-file-kappa.vercel.app/file/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vercel"
+    },
+    {
+      "schemes": [
+        [
+          "https://shopshare.tv/shopboard/",
+          ""
+        ],
+        [
+          "https://shopshare.tv/shopcast/",
+          ""
+        ]
+      ],
+      "name": "Shopshare",
+      "url": "https://shopshare.tv",
+      "domainWithoutSuffixOfUrl": "shopshare",
+      "oembedUrl": "https://shopshare.tv/api/shopcast/oembed",
+      "domainWithoutSuffixOfOembedUrl": "shopshare"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.shortnote.jp/view/notes/",
+          ""
+        ]
+      ],
+      "name": "ShortNote",
+      "url": "https://www.shortnote.jp/",
+      "domainWithoutSuffixOfUrl": "shortnote",
+      "oembedUrl": "https://www.shortnote.jp/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "shortnote"
+    },
+    {
+      "schemes": [
+        [
+          "http://shoudio.com/",
+          ""
+        ],
+        [
+          "http://shoud.io/",
+          ""
+        ]
+      ],
+      "name": "Shoudio",
+      "url": "http://shoudio.com",
+      "domainWithoutSuffixOfUrl": "shoudio",
+      "oembedUrl": "http://shoudio.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "shoudio"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.getshow.io/iframe/",
+          ""
+        ],
+        [
+          "https://",
+          ".getshow.io/share/",
+          ""
+        ]
+      ],
+      "name": "Show by Animaker",
+      "url": "https://getshow.io/",
+      "domainWithoutSuffixOfUrl": "getshow",
+      "oembedUrl": "https://api.getshow.io/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "getshow"
+    },
+    {
+      "schemes": [
+        [
+          "https://showtheway.io/to/",
+          ""
+        ]
+      ],
+      "name": "Show the Way, actionable location info",
+      "url": "https://showtheway.io",
+      "domainWithoutSuffixOfUrl": "showtheway",
+      "oembedUrl": "https://showtheway.io/oembed",
+      "domainWithoutSuffixOfOembedUrl": "showtheway"
+    },
+    {
+      "schemes": [
+        [
+          "https://simplecast.com/s/",
+          ""
+        ]
+      ],
+      "name": "Simplecast",
+      "url": "https://simplecast.com",
+      "domainWithoutSuffixOfUrl": "simplecast",
+      "oembedUrl": "https://simplecast.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "simplecast"
+    },
+    {
+      "schemes": [
+        [
+          "https://onsizzle.com/i/",
+          ""
+        ]
+      ],
+      "name": "Sizzle",
+      "url": "https://onsizzle.com/",
+      "domainWithoutSuffixOfUrl": "onsizzle",
+      "oembedUrl": "https://onsizzle.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "onsizzle"
+    },
+    {
+      "schemes": [
+        [
+          "http://sketchfab.com/",
+          "models/",
+          ""
+        ],
+        [
+          "https://sketchfab.com/",
+          "models/",
+          ""
+        ],
+        [
+          "https://sketchfab.com/",
+          "/folders/",
+          ""
+        ]
+      ],
+      "name": "Sketchfab",
+      "url": "http://sketchfab.com",
+      "domainWithoutSuffixOfUrl": "sketchfab",
+      "oembedUrl": "http://sketchfab.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "sketchfab"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.skoletube.dk/media/",
+          ""
+        ],
+        [
+          "https://www.skoletube.dk/video/",
+          ""
+        ],
+        [
+          "https://www.studietube.dk/media/",
+          ""
+        ],
+        [
+          "https://www.studietube.dk/video/",
+          ""
+        ]
+      ],
+      "name": "Skoletube",
+      "url": "https://www.skoletube.dk/",
+      "domainWithoutSuffixOfUrl": "skoletube",
+      "oembedUrl": "https://www.skoletube.dk/media/lasync/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "skoletube"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.slideshare.net/",
+          "/",
+          ""
+        ],
+        [
+          "http://www.slideshare.net/",
+          "/",
+          ""
+        ],
+        [
+          "https://fr.slideshare.net/",
+          "/",
+          ""
+        ],
+        [
+          "http://fr.slideshare.net/",
+          "/",
+          ""
+        ],
+        [
+          "https://de.slideshare.net/",
+          "/",
+          ""
+        ],
+        [
+          "http://de.slideshare.net/",
+          "/",
+          ""
+        ],
+        [
+          "https://es.slideshare.net/",
+          "/",
+          ""
+        ],
+        [
+          "http://es.slideshare.net/",
+          "/",
+          ""
+        ],
+        [
+          "https://pt.slideshare.net/",
+          "/",
+          ""
+        ],
+        [
+          "http://pt.slideshare.net/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "SlideShare",
+      "url": "http://www.slideshare.net/",
+      "domainWithoutSuffixOfUrl": "slideshare",
+      "oembedUrl": "https://www.slideshare.net/api/oembed/2",
+      "domainWithoutSuffixOfOembedUrl": "slideshare"
+    },
+    {
+      "schemes": [
+        [
+          "https://smashnotes.com/p/",
+          ""
+        ],
+        [
+          "https://smashnotes.com/p/",
+          "/e/",
+          " - https://smashnotes.com/p/",
+          "/e/",
+          "/s/",
+          ""
+        ]
+      ],
+      "name": "SmashNotes",
+      "url": "https://smashnotes.com",
+      "domainWithoutSuffixOfUrl": "smashnotes",
+      "oembedUrl": "https://smashnotes.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "smashnotes"
+    },
+    {
+      "schemes": [
+        [
+          "https://open.smeme.com/",
+          ""
+        ]
+      ],
+      "name": "Smeme",
+      "url": "https://smeme.com",
+      "domainWithoutSuffixOfUrl": "smeme",
+      "oembedUrl": "https://open.smeme.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "smeme"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.smrthi.com/book/",
+          ""
+        ]
+      ],
+      "name": "Smrthi",
+      "url": "https://www.smrthi.com",
+      "domainWithoutSuffixOfUrl": "smrthi",
+      "oembedUrl": "https://www.smrthi.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "smrthi"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".smugmug.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".smugmug.com/",
+          ""
+        ]
+      ],
+      "name": "SmugMug",
+      "url": "https://www.smugmug.com/",
+      "domainWithoutSuffixOfUrl": "smugmug",
+      "oembedUrl": "https://api.smugmug.com/services/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "smugmug"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.socialexplorer.com/",
+          "/explore"
+        ],
+        [
+          "https://www.socialexplorer.com/",
+          "/view"
+        ],
+        [
+          "https://www.socialexplorer.com/",
+          "/edit"
+        ],
+        [
+          "https://www.socialexplorer.com/",
+          "/embed"
+        ]
+      ],
+      "name": "SocialExplorer",
+      "url": "https://www.socialexplorer.com/",
+      "domainWithoutSuffixOfUrl": "socialexplorer",
+      "oembedUrl": "https://www.socialexplorer.com/services/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "socialexplorer"
+    },
+    {
+      "schemes": [
+        [
+          "https://vod.sooplive.co.kr/player/"
+        ],
+        [
+          "https://v.afree.ca/st/"
+        ],
+        [
+          "https://vod.sooplive.co.kr/st/"
+        ],
+        [
+          "https://vod.sooplive.co.kr/player/station/"
+        ],
+        [
+          "https://play.sooplive.co.kr/"
+        ]
+      ],
+      "name": "SOOP",
+      "url": "https://www.sooplive.co.kr",
+      "domainWithoutSuffixOfUrl": "sooplive",
+      "oembedUrl": "https://openapi.sooplive.co.kr/oembed/embedinfo",
+      "domainWithoutSuffixOfOembedUrl": "sooplive"
+    },
+    {
+      "schemes": [
+        [
+          "http://soundcloud.com/",
+          ""
+        ],
+        [
+          "https://soundcloud.com/",
+          ""
+        ],
+        [
+          "https://on.soundcloud.com/",
+          ""
+        ],
+        [
+          "https://soundcloud.app.goog.gl/",
+          ""
+        ]
+      ],
+      "name": "SoundCloud",
+      "url": "http://soundcloud.com/",
+      "domainWithoutSuffixOfUrl": "soundcloud",
+      "oembedUrl": "https://soundcloud.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "soundcloud"
+    },
+    {
+      "schemes": [
+        [
+          "http://speakerdeck.com/",
+          "/",
+          ""
+        ],
+        [
+          "https://speakerdeck.com/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "SpeakerDeck",
+      "url": "https://speakerdeck.com",
+      "domainWithoutSuffixOfUrl": "speakerdeck",
+      "oembedUrl": "https://speakerdeck.com/oembed.json",
+      "domainWithoutSuffixOfOembedUrl": "speakerdeck"
+    },
+    {
+      "schemes": [
+        [
+          "https://open.spotify.com/",
+          ""
+        ],
+        [
+          "spotify:",
+          ""
+        ],
+        [
+          "https://spotify.link/",
+          ""
+        ]
+      ],
+      "name": "Spotify",
+      "url": "https://spotify.com/",
+      "domainWithoutSuffixOfUrl": "spotify",
+      "oembedUrl": "https://open.spotify.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "spotify"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".spotlightr.com/watch/",
+          ""
+        ],
+        [
+          "https://",
+          ".spotlightr.com/publish/",
+          ""
+        ],
+        [
+          "https://",
+          ".cdn.spotlightr.com/watch/",
+          ""
+        ],
+        [
+          "https://",
+          ".cdn.spotlightr.com/publish/",
+          ""
+        ]
+      ],
+      "name": "Spotlightr",
+      "url": "https://spotlightr.com",
+      "domainWithoutSuffixOfUrl": "spotlightr",
+      "oembedUrl": "https://api.spotlightr.com/getOEmbed",
+      "domainWithoutSuffixOfOembedUrl": "spotlightr"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".spreaker.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".spreaker.com/",
+          ""
+        ]
+      ],
+      "name": "Spreaker",
+      "url": "https://www.spreaker.com/",
+      "domainWithoutSuffixOfUrl": "spreaker",
+      "oembedUrl": "https://api.spreaker.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "spreaker"
+    },
+    {
+      "schemes": [
+        [
+          "https://sproutvideo.com/videos/",
+          ""
+        ],
+        [
+          "https://",
+          ".vids.io/videos/",
+          ""
+        ]
+      ],
+      "name": "SproutVideo",
+      "url": "https://sproutvideo.com",
+      "domainWithoutSuffixOfUrl": "sproutvideo",
+      "oembedUrl": "http://sproutvideo.com/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "sproutvideo"
+    },
+    {
+      "schemes": [
+        [
+          "http://spyke.social/p/",
+          ""
+        ],
+        [
+          "http://spyke.social/u/",
+          ""
+        ],
+        [
+          "http://spyke.social/g/",
+          ""
+        ],
+        [
+          "http://spyke.social/c/",
+          ""
+        ],
+        [
+          "https://spyke.social/p/",
+          ""
+        ],
+        [
+          "https://spyke.social/u/",
+          ""
+        ],
+        [
+          "https://spyke.social/g/",
+          ""
+        ],
+        [
+          "https://spyke.social/c/",
+          ""
+        ],
+        [
+          "http://www.spyke.social/p/",
+          ""
+        ],
+        [
+          "http://www.spyke.social/u/",
+          ""
+        ],
+        [
+          "http://www.spyke.social/g/",
+          ""
+        ],
+        [
+          "http://www.spyke.social/c/",
+          ""
+        ],
+        [
+          "https://www.spyke.social/p/",
+          ""
+        ],
+        [
+          "https://www.spyke.social/u/",
+          ""
+        ],
+        [
+          "https://www.spyke.social/g/",
+          ""
+        ],
+        [
+          "https://www.spyke.social/c/",
+          ""
+        ]
+      ],
+      "name": "Spyke",
+      "url": "https://spyke.social",
+      "domainWithoutSuffixOfUrl": "spyke",
+      "oembedUrl": "https://api.spyke.social/embed/oembed",
+      "domainWithoutSuffixOfOembedUrl": "spyke"
+    },
+    {
+      "schemes": [
+        [
+          "https://purl.stanford.edu/",
+          ""
+        ]
+      ],
+      "name": "Stanford Digital Repository",
+      "url": "https://purl.stanford.edu/",
+      "domainWithoutSuffixOfUrl": "stanford",
+      "oembedUrl": "https://purl.stanford.edu/embed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "stanford"
+    },
+    {
+      "schemes": [
+        [
+          "http://streamable.com/",
+          ""
+        ],
+        [
+          "https://streamable.com/",
+          ""
+        ]
+      ],
+      "name": "Streamable",
+      "url": "https://streamable.com/",
+      "domainWithoutSuffixOfUrl": "streamable",
+      "oembedUrl": "https://api.streamable.com/oembed.json",
+      "domainWithoutSuffixOfOembedUrl": "streamable"
+    },
+    {
+      "schemes": [
+        [
+          "https://s3m.io/",
+          ""
+        ],
+        [
+          "https://23m.io/",
+          ""
+        ]
+      ],
+      "name": "Streamio",
+      "url": "https://www.streamio.com",
+      "domainWithoutSuffixOfUrl": "streamio",
+      "oembedUrl": "https://streamio.com/api/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "streamio"
+    },
+    {
+      "schemes": [
+        [
+          "https://subscribi.io/api/oembed",
+          ""
+        ]
+      ],
+      "name": "Subscribi",
+      "url": "https://subscribi.io/",
+      "domainWithoutSuffixOfUrl": "subscribi",
+      "oembedUrl": "https://subscribi.io/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "subscribi"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.sudomemo.net/watch/",
+          ""
+        ],
+        [
+          "http://www.sudomemo.net/watch/",
+          ""
+        ],
+        [
+          "https://archive.sudomemo.net/watch/",
+          ""
+        ],
+        [
+          "http://archive.sudomemo.net/watch/",
+          ""
+        ],
+        [
+          "https://flipnot.es/",
+          ""
+        ],
+        [
+          "http://flipnot.es/",
+          ""
+        ]
+      ],
+      "name": "Sudomemo",
+      "url": "https://www.sudomemo.net/",
+      "domainWithoutSuffixOfUrl": "sudomemo",
+      "oembedUrl": "https://www.sudomemo.net/oembed",
+      "domainWithoutSuffixOfOembedUrl": "sudomemo"
+    },
+    {
+      "schemes": [
+        [
+          "https://supercut.ai/share/",
+          ""
+        ]
+      ],
+      "name": "Supercut",
+      "url": "https://supercut.ai/",
+      "domainWithoutSuffixOfUrl": "supercut",
+      "oembedUrl": "https://supercut.ai/oembed",
+      "domainWithoutSuffixOfOembedUrl": "supercut"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.sutori.com/story/",
+          ""
+        ]
+      ],
+      "name": "Sutori",
+      "url": "https://www.sutori.com/",
+      "domainWithoutSuffixOfUrl": "sutori",
+      "oembedUrl": "https://www.sutori.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "sutori"
+    },
+    {
+      "schemes": [
+        [
+          "https://sway.com/",
+          ""
+        ],
+        [
+          "https://www.sway.com/",
+          ""
+        ]
+      ],
+      "name": "Sway",
+      "url": "https://www.sway.com",
+      "domainWithoutSuffixOfUrl": "sway",
+      "oembedUrl": "https://sway.com/api/v1.0/oembed",
+      "domainWithoutSuffixOfOembedUrl": "sway"
+    },
+    {
+      "schemes": [
+        [
+          "https://sway.office.com/",
+          ""
+        ]
+      ],
+      "name": "Sway Office",
+      "url": "https://sway.office.com",
+      "domainWithoutSuffixOfUrl": "office",
+      "oembedUrl": "https://sway.office.com/api/v1.0/oembed",
+      "domainWithoutSuffixOfOembedUrl": "office"
+    },
+    {
+      "schemes": [
+        [
+          "https://share.synthesia.io/",
+          ""
+        ]
+      ],
+      "name": "Synthesia",
+      "url": "https://www.synthesia.io/",
+      "domainWithoutSuffixOfUrl": "synthesia",
+      "oembedUrl": "https://69jr5v75rc.execute-api.eu-west-1.amazonaws.com/prod/v2/oembed",
+      "domainWithoutSuffixOfOembedUrl": "amazonaws"
+    },
+    {
+      "schemes": [
+        [
+          "https://techpostcast.com/headline-topic-programs/",
+          ""
+        ]
+      ],
+      "name": "Tech Post Cast",
+      "url": "https://techpostcast.com",
+      "domainWithoutSuffixOfUrl": "techpostcast",
+      "oembedUrl": "https://techpostcast.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "techpostcast"
+    },
+    {
+      "schemes": [
+        [
+          "http://ted.com/talks/",
+          ""
+        ],
+        [
+          "https://ted.com/talks/",
+          ""
+        ],
+        [
+          "https://www.ted.com/talks/",
+          ""
+        ]
+      ],
+      "name": "TED",
+      "url": "https://www.ted.com",
+      "domainWithoutSuffixOfUrl": "ted",
+      "oembedUrl": "https://www.ted.com/services/v1/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "ted"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.tella.tv/video/",
+          ""
+        ],
+        [
+          "https://tella.video/",
+          ""
+        ]
+      ],
+      "name": "Tella",
+      "url": "https://www.tella.tv/",
+      "domainWithoutSuffixOfUrl": "tella",
+      "oembedUrl": "https://www.tella.tv/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "tella"
+    },
+    {
+      "schemes": [
+        [
+          "https://hubspot-media-bridge.thedamconsultants.com/",
+          ""
+        ]
+      ],
+      "name": "The DAM consultants",
+      "url": "https://hubspot-media-bridge.thedamconsultants.com/",
+      "domainWithoutSuffixOfUrl": "thedamconsultants",
+      "oembedUrl": "https://hubspot-media-bridge.thedamconsultants.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "thedamconsultants"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.nytimes.com/svc/oembed"
+        ],
+        [
+          "https://nytimes.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".nytimes.com/",
+          ""
+        ]
+      ],
+      "name": "The New York Times",
+      "url": "https://www.nytimes.com",
+      "domainWithoutSuffixOfUrl": "nytimes",
+      "oembedUrl": "https://www.nytimes.com/svc/oembed/json/",
+      "domainWithoutSuffixOfOembedUrl": "nytimes"
+    },
+    {
+      "schemes": [
+        [
+          "https://theysaidso.com/image/",
+          ""
+        ]
+      ],
+      "name": "They Said So",
+      "url": "https://theysaidso.com/",
+      "domainWithoutSuffixOfUrl": "theysaidso",
+      "oembedUrl": "https://theysaidso.com/extensions/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "theysaidso"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.tickcounter.com/widget/",
+          ""
+        ],
+        [
+          "http://www.tickcounter.com/countdown/",
+          ""
+        ],
+        [
+          "http://www.tickcounter.com/countup/",
+          ""
+        ],
+        [
+          "http://www.tickcounter.com/ticker/",
+          ""
+        ],
+        [
+          "http://www.tickcounter.com/clock/",
+          ""
+        ],
+        [
+          "http://www.tickcounter.com/worldclock/",
+          ""
+        ],
+        [
+          "http://www.tickcounter.com/embed/",
+          ""
+        ],
+        [
+          "http://www.tickcounter.com/full/",
+          ""
+        ],
+        [
+          "https://www.tickcounter.com/widget/",
+          ""
+        ],
+        [
+          "https://www.tickcounter.com/countdown/",
+          ""
+        ],
+        [
+          "https://www.tickcounter.com/countup/",
+          ""
+        ],
+        [
+          "https://www.tickcounter.com/ticker/",
+          ""
+        ],
+        [
+          "https://www.tickcounter.com/clock/",
+          ""
+        ],
+        [
+          "https://www.tickcounter.com/worldclock/",
+          ""
+        ],
+        [
+          "https://www.tickcounter.com/embed/",
+          ""
+        ],
+        [
+          "https://www.tickcounter.com/full/",
+          ""
+        ]
+      ],
+      "name": "TickCounter",
+      "url": "https://www.tickcounter.com",
+      "domainWithoutSuffixOfUrl": "tickcounter",
+      "oembedUrl": "https://www.tickcounter.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "tickcounter"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.tiktok.com/",
+          ""
+        ],
+        [
+          "https://www.tiktok.com/",
+          "/video/",
+          ""
+        ]
+      ],
+      "name": "TikTok",
+      "url": "http://www.tiktok.com/",
+      "domainWithoutSuffixOfUrl": "tiktok",
+      "oembedUrl": "https://www.tiktok.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "tiktok"
+    },
+    {
+      "schemes": [
+        [
+          "https://tksn.me/",
+          ""
+        ],
+        [
+          "https://",
+          ".tksn.me/",
+          ""
+        ]
+      ],
+      "name": "tksn-me",
+      "url": "https://tksn.me",
+      "domainWithoutSuffixOfUrl": "tksn",
+      "oembedUrl": "https://tksn.me/api/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "tksn"
+    },
+    {
+      "schemes": [
+        [
+          "https://tonicaudio.com/take/",
+          ""
+        ],
+        [
+          "https://tonicaudio.com/song/",
+          ""
+        ],
+        [
+          "https://tnic.io/song/",
+          ""
+        ],
+        [
+          "https://tnic.io/take/",
+          ""
+        ]
+      ],
+      "name": "Tonic Audio",
+      "url": "https://tonicaudio.com/",
+      "domainWithoutSuffixOfUrl": "tonicaudio",
+      "oembedUrl": "https://tonicaudio.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "tonicaudio"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.toornament.com/tournaments/",
+          "/information"
+        ],
+        [
+          "https://www.toornament.com/tournaments/",
+          "/registration/"
+        ],
+        [
+          "https://www.toornament.com/tournaments/",
+          "/matches/schedule"
+        ],
+        [
+          "https://www.toornament.com/tournaments/",
+          "/stages/",
+          "/"
+        ]
+      ],
+      "name": "Toornament",
+      "url": "https://www.toornament.com/",
+      "domainWithoutSuffixOfUrl": "toornament",
+      "oembedUrl": "https://widget.toornament.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "toornament"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.topy.se/image/",
+          ""
+        ]
+      ],
+      "name": "Topy",
+      "url": "http://www.topy.se/",
+      "domainWithoutSuffixOfUrl": "topy",
+      "oembedUrl": "http://www.topy.se/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "topy"
+    },
+    {
+      "schemes": [
+        [
+          "https://app-test.totango.com/",
+          ""
+        ]
+      ],
+      "name": "Totango",
+      "url": "https://totango.com",
+      "domainWithoutSuffixOfUrl": "totango",
+      "oembedUrl": "https://app-test.totango.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "totango"
+    },
+    {
+      "schemes": [
+        [
+          "http://trackspace.upitup.com/",
+          ""
+        ]
+      ],
+      "name": "Trackspace",
+      "url": "http://trackspace.upitup.com/",
+      "domainWithoutSuffixOfUrl": "upitup",
+      "oembedUrl": "https://trackspace.upitup.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "upitup"
+    },
+    {
+      "schemes": [
+        [
+          "https://trinitymedia.ai/player/",
+          ""
+        ],
+        [
+          "https://trinitymedia.ai/player/",
+          "/",
+          ""
+        ],
+        [
+          "https://trinitymedia.ai/player/",
+          "/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Trinity Audio",
+      "url": "https://trinityaudio.ai",
+      "domainWithoutSuffixOfUrl": "trinityaudio",
+      "oembedUrl": "https://trinitymedia.ai/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "trinitymedia"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".tumblr.com/post/",
+          ""
+        ]
+      ],
+      "name": "Tumblr",
+      "url": "https://www.tumblr.com",
+      "domainWithoutSuffixOfUrl": "tumblr",
+      "oembedUrl": "https://www.tumblr.com/oembed/1.0",
+      "domainWithoutSuffixOfOembedUrl": "tumblr"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.tuxx.be/",
+          ""
+        ]
+      ],
+      "name": "Tuxx",
+      "url": "https://www.tuxx.be/",
+      "domainWithoutSuffixOfUrl": "tuxx",
+      "oembedUrl": "https://www.tuxx.be/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "tuxx"
+    },
+    {
+      "schemes": [
+        [
+          "https://play.tvcf.co.kr/",
+          ""
+        ],
+        [
+          "https://",
+          ".tvcf.co.kr/",
+          ""
+        ]
+      ],
+      "name": "tvcf",
+      "url": "http://tvcf.co.kr",
+      "domainWithoutSuffixOfUrl": "tvcf",
+      "oembedUrl": "https://play.tvcf.co.kr/rest/oembed",
+      "domainWithoutSuffixOfOembedUrl": "tvcf"
+    },
+    {
+      "schemes": [
+        [
+          "https://twinmotion.unrealengine.com/presentation/",
+          ""
+        ],
+        [
+          "https://twinmotion.unrealengine.com/panorama/",
+          ""
+        ]
+      ],
+      "name": "Twinmotion",
+      "url": "https://twinmotion.unrealengine.com",
+      "domainWithoutSuffixOfUrl": "unrealengine",
+      "oembedUrl": "https://twinmotion.unrealengine.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "unrealengine"
+    },
+    {
+      "schemes": [
+        [
+          "https://twitter.com/",
+          ""
+        ],
+        [
+          "https://twitter.com/",
+          "/status/",
+          ""
+        ],
+        [
+          "https://",
+          ".twitter.com/",
+          "/status/",
+          ""
+        ]
+      ],
+      "name": "Twitter",
+      "url": "http://www.twitter.com/",
+      "domainWithoutSuffixOfUrl": "twitter",
+      "oembedUrl": "https://publish.twitter.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "twitter"
+    },
+    {
+      "schemes": [
+        [
+          "https://play.typecast.ai/s/",
+          ""
+        ],
+        [
+          "https://play.typecast.ai/e/",
+          ""
+        ],
+        [
+          "https://play.typecast.ai/",
+          ""
+        ]
+      ],
+      "name": "TypeCast",
+      "url": "https://typecast.ai",
+      "domainWithoutSuffixOfUrl": "typecast",
+      "oembedUrl": "https://play.typecast.ai/oembed",
+      "domainWithoutSuffixOfOembedUrl": "typecast"
+    },
+    {
+      "schemes": [],
+      "name": "Typlog",
+      "url": "https://typlog.com",
+      "domainWithoutSuffixOfUrl": "typlog",
+      "oembedUrl": "https://typlog.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "typlog"
+    },
+    {
+      "schemes": [
+        [
+          "https://uapod.univ-antilles.fr/video/",
+          ""
+        ]
+      ],
+      "name": "UAPod",
+      "url": "https://uapod.univ-antilles.fr/",
+      "domainWithoutSuffixOfUrl": "univ-antilles",
+      "oembedUrl": "https://uapod.univ-antilles.fr/oembed",
+      "domainWithoutSuffixOfOembedUrl": "univ-antilles"
+    },
+    {
+      "schemes": [
+        [
+          "https://map.cam.ac.uk/",
+          ""
+        ]
+      ],
+      "name": "University of Cambridge Map",
+      "url": "https://map.cam.ac.uk",
+      "domainWithoutSuffixOfUrl": "cam",
+      "oembedUrl": "https://map.cam.ac.uk/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "cam"
+    },
+    {
+      "schemes": [
+        [
+          "https://mediatheque.univ-paris1.fr/video/",
+          ""
+        ]
+      ],
+      "name": "UnivParis1.Pod",
+      "url": "https://mediatheque.univ-paris1.fr/",
+      "domainWithoutSuffixOfUrl": "univ-paris1",
+      "oembedUrl": "https://mediatheque.univ-paris1.fr/oembed",
+      "domainWithoutSuffixOfOembedUrl": "univ-paris1"
+    },
+    {
+      "schemes": [
+        [
+          "https://pod.u-pec.fr/video/",
+          ""
+        ]
+      ],
+      "name": "Upec.Pod",
+      "url": "https://pod.u-pec.fr/",
+      "domainWithoutSuffixOfUrl": "u-pec",
+      "oembedUrl": "https://pod.u-pec.fr/oembed",
+      "domainWithoutSuffixOfOembedUrl": "u-pec"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".ustream.tv/",
+          ""
+        ],
+        [
+          "http://",
+          ".ustream.com/",
+          ""
+        ]
+      ],
+      "name": "Ustream",
+      "url": "http://www.ustream.tv",
+      "domainWithoutSuffixOfUrl": "ustream",
+      "oembedUrl": "http://www.ustream.tv/oembed",
+      "domainWithoutSuffixOfOembedUrl": "ustream"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".ustudio.com/embed/",
+          ""
+        ],
+        [
+          "https://",
+          ".ustudio.com/embed/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "uStudio, Inc.",
+      "url": "https://www.ustudio.com",
+      "domainWithoutSuffixOfUrl": "ustudio",
+      "oembedUrl": "https://app.ustudio.com/api/v2/oembed",
+      "domainWithoutSuffixOfOembedUrl": "ustudio"
+    },
+    {
+      "schemes": [
+        [
+          "http://veer.tv/videos/",
+          ""
+        ]
+      ],
+      "name": "VeeR VR",
+      "url": "http://veer.tv/",
+      "domainWithoutSuffixOfUrl": "veer",
+      "oembedUrl": "https://api.veer.tv/oembed",
+      "domainWithoutSuffixOfOembedUrl": "veer"
+    },
+    {
+      "schemes": [
+        [
+          "http://veervr.tv/videos/",
+          ""
+        ]
+      ],
+      "name": "VeeR VR",
+      "url": "http://veer.tv/",
+      "domainWithoutSuffixOfUrl": "veer",
+      "oembedUrl": "https://api.veervr.tv/oembed",
+      "domainWithoutSuffixOfOembedUrl": "veervr"
+    },
+    {
+      "schemes": [
+        [
+          "http://www.vevo.com/",
+          ""
+        ],
+        [
+          "https://www.vevo.com/",
+          ""
+        ]
+      ],
+      "name": "VEVO",
+      "url": "http://www.vevo.com/",
+      "domainWithoutSuffixOfUrl": "vevo",
+      "oembedUrl": "https://www.vevo.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vevo"
+    },
+    {
+      "schemes": [
+        [
+          "https://videfit.com/videos/",
+          ""
+        ]
+      ],
+      "name": "Videfit",
+      "url": "https://videfit.com/",
+      "domainWithoutSuffixOfUrl": "videfit",
+      "oembedUrl": "https://videfit.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "videfit"
+    },
+    {
+      "schemes": [
+        [
+          "https://vidmount.com/",
+          ""
+        ]
+      ],
+      "name": "VidMount",
+      "url": "https://vidmount.com/",
+      "domainWithoutSuffixOfUrl": "vidmount",
+      "oembedUrl": "https://vidmount.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vidmount"
+    },
+    {
+      "schemes": [
+        [
+          "http://",
+          ".vidyard.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".vidyard.com/",
+          ""
+        ],
+        [
+          "http://",
+          ".hubs.vidyard.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".hubs.vidyard.com/",
+          ""
+        ]
+      ],
+      "name": "Vidyard",
+      "url": "https://vidyard.com",
+      "domainWithoutSuffixOfUrl": "vidyard",
+      "oembedUrl": "https://api.vidyard.com/dashboard/v1.1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vidyard"
+    },
+    {
+      "schemes": [
+        [
+          "https://vimeo.com/",
+          ""
+        ],
+        [
+          "https://vimeo.com/album/",
+          "/video/",
+          ""
+        ],
+        [
+          "https://vimeo.com/channels/",
+          "/",
+          ""
+        ],
+        [
+          "https://vimeo.com/groups/",
+          "/videos/",
+          ""
+        ],
+        [
+          "https://vimeo.com/ondemand/",
+          "/",
+          ""
+        ],
+        [
+          "https://player.vimeo.com/video/",
+          ""
+        ],
+        [
+          "https://vimeo.com/event/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Vimeo",
+      "url": "https://vimeo.com/",
+      "domainWithoutSuffixOfUrl": "vimeo",
+      "oembedUrl": "https://vimeo.com/api/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "vimeo"
+    },
+    {
+      "schemes": [
+        [
+          "https://share.viostream.com/",
+          ""
+        ]
+      ],
+      "name": "Viostream",
+      "url": "https://www.viostream.com",
+      "domainWithoutSuffixOfUrl": "viostream",
+      "oembedUrl": "https://play.viostream.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "viostream"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.viously.com/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "Viously",
+      "url": "https://www.viously.com",
+      "domainWithoutSuffixOfUrl": "viously",
+      "oembedUrl": "https://www.viously.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "viously"
+    },
+    {
+      "schemes": [
+        [
+          "https://vizdom.dev/link/",
+          ""
+        ]
+      ],
+      "name": "Vizdom",
+      "url": "https://vizdom.dev",
+      "domainWithoutSuffixOfUrl": "vizdom",
+      "oembedUrl": "https://vizdom.dev/api/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vizdom"
+    },
+    {
+      "schemes": [
+        [
+          "https://vizydrop.com/shared/",
+          ""
+        ]
+      ],
+      "name": "Vizydrop",
+      "url": "https://vizydrop.com",
+      "domainWithoutSuffixOfUrl": "vizydrop",
+      "oembedUrl": "https://vizydrop.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vizydrop"
+    },
+    {
+      "schemes": [
+        [
+          "https://vlipsy.com/",
+          ""
+        ]
+      ],
+      "name": "Vlipsy",
+      "url": "https://vlipsy.com/",
+      "domainWithoutSuffixOfUrl": "vlipsy",
+      "oembedUrl": "https://vlipsy.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vlipsy"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.vlive.tv/video/",
+          ""
+        ]
+      ],
+      "name": "VLIVE",
+      "url": "https://www.vlive.tv",
+      "domainWithoutSuffixOfUrl": "vlive",
+      "oembedUrl": "https://www.vlive.tv/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vlive"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".vouchfor.com/",
+          ""
+        ]
+      ],
+      "name": "Vouch",
+      "url": "https://www.vouchfor.com/",
+      "domainWithoutSuffixOfUrl": "vouchfor",
+      "oembedUrl": "https://embed.vouchfor.com/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vouchfor"
+    },
+    {
+      "schemes": [
+        [
+          "https://article.voxsnap.com/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "VoxSnap",
+      "url": "https://voxsnap.com/",
+      "domainWithoutSuffixOfUrl": "voxsnap",
+      "oembedUrl": "https://data.voxsnap.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "voxsnap"
+    },
+    {
+      "schemes": [
+        [
+          "https://waltrack.net/product/",
+          ""
+        ]
+      ],
+      "name": "Waltrack",
+      "url": "https://waltrack/net",
+      "domainWithoutSuffixOfUrl": null,
+      "oembedUrl": "https://waltrack.net/oembed",
+      "domainWithoutSuffixOfOembedUrl": "waltrack"
+    },
+    {
+      "schemes": [
+        [
+          "https://watch.wave.video/",
+          ""
+        ],
+        [
+          "https://embed.wave.video/",
+          ""
+        ]
+      ],
+      "name": "Wave.video",
+      "url": "https://wave.video",
+      "domainWithoutSuffixOfUrl": "wave",
+      "oembedUrl": "https://embed.wave.video/oembed",
+      "domainWithoutSuffixOfOembedUrl": "wave"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.web3isgoinggreat.com/?id=",
+          ""
+        ],
+        [
+          "https://www.web3isgoinggreat.com/single/",
+          ""
+        ],
+        [
+          "https://www.web3isgoinggreat.com/embed/",
+          ""
+        ]
+      ],
+      "name": "Web3 is Going Just Great",
+      "url": "https://www.web3isgoinggreat.com/",
+      "domainWithoutSuffixOfUrl": "web3isgoinggreat",
+      "oembedUrl": "https://www.web3isgoinggreat.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "web3isgoinggreat"
+    },
+    {
+      "schemes": [
+        [
+          "https://plugins.webcrumbs.dev/",
+          ""
+        ]
+      ],
+      "name": "Webcrumbs",
+      "url": "https://webcrumbs.org/",
+      "domainWithoutSuffixOfUrl": "webcrumbs",
+      "oembedUrl": "https://webcrumbs.dev/oembed",
+      "domainWithoutSuffixOfOembedUrl": "webcrumbs"
+    },
+    {
+      "schemes": [
+        [
+          "https://play.wecandeo.com/video/v/",
+          ""
+        ]
+      ],
+      "name": "wecandeo",
+      "url": "https://www.wecandeo.com/",
+      "domainWithoutSuffixOfUrl": "wecandeo",
+      "oembedUrl": "https://play.wecandeo.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "wecandeo"
+    },
+    {
+      "schemes": [
+        [
+          "https://whimsical.com/",
+          ""
+        ]
+      ],
+      "name": "Whimsical",
+      "url": "https://www.whimsical.com",
+      "domainWithoutSuffixOfUrl": "whimsical",
+      "oembedUrl": "https://whimsical.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "whimsical"
+    },
+    {
+      "schemes": [
+        [
+          "https://fast.wistia.com/embed/iframe/",
+          ""
+        ],
+        [
+          "https://fast.wistia.com/embed/playlists/",
+          ""
+        ],
+        [
+          "https://",
+          ".wistia.com/medias/",
+          ""
+        ]
+      ],
+      "name": "Wistia, Inc.",
+      "url": "https://wistia.com/",
+      "domainWithoutSuffixOfUrl": "wistia",
+      "oembedUrl": "https://fast.wistia.com/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "wistia"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".wizer.me/learn/",
+          ""
+        ],
+        [
+          "https://",
+          ".wizer.me/preview/",
+          ""
+        ]
+      ],
+      "name": "wizer.me",
+      "url": "https://www.wizer.me/",
+      "domainWithoutSuffixOfUrl": "wizer",
+      "oembedUrl": "https://app.wizer.me/api/oembed.{format}",
+      "domainWithoutSuffixOfOembedUrl": "wizer"
+    },
+    {
+      "schemes": [
+        [
+          "https://wokwi.com/share/",
+          ""
+        ]
+      ],
+      "name": "Wokwi",
+      "url": "https://wokwi.com",
+      "domainWithoutSuffixOfUrl": "wokwi",
+      "oembedUrl": "https://wokwi.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "wokwi"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".wolframcloud.com/",
+          ""
+        ]
+      ],
+      "name": "Wolfram Cloud",
+      "url": "https://www.wolframcloud.com",
+      "domainWithoutSuffixOfUrl": "wolframcloud",
+      "oembedUrl": "https://www.wolframcloud.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "wolframcloud"
+    },
+    {
+      "schemes": [
+        [
+          "https://wordpress.com/",
+          ""
+        ],
+        [
+          "http://wordpress.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".wordpress.com/",
+          ""
+        ],
+        [
+          "http://",
+          ".wordpress.com/",
+          ""
+        ],
+        [
+          "https://",
+          ".",
+          ".wordpress.com/",
+          ""
+        ],
+        [
+          "http://",
+          ".",
+          ".wordpress.com/",
+          ""
+        ],
+        [
+          "https://wp.me/",
+          ""
+        ],
+        [
+          "http://wp.me/",
+          ""
+        ]
+      ],
+      "name": "WordPress.com",
+      "url": "https://wordpress.com/",
+      "domainWithoutSuffixOfUrl": "wordpress",
+      "oembedUrl": "http://public-api.wordpress.com/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "wordpress"
+    },
+    {
+      "schemes": [
+        [
+          "https://x.com/",
+          ""
+        ],
+        [
+          "https://x.com/",
+          "/status/",
+          ""
+        ],
+        [
+          "https://",
+          ".x.com/",
+          "/status/",
+          ""
+        ]
+      ],
+      "name": "X",
+      "url": "http://www.x.com/",
+      "domainWithoutSuffixOfUrl": "x",
+      "oembedUrl": "https://publish.x.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "x"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".youtube.com/watch",
+          ""
+        ],
+        [
+          "https://",
+          ".youtube.com/v/",
+          ""
+        ],
+        [
+          "https://youtu.be/",
+          ""
+        ],
+        [
+          "https://",
+          ".youtube.com/playlist?list=",
+          ""
+        ],
+        [
+          "https://youtube.com/playlist?list=",
+          ""
+        ],
+        [
+          "https://",
+          ".youtube.com/shorts",
+          ""
+        ],
+        [
+          "https://youtube.com/shorts",
+          ""
+        ],
+        [
+          "https://",
+          ".youtube.com/embed/",
+          ""
+        ],
+        [
+          "https://",
+          ".youtube.com/live",
+          ""
+        ],
+        [
+          "https://youtube.com/live",
+          ""
+        ]
+      ],
+      "name": "YouTube",
+      "url": "https://www.youtube.com/",
+      "domainWithoutSuffixOfUrl": "youtube",
+      "oembedUrl": "https://www.youtube.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "youtube"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.yumpu.com/",
+          "/document/view/",
+          "/",
+          ""
+        ]
+      ],
+      "name": "YUMPU",
+      "url": "https://www.yumpu.com/",
+      "domainWithoutSuffixOfUrl": "yumpu",
+      "oembedUrl": "https://www.yumpu.com/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "yumpu"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.zeplin.io/project/",
+          "/screen/",
+          ""
+        ],
+        [
+          "https://app.zeplin.io/project/",
+          "/screen/",
+          "/version/",
+          ""
+        ],
+        [
+          "https://app.zeplin.io/project/",
+          "/styleguide/components?coid=",
+          ""
+        ],
+        [
+          "https://app.zeplin.io/styleguide/",
+          "/components?coid=",
+          ""
+        ]
+      ],
+      "name": "Zeplin",
+      "url": "https://zeplin.io",
+      "domainWithoutSuffixOfUrl": "zeplin",
+      "oembedUrl": "https://app.zeplin.io/embed",
+      "domainWithoutSuffixOfOembedUrl": "zeplin"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.zingsoft.com/embed/",
+          ""
+        ],
+        [
+          "https://app.zingsoft.com/view/",
+          ""
+        ]
+      ],
+      "name": "ZingSoft",
+      "url": "https://app.zingsoft.com",
+      "domainWithoutSuffixOfUrl": "zingsoft",
+      "oembedUrl": "https://app.zingsoft.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "zingsoft"
+    },
+    {
+      "schemes": [
+        [
+          "https://",
+          ".znipe.tv/",
+          ""
+        ]
+      ],
+      "name": "ZnipeTV",
+      "url": "https://www.znipe.tv/",
+      "domainWithoutSuffixOfUrl": "znipe",
+      "oembedUrl": "https://api.znipe.tv/v3/oembed/",
+      "domainWithoutSuffixOfOembedUrl": "znipe"
+    },
+    {
+      "schemes": [
+        [
+          "https://srv2.zoomable.ca/viewer.php",
+          ""
+        ]
+      ],
+      "name": "Zoomable",
+      "url": "https://zoomable.ca/",
+      "domainWithoutSuffixOfUrl": "zoomable",
+      "oembedUrl": "https://srv2.zoomable.ca/oembed",
+      "domainWithoutSuffixOfOembedUrl": "zoomable"
+    }
+  ],
+  "index": {
+    "2": [
+      286
+    ],
+    "23": [
+      0
+    ],
+    "photo": [
+      0
+    ],
+    "23hq": [
+      0
+    ],
+    "playout": [
+      1
+    ],
+    "3q": [
+      1
+    ],
+    "abraia": [
+      2
+    ],
+    "acast": [
+      3
+    ],
+    "donate": [
+      4
+    ],
+    "secure": [
+      4
+    ],
+    "cf": [
+      4
+    ],
+    "adilo": [
+      5
+    ],
+    "vod": [
+      6,
+      292
+    ],
+    "afree": [
+      6,
+      292
+    ],
+    "st": [
+      6,
+      292
+    ],
+    "station": [
+      6,
+      292
+    ],
+    "afreecatv": [
+      6
+    ],
+    "openapi": [
+      6,
+      292
+    ],
+    "altium": [
+      7
+    ],
+    "shell": [
+      7
+    ],
+    "answer_id": [
+      8
+    ],
+    "altrulabs": [
+      8
+    ],
+    "amcharts": [
+      9
+    ],
+    "trains": [
+      10
+    ],
+    "amtraker": [
+      10
+    ],
+    "v3": [
+      10
+    ],
+    "animatron": [
+      11,
+      253
+    ],
+    "animoto": [
+      12
+    ],
+    "oembeds": [
+      12
+    ],
+    "t": [
+      13
+    ],
+    "anniemusic": [
+      13
+    ],
+    "playground": [
+      14
+    ],
+    "appforcestudio": [
+      14
+    ],
+    "us": [
+      14
+    ],
+    "stories": [
+      15,
+      94
+    ],
+    "storymaps": [
+      15
+    ],
+    "archivos": [
+      16
+    ],
+    "studio": [
+      17
+    ],
+    "edu": [
+      17
+    ],
+    "assemblr": [
+      17
+    ],
+    "editor": [
+      17
+    ],
+    "creation": [
+      17
+    ],
+    "assemblrworld": [
+      17
+    ],
+    "audio": [
+      18,
+      207
+    ],
+    "channels": [
+      19,
+      344
+    ],
+    "audioboom": [
+      19
+    ],
+    "playlists": [
+      19,
+      218
+    ],
+    "podcasts": [
+      19,
+      22
+    ],
+    "podcast": [
+      19
+    ],
+    "posts": [
+      19,
+      96
+    ],
+    "episodes": [
+      19,
+      174
+    ],
+    "publishing": [
+      19
+    ],
+    "clips": [
+      20,
+      120
+    ],
+    "audiobooks": [
+      20
+    ],
+    "audioclip": [
+      20
+    ],
+    "audiomack": [
+      21
+    ],
+    "album": [
+      21,
+      216,
+      344
+    ],
+    "audiomeans": [
+      22
+    ],
+    "audius": [
+      23
+    ],
+    "backtracks": [
+      24
+    ],
+    "balsamiq": [
+      25
+    ],
+    "beams": [
+      26
+    ],
+    "beautiful": [
+      27
+    ],
+    "behance": [
+      28
+    ],
+    "quellensuche": [
+      29,
+      248
+    ],
+    "biqapp": [
+      30
+    ],
+    "bitchute": [
+      31
+    ],
+    "profiles": [
+      32
+    ],
+    "compare": [
+      32
+    ],
+    "blackfire": [
+      32
+    ],
+    "blogcast": [
+      33
+    ],
+    "embedly": [
+      33
+    ],
+    "profile": [
+      34
+    ],
+    "bsky": [
+      34
+    ],
+    "bookingmood": [
+      35
+    ],
+    "bornetube": [
+      36
+    ],
+    "lasync": [
+      36,
+      285
+    ],
+    "boxofficebuz": [
+      37
+    ],
+    "worlds": [
+      38
+    ],
+    "briovr": [
+      38
+    ],
+    "bumper": [
+      39
+    ],
+    "mediadelivery": [
+      40
+    ],
+    "bunnycdn": [
+      40
+    ],
+    "bunny": [
+      40
+    ],
+    "OEmbed": [
+      40
+    ],
+    "buttondown": [
+      41
+    ],
+    "files": [
+      42
+    ],
+    "cmc": [
+      42
+    ],
+    "diagrams": [
+      43
+    ],
+    "cacoo": [
+      43
+    ],
+    "design": [
+      44,
+      101
+    ],
+    "canva": [
+      44
+    ],
+    "_oembed": [
+      44
+    ],
+    "carbon": [
+      45
+    ],
+    "minesweeper": [
+      46
+    ],
+    "castmake": [
+      47
+    ],
+    "catbo": [
+      48
+    ],
+    "embeds": [
+      49,
+      202
+    ],
+    "celero": [
+      49
+    ],
+    "ceros": [
+      50
+    ],
+    "chainflix": [
+      51
+    ],
+    "chartblocks": [
+      52
+    ],
+    "chirb": [
+      53
+    ],
+    "chirbit": [
+      53
+    ],
+    "mypage": [
+      54
+    ],
+    "story": [
+      54,
+      107
+    ],
+    "chroco": [
+      54
+    ],
+    "circuit": [
+      55
+    ],
+    "circuitlab": [
+      55
+    ],
+    "clipland": [
+      56
+    ],
+    "clueso": [
+      57
+    ],
+    "clyp": [
+      58
+    ],
+    "ilovecoco": [
+      59
+    ],
+    "share_abacus": [
+      60
+    ],
+    "codehs": [
+      60
+    ],
+    "sharedprogram": [
+      60
+    ],
+    "codepen": [
+      61
+    ],
+    "codepoints": [
+      62
+    ],
+    "codesandbox": [
+      63
+    ],
+    "collegehumor": [
+      64
+    ],
+    "commaful": [
+      65
+    ],
+    "coub": [
+      66
+    ],
+    "crowdranking": [
+      67
+    ],
+    "crumb": [
+      68
+    ],
+    "sounds": [
+      69
+    ],
+    "cueup": [
+      69
+    ],
+    "gql": [
+      69
+    ],
+    "curated": [
+      70
+    ],
+    "customerdb": [
+      71
+    ],
+    "dadan": [
+      72
+    ],
+    "stage": [
+      72
+    ],
+    "dailymotion": [
+      73
+    ],
+    "html": [
+      73,
+      249,
+      250
+    ],
+    "dalexni": [
+      74
+    ],
+    "dwcdn": [
+      75
+    ],
+    "datawrapper": [
+      75
+    ],
+    "deseret": [
+      76
+    ],
+    "art": [
+      77
+    ],
+    "d": [
+      77
+    ],
+    "fav": [
+      77
+    ],
+    "sta": [
+      77
+    ],
+    "deviantart": [
+      77
+    ],
+    "backend": [
+      77
+    ],
+    "central": [
+      78
+    ],
+    "showtitle": [
+      78
+    ],
+    "default": [
+      78
+    ],
+    "ultimedia": [
+      78
+    ],
+    "search": [
+      78
+    ],
+    "docdroid": [
+      79
+    ],
+    "docdro": [
+      79
+    ],
+    "docswell": [
+      80
+    ],
+    "service": [
+      80,
+      221
+    ],
+    "dotsub": [
+      81
+    ],
+    "dreambroker": [
+      82
+    ],
+    "tube": [
+      83
+    ],
+    "echoeshq": [
+      84
+    ],
+    "edumedia": [
+      85,
+      86
+    ],
+    "xml": [
+      86
+    ],
+    "egliseinfo": [
+      87
+    ],
+    "elevenlabs": [
+      88
+    ],
+    "next": [
+      88
+    ],
+    "embedery": [
+      89
+    ],
+    "ethfiddle": [
+      90
+    ],
+    "evt": [
+      91
+    ],
+    "eventlive": [
+      91
+    ],
+    "everviz": [
+      92
+    ],
+    "everwall": [
+      93
+    ],
+    "playbuzz": [
+      94
+    ],
+    "ex": [
+      94
+    ],
+    "item": [
+      94
+    ],
+    "board": [
+      95,
+      101,
+      194
+    ],
+    "sparkfun": [
+      95
+    ],
+    "eyrie": [
+      95
+    ],
+    "activity": [
+      96
+    ],
+    "photos": [
+      96,
+      106
+    ],
+    "fbid": [
+      96
+    ],
+    "permalink": [
+      96
+    ],
+    "set": [
+      96,
+      131
+    ],
+    "questions": [
+      96
+    ],
+    "notes": [
+      96,
+      278
+    ],
+    "facebook": [
+      96,
+      97,
+      98
+    ],
+    "oembed_post": [
+      96
+    ],
+    "videos": [
+      97
+    ],
+    "php": [
+      97
+    ],
+    "oembed_video": [
+      97
+    ],
+    "oembed_page": [
+      98
+    ],
+    "projects": [
+      99,
+      164
+    ],
+    "getfader": [
+      99
+    ],
+    "items": [
+      100
+    ],
+    "resource": [
+      100
+    ],
+    "faithlifetv": [
+      100
+    ],
+    "assets": [
+      100,
+      210
+    ],
+    "figma": [
+      101
+    ],
+    "slides": [
+      101,
+      124
+    ],
+    "buzz": [
+      101
+    ],
+    "site": [
+      101
+    ],
+    "make": [
+      101
+    ],
+    "step": [
+      102
+    ],
+    "filestage": [
+      102
+    ],
+    "fireworktv": [
+      103
+    ],
+    "fite": [
+      104
+    ],
+    "score": [
+      105
+    ],
+    "flat": [
+      105
+    ],
+    "flic": [
+      106
+    ],
+    "flickr": [
+      106
+    ],
+    "visualisation": [
+      107
+    ],
+    "flourish": [
+      107
+    ],
+    "f": [
+      108,
+      136
+    ],
+    "flowhub": [
+      108
+    ],
+    "flows": [
+      108
+    ],
+    "o": [
+      108
+    ],
+    "reviews": [
+      109
+    ],
+    "spots": [
+      109
+    ],
+    "fooday": [
+      109
+    ],
+    "forms": [
+      110
+    ],
+    "form": [
+      110
+    ],
+    "isomorphic": [
+      111
+    ],
+    "foxsports": [
+      111
+    ],
+    "fiso": [
+      111
+    ],
+    "framatube": [
+      112
+    ],
+    "framebuzz": [
+      113
+    ],
+    "framer": [
+      114
+    ],
+    "uk": [
+      115
+    ],
+    "ie": [
+      115
+    ],
+    "wikimedia": [
+      115
+    ],
+    "gg": [
+      116
+    ],
+    "je": [
+      116
+    ],
+    "islands": [
+      116
+    ],
+    "geographs": [
+      116
+    ],
+    "hlipp": [
+      117
+    ],
+    "germany": [
+      117
+    ],
+    "restapi": [
+      117
+    ],
+    "gty": [
+      118
+    ],
+    "gettyimages": [
+      118
+    ],
+    "gifnote": [
+      119
+    ],
+    "gifs": [
+      120
+    ],
+    "gph": [
+      120
+    ],
+    "gif": [
+      120
+    ],
+    "giphy": [
+      120
+    ],
+    "gloria": [
+      121
+    ],
+    "gmetri": [
+      122
+    ],
+    "call": [
+      123
+    ],
+    "gong": [
+      123
+    ],
+    "good": [
+      124
+    ],
+    "highlight": [
+      125
+    ],
+    "grain": [
+      125
+    ],
+    "_": [
+      125
+    ],
+    "gtchannel": [
+      126
+    ],
+    "luminery": [
+      126
+    ],
+    "gumlet": [
+      127
+    ],
+    "gw2fashions": [
+      128
+    ],
+    "gyazo": [
+      129
+    ],
+    "core": [
+      130,
+      226
+    ],
+    "hash": [
+      130
+    ],
+    "hearthis": [
+      131
+    ],
+    "helenenglish": [
+      132
+    ],
+    "flip": [
+      133
+    ],
+    "hflip": [
+      133
+    ],
+    "aflip": [
+      133
+    ],
+    "heyzine": [
+      133
+    ],
+    "api1": [
+      133
+    ],
+    "hihaho": [
+      134
+    ],
+    "hippovideo": [
+      135
+    ],
+    "flow": [
+      136
+    ],
+    "homey": [
+      136
+    ],
+    "hopvue": [
+      137
+    ],
+    "portal": [
+      137
+    ],
+    "huffduffer": [
+      138
+    ],
+    "hulu": [
+      139
+    ],
+    "icosa": [
+      140
+    ],
+    "ideamapper": [
+      141
+    ],
+    "idomoo": [
+      142
+    ],
+    "guide": [
+      143
+    ],
+    "iFixit": [
+      143
+    ],
+    "Embed": [
+      143
+    ],
+    "ifttt": [
+      144
+    ],
+    "videocdn": [
+      145
+    ],
+    "euvideocdn": [
+      145
+    ],
+    "ignite": [
+      145
+    ],
+    "ignitevideo": [
+      145
+    ],
+    "iheart": [
+      146
+    ],
+    "qr": [
+      147
+    ],
+    "imenupro": [
+      147
+    ],
+    "incredible": [
+      148
+    ],
+    "jwp": [
+      149
+    ],
+    "indacolive": [
+      149
+    ],
+    "infogram": [
+      150
+    ],
+    "infoveave": [
+      151
+    ],
+    "exercises": [
+      152
+    ],
+    "injurymap": [
+      152
+    ],
+    "inoreader": [
+      153
+    ],
+    "inphood": [
+      154
+    ],
+    "insighttimer": [
+      155
+    ],
+    "widgets": [
+      155
+    ],
+    "instagram": [
+      156
+    ],
+    "instagr": [
+      156
+    ],
+    "reel": [
+      156
+    ],
+    "instagram_oembed": [
+      156
+    ],
+    "ppa": [
+      157
+    ],
+    "insticator": [
+      157
+    ],
+    "docs": [
+      158
+    ],
+    "issuu": [
+      158
+    ],
+    "samay": [
+      159
+    ],
+    "itemis": [
+      160
+    ],
+    "storage": [
+      160
+    ],
+    "ml": [
+      161
+    ],
+    "jovian": [
+      161
+    ],
+    "viewer": [
+      161
+    ],
+    "solo": [
+      162
+    ],
+    "juntos": [
+      162
+    ],
+    "cliplink": [
+      163
+    ],
+    "kakao": [
+      163
+    ],
+    "livelink": [
+      163
+    ],
+    "l": [
+      163
+    ],
+    "kickstarter": [
+      164
+    ],
+    "kidoju": [
+      165
+    ],
+    "halaman": [
+      166
+    ],
+    "aplikasi": [
+      166
+    ],
+    "kirim": [
+      166
+    ],
+    "kit": [
+      167
+    ],
+    "recipe": [
+      168
+    ],
+    "kitchenbowl": [
+      168
+    ],
+    "h": [
+      169
+    ],
+    "history": [
+      169
+    ],
+    "kmdr": [
+      169
+    ],
+    "meuh": [
+      170
+    ],
+    "jdr": [
+      170
+    ],
+    "knowledgepad": [
+      171
+    ],
+    "spoonacular": [
+      171
+    ],
+    "koo": [
+      172
+    ],
+    "kooapp": [
+      172
+    ],
+    "kubit": [
+      173
+    ],
+    "songs": [
+      174,
+      259
+    ],
+    "kurozora": [
+      174
+    ],
+    "learningapps": [
+      175
+    ],
+    "umotion": [
+      176
+    ],
+    "lille": [
+      177
+    ],
+    "businesses": [
+      178
+    ],
+    "line": [
+      178
+    ],
+    "irf": [
+      179
+    ],
+    "linkstackz": [
+      179
+    ],
+    "accounts": [
+      180
+    ],
+    "events": [
+      180
+    ],
+    "livestream": [
+      180
+    ],
+    "loom": [
+      181
+    ],
+    "lottiefiles": [
+      182
+    ],
+    "lottie": [
+      182
+    ],
+    "ludus": [
+      183
+    ],
+    "lumiere": [
+      184
+    ],
+    "latd": [
+      184
+    ],
+    "admin": [
+      184
+    ],
+    "marimo": [
+      185
+    ],
+    "latex": [
+      186
+    ],
+    "mathembed": [
+      186
+    ],
+    "matterport": [
+      187
+    ],
+    "my": [
+      187
+    ],
+    "i": [
+      188
+    ],
+    "me": [
+      188
+    ],
+    "mdstrm": [
+      189
+    ],
+    "stream": [
+      189
+    ],
+    "image": [
+      189,
+      207
+    ],
+    "entries": [
+      190
+    ],
+    "medienarchiv": [
+      190
+    ],
+    "mermaid": [
+      191
+    ],
+    "svg": [
+      191
+    ],
+    "microsoftstream": [
+      192
+    ],
+    "microsoft": [
+      192
+    ],
+    "featured": [
+      193
+    ],
+    "themes": [
+      193
+    ],
+    "recipes": [
+      193
+    ],
+    "follow": [
+      193
+    ],
+    "minervaknows": [
+      193
+    ],
+    "miro": [
+      194,
+      195
+    ],
+    "mixcloud": [
+      196
+    ],
+    "mixpanel": [
+      197
+    ],
+    "user": [
+      198
+    ],
+    "moby": [
+      198
+    ],
+    "mobypicture": [
+      198
+    ],
+    "melody": [
+      199
+    ],
+    "musicboxmaniacs": [
+      199
+    ],
+    "mybeweeg": [
+      200
+    ],
+    "explain": [
+      201
+    ],
+    "mysqlexplain": [
+      201
+    ],
+    "namchey": [
+      202
+    ],
+    "nanoo": [
+      203
+    ],
+    "pro": [
+      203
+    ],
+    "signatur": [
+      203
+    ],
+    "new": [
+      203
+    ],
+    "nb": [
+      204
+    ],
+    "catalog": [
+      204
+    ],
+    "naturalatlas": [
+      205
+    ],
+    "naver": [
+      206
+    ],
+    "m": [
+      206
+    ],
+    "oEmbed": [
+      206
+    ],
+    "ndla": [
+      207
+    ],
+    "article": [
+      207,
+      352
+    ],
+    "concept": [
+      207
+    ],
+    "nebula": [
+      208,
+      209
+    ],
+    "needle": [
+      210
+    ],
+    "run": [
+      210
+    ],
+    "neetorecord": [
+      211
+    ],
+    "film": [
+      212
+    ],
+    "nfb": [
+      212
+    ],
+    "remote": [
+      212
+    ],
+    "nopaste": [
+      213
+    ],
+    "observablehq": [
+      214
+    ],
+    "odds": [
+      215
+    ],
+    "song": [
+      216
+    ],
+    "artist": [
+      216
+    ],
+    "playlist": [
+      216
+    ],
+    "pods": [
+      216
+    ],
+    "mylink": [
+      216
+    ],
+    "odesli": [
+      216
+    ],
+    "odysee": [
+      217
+    ],
+    "tracks": [
+      218
+    ],
+    "official": [
+      218
+    ],
+    "omniscope": [
+      219
+    ],
+    "_global_": [
+      219
+    ],
+    "shows": [
+      220
+    ],
+    "omnystudio": [
+      220
+    ],
+    "omny": [
+      220
+    ],
+    "ov3601": [
+      221
+    ],
+    "ov3602": [
+      221
+    ],
+    "orbittour": [
+      221
+    ],
+    "orbitvu": [
+      221
+    ],
+    "origits": [
+      222,
+      223
+    ],
+    "outplayed": [
+      224
+    ],
+    "overflow": [
+      225
+    ],
+    "oz": [
+      226
+    ],
+    "padlet": [
+      227
+    ],
+    "br": [
+      228
+    ],
+    "m3u8": [
+      228
+    ],
+    "dashboard": [
+      228,
+      343
+    ],
+    "pandavideo": [
+      228
+    ],
+    "pastery": [
+      229
+    ],
+    "peertube": [
+      230
+    ],
+    "picturelfy": [
+      231
+    ],
+    "piggy": [
+      232
+    ],
+    "builder": [
+      233
+    ],
+    "pingvp": [
+      234
+    ],
+    "kpnis": [
+      234
+    ],
+    "pinpoll": [
+      235
+    ],
+    "products": [
+      235
+    ],
+    "pinterest": [
+      236
+    ],
+    "pitchhub": [
+      237
+    ],
+    "marker": [
+      238
+    ],
+    "show": [
+      238
+    ],
+    "pixdor": [
+      238
+    ],
+    "store": [
+      238
+    ],
+    "snapshots": [
+      239
+    ],
+    "pages": [
+      239
+    ],
+    "plusdocs": [
+      239
+    ],
+    "podbean": [
+      240
+    ],
+    "polldaddy": [
+      241
+    ],
+    "poll": [
+      241
+    ],
+    "ratings": [
+      241
+    ],
+    "entry": [
+      242
+    ],
+    "portfolium": [
+      242
+    ],
+    "do": [
+      243
+    ],
+    "gateway": [
+      243
+    ],
+    "prezi": [
+      244
+    ],
+    "snippets": [
+      245
+    ],
+    "programmingly": [
+      245
+    ],
+    "qtpi": [
+      246
+    ],
+    "quartr": [
+      247
+    ],
+    "quiz": [
+      249
+    ],
+    "quizz": [
+      250
+    ],
+    "radiopublic": [
+      251
+    ],
+    "raindrop": [
+      252
+    ],
+    "pub": [
+      252
+    ],
+    "rcvis": [
+      253
+    ],
+    "visualize": [
+      253
+    ],
+    "ve": [
+      253
+    ],
+    "visualizeembedded": [
+      253
+    ],
+    "r": [
+      254
+    ],
+    "reddit": [
+      254
+    ],
+    "redlof": [
+      255,
+      256
+    ],
+    "wp": [
+      255,
+      363
+    ],
+    "wexcreator": [
+      256
+    ],
+    "showroom": [
+      256
+    ],
+    "rwire": [
+      257
+    ],
+    "releasewire": [
+      257
+    ],
+    "publisher": [
+      257
+    ],
+    "repl": [
+      258
+    ],
+    "replit": [
+      258
+    ],
+    "reverbnation": [
+      259
+    ],
+    "roomshare": [
+      260
+    ],
+    "roosterteeth": [
+      261
+    ],
+    "rumble": [
+      262
+    ],
+    "Media": [
+      262
+    ],
+    "runkit": [
+      263
+    ],
+    "main": [
+      264
+    ],
+    "octopus": [
+      264
+    ],
+    "sapo": [
+      265
+    ],
+    "sats": [
+      266
+    ],
+    "satcat": [
+      266
+    ],
+    "players": [
+      267
+    ],
+    "satoplayer": [
+      267
+    ],
+    "sbedit": [
+      268
+    ],
+    "getscenes": [
+      269
+    ],
+    "event": [
+      269,
+      344
+    ],
+    "console": [
+      270
+    ],
+    "screen9": [
+      270
+    ],
+    "screencast": [
+      271
+    ],
+    "external": [
+      271
+    ],
+    "screenr": [
+      272
+    ],
+    "maps": [
+      273
+    ],
+    "scribblemaps": [
+      273
+    ],
+    "doc": [
+      274
+    ],
+    "scribd": [
+      274
+    ],
+    "sendtonews": [
+      275
+    ],
+    "kappa": [
+      276
+    ],
+    "shopboard": [
+      277
+    ],
+    "shopcast": [
+      277
+    ],
+    "shopshare": [
+      277
+    ],
+    "shortnote": [
+      278
+    ],
+    "shoudio": [
+      279
+    ],
+    "shoud": [
+      279
+    ],
+    "getshow": [
+      280
+    ],
+    "showtheway": [
+      281
+    ],
+    "simplecast": [
+      282
+    ],
+    "onsizzle": [
+      283
+    ],
+    "models": [
+      284
+    ],
+    "folders": [
+      284
+    ],
+    "sketchfab": [
+      284
+    ],
+    "skoletube": [
+      285
+    ],
+    "studietube": [
+      285
+    ],
+    "slideshare": [
+      286
+    ],
+    "es": [
+      286
+    ],
+    "pt": [
+      286
+    ],
+    "smashnotes": [
+      287
+    ],
+    "smeme": [
+      288
+    ],
+    "book": [
+      289
+    ],
+    "smrthi": [
+      289
+    ],
+    "smugmug": [
+      290
+    ],
+    "explore": [
+      291
+    ],
+    "socialexplorer": [
+      291
+    ],
+    "edit": [
+      291
+    ],
+    "sooplive": [
+      292
+    ],
+    "soundcloud": [
+      293
+    ],
+    "on": [
+      293
+    ],
+    "goog": [
+      293
+    ],
+    "speakerdeck": [
+      294
+    ],
+    "open": [
+      295
+    ],
+    "spotify": [
+      295
+    ],
+    "spotlightr": [
+      296
+    ],
+    "publish": [
+      296,
+      329,
+      364
+    ],
+    "cdn": [
+      296
+    ],
+    "getOEmbed": [
+      296
+    ],
+    "spreaker": [
+      297
+    ],
+    "sproutvideo": [
+      298
+    ],
+    "vids": [
+      298
+    ],
+    "spyke": [
+      299
+    ],
+    "u": [
+      299
+    ],
+    "g": [
+      299
+    ],
+    "c": [
+      299
+    ],
+    "purl": [
+      300
+    ],
+    "streamable": [
+      301
+    ],
+    "s3m": [
+      302
+    ],
+    "23m": [
+      302
+    ],
+    "streamio": [
+      302
+    ],
+    "subscribi": [
+      303
+    ],
+    "sudomemo": [
+      304
+    ],
+    "archive": [
+      304
+    ],
+    "flipnot": [
+      304
+    ],
+    "supercut": [
+      305
+    ],
+    "sutori": [
+      306
+    ],
+    "sway": [
+      307
+    ],
+    "office": [
+      308
+    ],
+    "synthesia": [
+      309
+    ],
+    "69jr5v75rc": [
+      309
+    ],
+    "headline": [
+      310
+    ],
+    "techpostcast": [
+      310
+    ],
+    "talks": [
+      311
+    ],
+    "ted": [
+      311
+    ],
+    "tella": [
+      312
+    ],
+    "hubspot": [
+      313
+    ],
+    "svc": [
+      314
+    ],
+    "nytimes": [
+      314
+    ],
+    "theysaidso": [
+      315
+    ],
+    "extensions": [
+      315
+    ],
+    "widget": [
+      316
+    ],
+    "countdown": [
+      316
+    ],
+    "countup": [
+      316
+    ],
+    "ticker": [
+      316
+    ],
+    "clock": [
+      316
+    ],
+    "worldclock": [
+      316
+    ],
+    "tickcounter": [
+      316
+    ],
+    "full": [
+      316
+    ],
+    "tiktok": [
+      317
+    ],
+    "tksn": [
+      318
+    ],
+    "take": [
+      319
+    ],
+    "tonicaudio": [
+      319
+    ],
+    "tnic": [
+      319
+    ],
+    "information": [
+      320
+    ],
+    "registration": [
+      320
+    ],
+    "matches": [
+      320
+    ],
+    "stages": [
+      320
+    ],
+    "toornament": [
+      320
+    ],
+    "topy": [
+      321
+    ],
+    "totango": [
+      322
+    ],
+    "trackspace": [
+      323
+    ],
+    "trinitymedia": [
+      324
+    ],
+    "trinityaudio": [
+      324
+    ],
+    "tumblr": [
+      325
+    ],
+    "tuxx": [
+      326
+    ],
+    "tvcf": [
+      327
+    ],
+    "rest": [
+      327
+    ],
+    "presentation": [
+      328
+    ],
+    "panorama": [
+      328
+    ],
+    "twinmotion": [
+      328
+    ],
+    "twitter": [
+      329
+    ],
+    "status": [
+      329,
+      364
+    ],
+    "typecast": [
+      330
+    ],
+    "typlog": [
+      331
+    ],
+    "uapod": [
+      332
+    ],
+    "cam": [
+      333
+    ],
+    "mediatheque": [
+      334
+    ],
+    "pec": [
+      335
+    ],
+    "ustream": [
+      336
+    ],
+    "ustudio": [
+      337
+    ],
+    "veer": [
+      338,
+      339
+    ],
+    "veervr": [
+      339
+    ],
+    "vevo": [
+      340
+    ],
+    "videfit": [
+      341
+    ],
+    "vidmount": [
+      342
+    ],
+    "vidyard": [
+      343
+    ],
+    "hubs": [
+      343
+    ],
+    "vimeo": [
+      344
+    ],
+    "groups": [
+      344
+    ],
+    "ondemand": [
+      344
+    ],
+    "viostream": [
+      345
+    ],
+    "viously": [
+      346
+    ],
+    "vizdom": [
+      347
+    ],
+    "vizydrop": [
+      348
+    ],
+    "vlipsy": [
+      349
+    ],
+    "vlive": [
+      350
+    ],
+    "vouchfor": [
+      351
+    ],
+    "voxsnap": [
+      352
+    ],
+    "product": [
+      353
+    ],
+    "waltrack": [
+      353
+    ],
+    "wave": [
+      354
+    ],
+    "web3isgoinggreat": [
+      355
+    ],
+    "single": [
+      355
+    ],
+    "plugins": [
+      356
+    ],
+    "webcrumbs": [
+      356
+    ],
+    "wecandeo": [
+      357
+    ],
+    "whimsical": [
+      358
+    ],
+    "fast": [
+      359
+    ],
+    "medias": [
+      359
+    ],
+    "wistia": [
+      359
+    ],
+    "learn": [
+      360
+    ],
+    "preview": [
+      360
+    ],
+    "wizer": [
+      360
+    ],
+    "wokwi": [
+      361
+    ],
+    "wolframcloud": [
+      362
+    ],
+    "wordpress": [
+      363
+    ],
+    "public": [
+      363
+    ],
+    "x": [
+      364
+    ],
+    "youtube": [
+      365
+    ],
+    "youtu": [
+      365
+    ],
+    "list": [
+      365
+    ],
+    "shorts": [
+      365
+    ],
+    "document": [
+      366
+    ],
+    "yumpu": [
+      366
+    ],
+    "screen": [
+      367
+    ],
+    "version": [
+      367
+    ],
+    "styleguide": [
+      367
+    ],
+    "zeplin": [
+      367
+    ],
+    "zingsoft": [
+      368
+    ],
+    "znipe": [
+      369
+    ],
+    "srv2": [
+      370
+    ],
+    "zoomable": [
+      370
+    ]
+  }
+}

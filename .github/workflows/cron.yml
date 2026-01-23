@@ -1,17 +1,21 @@
 name: cron
 
 on:
+  workflow_dispatch:
   schedule:
+    # Cron job every monday
+    # https://crontab.guru/every-monday
     - cron: '0 0 * * MON'
 
 jobs:
-  test:
+  update:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}      - name: Setup Node.js
+          token: ${{ secrets.GH_TOKEN }}
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: lts/*
@@ -20,13 +24,11 @@ jobs:
         with:
           version: latest
           run_install: true
-      - name: Test
-        run: npm test
-        env:
-          FB_ACCESS_TOKEN: ${{ secrets.FB_ACCESS_TOKEN }}
-      - name: Report
-        run: npx c8 report --reporter=text-lcov > coverage/lcov.info
-      - name: Coverage
-        uses: coverallsapp/github-action@main
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Update
+        run: |
+          git config --global user.email ${{ secrets.GIT_EMAIL }}
+          git config --global user.name ${{ secrets.GIT_USERNAME }}
+          node scripts/fetch-providers.js
+          git add src/providers.json
+          git diff-index --quiet HEAD || git commit -m 'build(update): providers' --no-verify
+          git push origin ${{ github.head_ref }} || true
