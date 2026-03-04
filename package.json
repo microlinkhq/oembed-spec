@@ -4,6 +4,7 @@
   "homepage": "https://github.com/microlinkhq/oembed-spec",
   "version": "1.3.33",
   "main": "src/index.js",
+  "types": "src/index.d.ts",
   "author": {
     "email": "hello@microlink.io",
     "name": "microlink.io",
