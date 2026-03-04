@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## 1.4.0 (2026-03-04)
+
+
+### Features
+
+* **types:** add TypeScript type definitions ([#40](https://github.com/microlinkhq/oembed-spec/issues/40)) ([b3dcb56](https://github.com/microlinkhq/oembed-spec/commit/b3dcb56960e7f96d12f4e52b9b06dd5d402ca734))
+
 ### 1.3.33 (2026-01-23)
 
 ### [1.3.32](https://github.com/microlinkhq/oembed-spec/compare/v1.3.31...v1.3.32) (2025-05-11)
