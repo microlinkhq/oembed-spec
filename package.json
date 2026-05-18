@@ -48,7 +48,7 @@
     "@commitlint/cli": "latest",
     "@commitlint/config-conventional": "latest",
     "@microlink/demo-links": "latest",
-    "ava": "7",
+    "ava": "8",
     "benchmark": "latest",
     "big-list-of-naughty-strings": "latest",
     "c8": "latest",
