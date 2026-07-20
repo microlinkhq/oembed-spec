@@ -270,19 +270,6 @@
     {
       "schemes": [
         [
-          "https://app.archivos.digital/app/view/",
-          ""
-        ]
-      ],
-      "name": "Archivos",
-      "url": "https://app.archivos.digital",
-      "domainWithoutSuffixOfUrl": "archivos",
-      "oembedUrl": "https://app.archivos.digital/oembed/",
-      "domainWithoutSuffixOfOembedUrl": "archivos"
-    },
-    {
-      "schemes": [
-        [
           "http://",
           ".studio.assemblrworld.com/creation/",
           ""
@@ -543,19 +530,6 @@
       "domainWithoutSuffixOfOembedUrl": "balsamiq"
     },
     {
-      "schemes": [
-        [
-          "https://beams.fm/",
-          ""
-        ]
-      ],
-      "name": "Beams.fm",
-      "url": "http://beams.fm",
-      "domainWithoutSuffixOfUrl": "beams",
-      "oembedUrl": "https://api.beams.fm/oEmbed",
-      "domainWithoutSuffixOfOembedUrl": "beams"
-    },
-    {
       "schemes": [],
       "name": "Beautiful.AI",
       "url": "https://www.beautiful.ai/",
@@ -741,19 +715,6 @@
     {
       "schemes": [
         [
-          "https://view.briovr.com/api/v1/worlds/oembed/",
-          ""
-        ]
-      ],
-      "name": "BrioVR",
-      "url": "https://view.briovr.com/",
-      "domainWithoutSuffixOfUrl": "briovr",
-      "oembedUrl": "https://view.briovr.com/api/v1/worlds/oembed/",
-      "domainWithoutSuffixOfOembedUrl": "briovr"
-    },
-    {
-      "schemes": [
-        [
           "https://www.bumper.com/oembed/bumper"
         ],
         [
@@ -871,19 +832,23 @@
     {
       "schemes": [
         [
-          "http://minesweeper.today/",
+          "https://carbonvoice.app/s/",
           ""
         ],
         [
-          "https://minesweeper.today/",
+          "https://carbonvoice.app/m/",
+          ""
+        ],
+        [
+          "https://carbonvoice.app/c/",
           ""
         ]
       ],
-      "name": "Cardinal Blue",
-      "url": "https://minesweeper.today/",
-      "domainWithoutSuffixOfUrl": "minesweeper",
-      "oembedUrl": "https://minesweeper.today/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "minesweeper"
+      "name": "Carbon Voice",
+      "url": "https://carbonvoice.app/",
+      "domainWithoutSuffixOfUrl": "carbonvoice",
+      "oembedUrl": "https://carbonvoice.app/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "carbonvoice"
     },
     {
       "schemes": [
@@ -945,29 +910,15 @@
     {
       "schemes": [
         [
-          "https://chainflix.net/video/",
-          ""
-        ],
-        [
-          "https://chainflix.net/video/embed/",
-          ""
-        ],
-        [
-          "https://",
-          ".chainflix.net/video/",
-          ""
-        ],
-        [
-          "https://",
-          ".chainflix.net/video/embed/",
+          "https://chanceindex.com/odds/",
           ""
         ]
       ],
-      "name": "Chainflix",
-      "url": "https://chainflix.net",
-      "domainWithoutSuffixOfUrl": "chainflix",
-      "oembedUrl": "https://www.chainflix.net/video/oembed",
-      "domainWithoutSuffixOfOembedUrl": "chainflix"
+      "name": "ChanceIndex",
+      "url": "https://chanceindex.com",
+      "domainWithoutSuffixOfUrl": "chanceindex",
+      "oembedUrl": "https://chanceindex.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "chanceindex"
     },
     {
       "schemes": [
@@ -981,19 +932,6 @@
       "domainWithoutSuffixOfUrl": "chartblocks",
       "oembedUrl": "http://embed.chartblocks.com/1.0/oembed",
       "domainWithoutSuffixOfOembedUrl": "chartblocks"
-    },
-    {
-      "schemes": [
-        [
-          "http://chirb.it/",
-          ""
-        ]
-      ],
-      "name": "chirbit.com",
-      "url": "http://www.chirbit.com/",
-      "domainWithoutSuffixOfUrl": "chirbit",
-      "oembedUrl": "http://chirb.it/oembed.{format}",
-      "domainWithoutSuffixOfOembedUrl": "chirb"
     },
     {
       "schemes": [
@@ -1057,6 +995,19 @@
     {
       "schemes": [
         [
+          "https://clipform.io/",
+          ""
+        ]
+      ],
+      "name": "Clipform",
+      "url": "https://clipform.io/",
+      "domainWithoutSuffixOfUrl": "clipform",
+      "oembedUrl": "https://api.clipform.io/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "clipform"
+    },
+    {
+      "schemes": [
+        [
           "http://www.clipland.com/v/",
           ""
         ],
@@ -1100,19 +1051,6 @@
       "domainWithoutSuffixOfUrl": "clyp",
       "oembedUrl": "http://api.clyp.it/oembed/",
       "domainWithoutSuffixOfOembedUrl": "clyp"
-    },
-    {
-      "schemes": [
-        [
-          "https://app.ilovecoco.video/",
-          "/embed"
-        ]
-      ],
-      "name": "CoCo Corp",
-      "url": "https://ilovecoco.video",
-      "domainWithoutSuffixOfUrl": "ilovecoco",
-      "oembedUrl": "https://app.ilovecoco.video/api/oembed.{format}",
-      "domainWithoutSuffixOfOembedUrl": "ilovecoco"
     },
     {
       "schemes": [
@@ -1202,6 +1140,23 @@
     {
       "schemes": [
         [
+          "https://coloringmonster.com/coloring-page/",
+          ""
+        ],
+        [
+          "https://coloringmonster.com/monsterpieces/",
+          ""
+        ]
+      ],
+      "name": "Coloring Monster",
+      "url": "https://coloringmonster.com",
+      "domainWithoutSuffixOfUrl": "coloringmonster",
+      "oembedUrl": "https://coloringmonster.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "coloringmonster"
+    },
+    {
+      "schemes": [
+        [
           "https://commaful.com/play/",
           ""
         ]
@@ -1228,20 +1183,6 @@
       "domainWithoutSuffixOfUrl": "coub",
       "oembedUrl": "http://coub.com/api/oembed.{format}",
       "domainWithoutSuffixOfOembedUrl": "coub"
-    },
-    {
-      "schemes": [
-        [
-          "http://crowdranking.com/",
-          "/",
-          ""
-        ]
-      ],
-      "name": "Crowd Ranking",
-      "url": "http://crowdranking.com",
-      "domainWithoutSuffixOfUrl": "crowdranking",
-      "oembedUrl": "http://crowdranking.com/api/oembed.{format}",
-      "domainWithoutSuffixOfOembedUrl": "crowdranking"
     },
     {
       "schemes": [
@@ -1283,19 +1224,6 @@
       "domainWithoutSuffixOfUrl": "curated",
       "oembedUrl": "https://api.curated.co/oembed",
       "domainWithoutSuffixOfOembedUrl": "curated"
-    },
-    {
-      "schemes": [
-        [
-          "https://app.customerdb.com/share/",
-          ""
-        ]
-      ],
-      "name": "CustomerDB",
-      "url": "http://customerdb.com/",
-      "domainWithoutSuffixOfUrl": "customerdb",
-      "oembedUrl": "https://app.customerdb.com/embed",
-      "domainWithoutSuffixOfOembedUrl": "customerdb"
     },
     {
       "schemes": [
@@ -1581,15 +1509,22 @@
     {
       "schemes": [
         [
-          "http://app.echoeshq.com/embed/",
+          "https://ecency.com/@",
+          "/",
+          ""
+        ],
+        [
+          "https://ecency.com/",
+          "/@",
+          "/",
           ""
         ]
       ],
-      "name": "EchoesHQ",
-      "url": "https://echoeshq.com",
-      "domainWithoutSuffixOfUrl": "echoeshq",
-      "oembedUrl": "https://api.echoeshq.com/oembed",
-      "domainWithoutSuffixOfOembedUrl": "echoeshq"
+      "name": "Ecency",
+      "url": "https://ecency.com/",
+      "domainWithoutSuffixOfUrl": "ecency",
+      "oembedUrl": "https://ecency.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "ecency"
     },
     {
       "schemes": [],
@@ -1732,40 +1667,6 @@
     {
       "schemes": [
         [
-          "https://app.ex.co/stories/",
-          ""
-        ],
-        [
-          "https://www.playbuzz.com/",
-          ""
-        ]
-      ],
-      "name": "Ex.Co",
-      "url": "https://ex.co",
-      "domainWithoutSuffixOfUrl": "ex",
-      "oembedUrl": "https://oembed.ex.co/item",
-      "domainWithoutSuffixOfOembedUrl": "ex"
-    },
-    {
-      "schemes": [
-        [
-          "https://eyrie.io/board/",
-          ""
-        ],
-        [
-          "https://eyrie.io/sparkfun/",
-          ""
-        ]
-      ],
-      "name": "Eyrie",
-      "url": "https://eyrie.io/",
-      "domainWithoutSuffixOfUrl": "eyrie",
-      "oembedUrl": "https://eyrie.io/v1/oembed",
-      "domainWithoutSuffixOfOembedUrl": "eyrie"
-    },
-    {
-      "schemes": [
-        [
           "https://www.facebook.com/",
           "/posts/",
           ""
@@ -1847,19 +1748,6 @@
       "domainWithoutSuffixOfUrl": "facebook",
       "oembedUrl": "https://graph.facebook.com/v16.0/oembed_page",
       "domainWithoutSuffixOfOembedUrl": "facebook"
-    },
-    {
-      "schemes": [
-        [
-          "https://app.getfader.com/projects/",
-          "/publish"
-        ]
-      ],
-      "name": "Fader",
-      "url": "https://app.getfader.com",
-      "domainWithoutSuffixOfUrl": "getfader",
-      "oembedUrl": "https://app.getfader.com/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "getfader"
     },
     {
       "schemes": [
@@ -2189,85 +2077,15 @@
     {
       "schemes": [
         [
-          "http://",
-          ".geograph.org.uk/",
-          ""
-        ],
-        [
-          "http://",
-          ".geograph.co.uk/",
-          ""
-        ],
-        [
-          "http://",
-          ".geograph.ie/",
-          ""
-        ],
-        [
-          "http://",
-          ".wikimedia.org/",
-          "_geograph.org.uk_",
+          "https://fritube.ch/v/",
           ""
         ]
       ],
-      "name": "Geograph Britain and Ireland",
-      "url": "https://www.geograph.org.uk/",
-      "domainWithoutSuffixOfUrl": "geograph",
-      "oembedUrl": "http://api.geograph.org.uk/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "geograph"
-    },
-    {
-      "schemes": [
-        [
-          "http://",
-          ".geograph.org.gg/",
-          ""
-        ],
-        [
-          "http://",
-          ".geograph.org.je/",
-          ""
-        ],
-        [
-          "http://channel-islands.geograph.org/",
-          ""
-        ],
-        [
-          "http://channel-islands.geographs.org/",
-          ""
-        ],
-        [
-          "http://",
-          ".channel.geographs.org/",
-          ""
-        ]
-      ],
-      "name": "Geograph Channel Islands",
-      "url": "http://channel-islands.geograph.org/",
-      "domainWithoutSuffixOfUrl": "geograph",
-      "oembedUrl": "http://www.geograph.org.gg/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "geograph"
-    },
-    {
-      "schemes": [
-        [
-          "http://geo-en.hlipp.de/",
-          ""
-        ],
-        [
-          "http://geo.hlipp.de/",
-          ""
-        ],
-        [
-          "http://germany.geograph.org/",
-          ""
-        ]
-      ],
-      "name": "Geograph Germany",
-      "url": "http://geo-en.hlipp.de/",
-      "domainWithoutSuffixOfUrl": "hlipp",
-      "oembedUrl": "http://geo.hlipp.de/restapi.php/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "hlipp"
+      "name": "Fritube",
+      "url": "https://fritube.ch",
+      "domainWithoutSuffixOfUrl": "fritube",
+      "oembedUrl": "https://fritube.ch/services/oembed",
+      "domainWithoutSuffixOfOembedUrl": "fritube"
     },
     {
       "schemes": [
@@ -2413,19 +2231,6 @@
     {
       "schemes": [
         [
-          "https://gtchannel.com/watch/",
-          ""
-        ]
-      ],
-      "name": "GT Channel",
-      "url": "https://gtchannel.com",
-      "domainWithoutSuffixOfUrl": "gtchannel",
-      "oembedUrl": "https://api.luminery.com/oembed",
-      "domainWithoutSuffixOfOembedUrl": "luminery"
-    },
-    {
-      "schemes": [
-        [
           "https://gumlet.tv/watch/",
           ""
         ],
@@ -2497,19 +2302,6 @@
       "domainWithoutSuffixOfUrl": "hearthis",
       "oembedUrl": "https://hearthis.at/oembed/?format=json",
       "domainWithoutSuffixOfOembedUrl": "hearthis"
-    },
-    {
-      "schemes": [
-        [
-          "https://helenenglish.education/widget",
-          ""
-        ]
-      ],
-      "name": "helenenglish_education",
-      "url": "https://helenenglish.education/",
-      "domainWithoutSuffixOfUrl": "helenenglish",
-      "oembedUrl": "https://helenenglish.education/embed",
-      "domainWithoutSuffixOfOembedUrl": "helenenglish"
     },
     {
       "schemes": [
@@ -2624,20 +2416,6 @@
       "domainWithoutSuffixOfUrl": "homey",
       "oembedUrl": "https://homey.app/api/oembed/flow",
       "domainWithoutSuffixOfOembedUrl": "homey"
-    },
-    {
-      "schemes": [
-        [
-          "https://",
-          ".hopvue.com/",
-          ""
-        ]
-      ],
-      "name": "Hopvue",
-      "url": "https://www.hopvue.com",
-      "domainWithoutSuffixOfUrl": "hopvue",
-      "oembedUrl": "https://portal.hopvue.com/api/oembed/",
-      "domainWithoutSuffixOfOembedUrl": "hopvue"
     },
     {
       "schemes": [
@@ -2781,19 +2559,6 @@
       "domainWithoutSuffixOfUrl": "imenupro",
       "oembedUrl": "https://qr.imenupro.com/api/oembed",
       "domainWithoutSuffixOfOembedUrl": "imenupro"
-    },
-    {
-      "schemes": [
-        [
-          "https://incredible.dev/watch/",
-          ""
-        ]
-      ],
-      "name": "Incredible",
-      "url": "https://incredible.dev",
-      "domainWithoutSuffixOfUrl": "incredible",
-      "oembedUrl": "https://oembed.incredible.dev/oembed",
-      "domainWithoutSuffixOfOembedUrl": "incredible"
     },
     {
       "schemes": [
@@ -3052,19 +2817,6 @@
     {
       "schemes": [
         [
-          "https://play.itemis.io/",
-          ""
-        ]
-      ],
-      "name": "itemis CREATE",
-      "url": "https://play.itemis.io",
-      "domainWithoutSuffixOfUrl": "itemis",
-      "oembedUrl": "https://create.storage.api.itemis.io/api/embed",
-      "domainWithoutSuffixOfOembedUrl": "itemis"
-    },
-    {
-      "schemes": [
-        [
           "https://jawafdehi.org/case/",
           ""
         ]
@@ -3156,43 +2908,6 @@
     {
       "schemes": [
         [
-          "https://tv.kakao.com/channel/",
-          "/cliplink/",
-          ""
-        ],
-        [
-          "https://tv.kakao.com/m/channel/",
-          "/cliplink/",
-          ""
-        ],
-        [
-          "https://tv.kakao.com/channel/v/",
-          ""
-        ],
-        [
-          "https://tv.kakao.com/channel/",
-          "/livelink/",
-          ""
-        ],
-        [
-          "https://tv.kakao.com/m/channel/",
-          "/livelink/",
-          ""
-        ],
-        [
-          "https://tv.kakao.com/channel/l/",
-          ""
-        ]
-      ],
-      "name": "KakaoTv",
-      "url": "https://tv.kakao.com/",
-      "domainWithoutSuffixOfUrl": "kakao",
-      "oembedUrl": "https://tv.kakao.com/oembed",
-      "domainWithoutSuffixOfOembedUrl": "kakao"
-    },
-    {
-      "schemes": [
-        [
           "http://www.kickstarter.com/projects/",
           ""
         ]
@@ -3202,25 +2917,6 @@
       "domainWithoutSuffixOfUrl": "kickstarter",
       "oembedUrl": "http://www.kickstarter.com/services/oembed",
       "domainWithoutSuffixOfOembedUrl": "kickstarter"
-    },
-    {
-      "schemes": [
-        [
-          "https://www.kidoju.com/en/x/",
-          "/",
-          ""
-        ],
-        [
-          "https://www.kidoju.com/fr/x/",
-          "/",
-          ""
-        ]
-      ],
-      "name": "Kidoju",
-      "url": "https://www.kidoju.com/",
-      "domainWithoutSuffixOfUrl": "kidoju",
-      "oembedUrl": "https://www.kidoju.com/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "kidoju"
     },
     {
       "schemes": [
@@ -3274,40 +2970,6 @@
     {
       "schemes": [
         [
-          "https://app.kmdr.sh/h/",
-          ""
-        ],
-        [
-          "https://app.kmdr.sh/history/",
-          ""
-        ]
-      ],
-      "name": "kmdr",
-      "url": "https://kmdr.sh",
-      "domainWithoutSuffixOfUrl": "kmdr",
-      "oembedUrl": "https://api.kmdr.sh/services/oembed",
-      "domainWithoutSuffixOfOembedUrl": "kmdr"
-    },
-    {
-      "schemes": [
-        [
-          "http://jdr.knacki.info/meuh/",
-          ""
-        ],
-        [
-          "https://jdr.knacki.info/meuh/",
-          ""
-        ]
-      ],
-      "name": "Knacki",
-      "url": "http://jdr.knacki.info",
-      "domainWithoutSuffixOfUrl": "knacki",
-      "oembedUrl": "https://jdr.knacki.info/oembed",
-      "domainWithoutSuffixOfOembedUrl": "knacki"
-    },
-    {
-      "schemes": [
-        [
           "https://knowledgepad.co/#/knowledge/",
           ""
         ]
@@ -3334,25 +2996,6 @@
       "domainWithoutSuffixOfUrl": "kommodo",
       "oembedUrl": "https://kommodo.ai/api/oembed",
       "domainWithoutSuffixOfOembedUrl": "kommodo"
-    },
-    {
-      "schemes": [
-        [
-          "https://",
-          ".kooapp.com/koo/",
-          ""
-        ],
-        [
-          "http://",
-          ".kooapp.com/koo/",
-          ""
-        ]
-      ],
-      "name": "Kooapp",
-      "url": "https://kooapp.com",
-      "domainWithoutSuffixOfUrl": "kooapp",
-      "oembedUrl": "https://embed.kooapp.com/services/oembed",
-      "domainWithoutSuffixOfOembedUrl": "kooapp"
     },
     {
       "schemes": [
@@ -3449,19 +3092,6 @@
     {
       "schemes": [
         [
-          "https://umotion-test.univ-lemans.fr/video/",
-          ""
-        ]
-      ],
-      "name": "LeMans.Pod",
-      "url": "https://umotion-test.univ-lemans.fr/",
-      "domainWithoutSuffixOfUrl": "univ-lemans",
-      "oembedUrl": "https://umotion-test.univ-lemans.fr/oembed",
-      "domainWithoutSuffixOfOembedUrl": "univ-lemans"
-    },
-    {
-      "schemes": [
-        [
           "https://pod.univ-lille.fr/video/",
           ""
         ]
@@ -3501,6 +3131,31 @@
       "domainWithoutSuffixOfUrl": "linkstackz",
       "oembedUrl": "https://api.linkstackz.com/oembed",
       "domainWithoutSuffixOfOembedUrl": "linkstackz"
+    },
+    {
+      "schemes": [
+        [
+          "https://livecodes.io/"
+        ],
+        [
+          "https://livecodes.io/?",
+          ""
+        ],
+        [
+          "https://",
+          ".livecodes.io/"
+        ],
+        [
+          "https://",
+          ".livecodes.io/?",
+          ""
+        ]
+      ],
+      "name": "LiveCodes",
+      "url": "https://livecodes.io/",
+      "domainWithoutSuffixOfUrl": "livecodes",
+      "oembedUrl": "https://livecodes.io/oembed",
+      "domainWithoutSuffixOfOembedUrl": "livecodes"
     },
     {
       "schemes": [
@@ -3710,36 +3365,6 @@
       "domainWithoutSuffixOfUrl": "microsoft",
       "oembedUrl": "https://web.microsoftstream.com/oembed",
       "domainWithoutSuffixOfOembedUrl": "microsoftstream"
-    },
-    {
-      "schemes": [
-        [
-          "https://www.minervaknows.com/featured-recipes/",
-          ""
-        ],
-        [
-          "https://www.minervaknows.com/themes/",
-          ""
-        ],
-        [
-          "https://www.minervaknows.com/themes/",
-          "/recipes/",
-          ""
-        ],
-        [
-          "https://app.minervaknows.com/recipes/",
-          ""
-        ],
-        [
-          "https://app.minervaknows.com/recipes/",
-          "/follow"
-        ]
-      ],
-      "name": "Minerva",
-      "url": "https://www.minervaknows.com",
-      "domainWithoutSuffixOfUrl": "minervaknows",
-      "oembedUrl": "https://oembed.minervaknows.com",
-      "domainWithoutSuffixOfOembedUrl": "minervaknows"
     },
     {
       "schemes": [
@@ -4112,15 +3737,35 @@
     {
       "schemes": [
         [
-          "https://nopaste.ml/",
+          "https://nouncify.com/i/",
+          ""
+        ],
+        [
+          "https://nouncify.com/brand/",
+          ""
+        ],
+        [
+          "https://nouncify.com/e/",
+          ""
+        ],
+        [
+          "https://sandbox.nouncify.com/i/",
+          ""
+        ],
+        [
+          "https://sandbox.nouncify.com/brand/",
+          ""
+        ],
+        [
+          "https://sandbox.nouncify.com/e/",
           ""
         ]
       ],
-      "name": "NoPaste",
-      "url": "https://nopaste.ml",
-      "domainWithoutSuffixOfUrl": "nopaste",
-      "oembedUrl": "https://oembed.nopaste.ml",
-      "domainWithoutSuffixOfOembedUrl": "nopaste"
+      "name": "Nouncify",
+      "url": "https://nouncify.com/",
+      "domainWithoutSuffixOfUrl": "nouncify",
+      "oembedUrl": "https://nouncify.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "nouncify"
     },
     {
       "schemes": [
@@ -4345,6 +3990,23 @@
     {
       "schemes": [
         [
+          "https://embed.orizn.app/frame/",
+          ""
+        ],
+        [
+          "https://embed.orizn.app/widgets/",
+          ""
+        ]
+      ],
+      "name": "Orizn Widgets",
+      "url": "https://embed.orizn.app",
+      "domainWithoutSuffixOfUrl": "orizn",
+      "oembedUrl": "https://embed.orizn.app/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "orizn"
+    },
+    {
+      "schemes": [
+        [
           "https://outplayed.tv/media/",
           ""
         ]
@@ -4371,20 +4033,6 @@
       "domainWithoutSuffixOfUrl": "overflow",
       "oembedUrl": "https://overflow.io/services/oembed",
       "domainWithoutSuffixOfOembedUrl": "overflow"
-    },
-    {
-      "schemes": [
-        [
-          "https://www.oz.com/",
-          "/video/",
-          ""
-        ]
-      ],
-      "name": "OZ",
-      "url": "https://www.oz.com/",
-      "domainWithoutSuffixOfUrl": "oz",
-      "oembedUrl": "https://core.oz.com/oembed",
-      "domainWithoutSuffixOfOembedUrl": "oz"
     },
     {
       "schemes": [
@@ -4421,6 +4069,23 @@
       "domainWithoutSuffixOfUrl": "pandavideo",
       "oembedUrl": "https://api-v2.pandavideo.com.br/oembed",
       "domainWithoutSuffixOfOembedUrl": "pandavideo"
+    },
+    {
+      "schemes": [
+        [
+          "https://app.parler.com/post/",
+          ""
+        ],
+        [
+          "https://app.parler.com/b/",
+          ""
+        ]
+      ],
+      "name": "Parler",
+      "url": "https://app.parler.com/",
+      "domainWithoutSuffixOfUrl": "parler",
+      "oembedUrl": "https://app.parler.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "parler"
     },
     {
       "schemes": [
@@ -4477,63 +4142,6 @@
       "domainWithoutSuffixOfUrl": "peertube",
       "oembedUrl": "https://peertube.tv/services/oembed",
       "domainWithoutSuffixOfOembedUrl": "peertube"
-    },
-    {
-      "schemes": [
-        [
-          "http://www.picturelfy.com/p/",
-          ""
-        ],
-        [
-          "https://www.picturelfy.com/p/",
-          ""
-        ]
-      ],
-      "name": "Picturelfy",
-      "url": "https://www.picturelfy.com/",
-      "domainWithoutSuffixOfUrl": "picturelfy",
-      "oembedUrl": "https://api.picturelfy.com/service/oembed/",
-      "domainWithoutSuffixOfOembedUrl": "picturelfy"
-    },
-    {
-      "schemes": [
-        [
-          "https://piggy.to/@",
-          "/",
-          ""
-        ],
-        [
-          "https://piggy.to/view/",
-          ""
-        ]
-      ],
-      "name": "Piggy",
-      "url": "https://piggy.to",
-      "domainWithoutSuffixOfUrl": "piggy",
-      "oembedUrl": "https://piggy.to/oembed",
-      "domainWithoutSuffixOfOembedUrl": "piggy"
-    },
-    {
-      "schemes": [
-        [
-          "https://",
-          ".builder.pikasso.xyz/embed/",
-          ""
-        ]
-      ],
-      "name": "Pikasso",
-      "url": "https://builder.pikasso.xyz",
-      "domainWithoutSuffixOfUrl": "pikasso",
-      "oembedUrl": "https://builder.pikasso.xyz/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "pikasso"
-    },
-    {
-      "schemes": [],
-      "name": "PingVP",
-      "url": "https://www.pingvp.com/",
-      "domainWithoutSuffixOfUrl": "pingvp",
-      "oembedUrl": "https://beta.pingvp.com.kpnis.nl/p/oembed.php",
-      "domainWithoutSuffixOfOembedUrl": "kpnis"
     },
     {
       "schemes": [
@@ -4688,19 +4296,6 @@
     {
       "schemes": [
         [
-          "https://present.do/decks/",
-          ""
-        ]
-      ],
-      "name": "Present",
-      "url": "https://present.do",
-      "domainWithoutSuffixOfUrl": "present",
-      "oembedUrl": "https://gateway.cobalt.run/present/decks/oembed",
-      "domainWithoutSuffixOfOembedUrl": "cobalt"
-    },
-    {
-      "schemes": [
-        [
           "https://prezi.com/v/",
           ""
         ],
@@ -4728,6 +4323,31 @@
       "domainWithoutSuffixOfUrl": "programmingly",
       "oembedUrl": "https://programmingly.dev/api/oembed",
       "domainWithoutSuffixOfOembedUrl": "programmingly"
+    },
+    {
+      "schemes": [
+        [
+          "https://www.pyzia.app/dashboard?",
+          ""
+        ],
+        [
+          "https://pyzia.app/dashboard?",
+          ""
+        ],
+        [
+          "https://www.pyzia.app/embed/chart?",
+          ""
+        ],
+        [
+          "https://pyzia.app/embed/chart?",
+          ""
+        ]
+      ],
+      "name": "Pyzia",
+      "url": "https://www.pyzia.app/",
+      "domainWithoutSuffixOfUrl": "pyzia",
+      "oembedUrl": "https://www.pyzia.app/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "pyzia"
     },
     {
       "schemes": [
@@ -4797,75 +4417,6 @@
       "domainWithoutSuffixOfUrl": "quizz",
       "oembedUrl": "http://www.quizz.biz/api/oembed",
       "domainWithoutSuffixOfOembedUrl": "quizz"
-    },
-    {
-      "schemes": [
-        [
-          "https://play.radiopublic.com/",
-          ""
-        ],
-        [
-          "https://radiopublic.com/",
-          ""
-        ],
-        [
-          "https://www.radiopublic.com/",
-          ""
-        ],
-        [
-          "http://play.radiopublic.com/",
-          ""
-        ],
-        [
-          "http://radiopublic.com/",
-          ""
-        ],
-        [
-          "http://www.radiopublic.com/",
-          ""
-        ],
-        [
-          "https://",
-          ".radiopublic.com/",
-          ""
-        ]
-      ],
-      "name": "RadioPublic",
-      "url": "https://radiopublic.com",
-      "domainWithoutSuffixOfUrl": "radiopublic",
-      "oembedUrl": "https://oembed.radiopublic.com/oembed",
-      "domainWithoutSuffixOfOembedUrl": "radiopublic"
-    },
-    {
-      "schemes": [
-        [
-          "https://raindrop.io/",
-          ""
-        ],
-        [
-          "https://raindrop.io/",
-          "/",
-          ""
-        ],
-        [
-          "https://raindrop.io/",
-          "/",
-          "/",
-          ""
-        ],
-        [
-          "https://raindrop.io/",
-          "/",
-          "/",
-          "/",
-          ""
-        ]
-      ],
-      "name": "Raindrop",
-      "url": "https://raindrop.io",
-      "domainWithoutSuffixOfUrl": "raindrop",
-      "oembedUrl": "https://pub.raindrop.io/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "raindrop"
     },
     {
       "schemes": [
@@ -5060,23 +4611,6 @@
     {
       "schemes": [
         [
-          "http://embed.runkit.com/",
-          ","
-        ],
-        [
-          "https://embed.runkit.com/",
-          ","
-        ]
-      ],
-      "name": "Runkit",
-      "url": "https://runkit.com",
-      "domainWithoutSuffixOfUrl": "runkit",
-      "oembedUrl": "https://embed.runkit.com/oembed",
-      "domainWithoutSuffixOfOembedUrl": "runkit"
-    },
-    {
-      "schemes": [
-        [
           "https://www.rushes.cc/video/",
           ""
         ],
@@ -5176,23 +4710,6 @@
       "domainWithoutSuffixOfUrl": "sbedit",
       "oembedUrl": "https://sbedit.net/oembed/",
       "domainWithoutSuffixOfOembedUrl": "sbedit"
-    },
-    {
-      "schemes": [
-        [
-          "https://getscenes.com/e/",
-          ""
-        ],
-        [
-          "https://getscenes.com/event/",
-          ""
-        ]
-      ],
-      "name": "Scenes",
-      "url": "https://getscenes.com",
-      "domainWithoutSuffixOfUrl": "getscenes",
-      "oembedUrl": "https://getscenes.com/oembed",
-      "domainWithoutSuffixOfOembedUrl": "getscenes"
     },
     {
       "schemes": [
@@ -5301,36 +4818,6 @@
       "domainWithoutSuffixOfUrl": "vercel",
       "oembedUrl": "https://shared-file-kappa.vercel.app/file/api/oembed",
       "domainWithoutSuffixOfOembedUrl": "vercel"
-    },
-    {
-      "schemes": [
-        [
-          "https://shopshare.tv/shopboard/",
-          ""
-        ],
-        [
-          "https://shopshare.tv/shopcast/",
-          ""
-        ]
-      ],
-      "name": "Shopshare",
-      "url": "https://shopshare.tv",
-      "domainWithoutSuffixOfUrl": "shopshare",
-      "oembedUrl": "https://shopshare.tv/api/shopcast/oembed",
-      "domainWithoutSuffixOfOembedUrl": "shopshare"
-    },
-    {
-      "schemes": [
-        [
-          "https://www.shortnote.jp/view/notes/",
-          ""
-        ]
-      ],
-      "name": "ShortNote",
-      "url": "https://www.shortnote.jp/",
-      "domainWithoutSuffixOfUrl": "shortnote",
-      "oembedUrl": "https://www.shortnote.jp/oembed/",
-      "domainWithoutSuffixOfOembedUrl": "shortnote"
     },
     {
       "schemes": [
@@ -5450,6 +4937,23 @@
     {
       "schemes": [
         [
+          "https://skhema.com/embed/e/",
+          ""
+        ],
+        [
+          "https://skhema.com/embed/c/",
+          ""
+        ]
+      ],
+      "name": "Skhema",
+      "url": "https://skhema.com/",
+      "domainWithoutSuffixOfUrl": "skhema",
+      "oembedUrl": "https://skhema.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "skhema"
+    },
+    {
+      "schemes": [
+        [
           "https://www.skoletube.dk/media/",
           ""
         ],
@@ -5551,19 +5055,6 @@
       "domainWithoutSuffixOfUrl": "smashnotes",
       "oembedUrl": "https://smashnotes.com/services/oembed",
       "domainWithoutSuffixOfOembedUrl": "smashnotes"
-    },
-    {
-      "schemes": [
-        [
-          "https://open.smeme.com/",
-          ""
-        ]
-      ],
-      "name": "Smeme",
-      "url": "https://smeme.com",
-      "domainWithoutSuffixOfUrl": "smeme",
-      "oembedUrl": "https://open.smeme.com/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "smeme"
     },
     {
       "schemes": [
@@ -5900,15 +5391,15 @@
     {
       "schemes": [
         [
-          "https://subscribi.io/api/oembed",
+          "https://streetartcities.com/markers/",
           ""
         ]
       ],
-      "name": "Subscribi",
-      "url": "https://subscribi.io/",
-      "domainWithoutSuffixOfUrl": "subscribi",
-      "oembedUrl": "https://subscribi.io/api/oembed",
-      "domainWithoutSuffixOfOembedUrl": "subscribi"
+      "name": "Street Art Cities",
+      "url": "https://streetartcities.com/",
+      "domainWithoutSuffixOfUrl": "streetartcities",
+      "oembedUrl": "https://oembed.streetartcities.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "streetartcities"
     },
     {
       "schemes": [
@@ -6002,6 +5493,19 @@
     {
       "schemes": [
         [
+          "https://synthcamp.net/r/",
+          ""
+        ]
+      ],
+      "name": "SynthCamp",
+      "url": "https://synthcamp.net/",
+      "domainWithoutSuffixOfUrl": "synthcamp",
+      "oembedUrl": "https://synthcamp.net/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "synthcamp"
+    },
+    {
+      "schemes": [
+        [
           "https://share.synthesia.io/",
           ""
         ]
@@ -6036,7 +5540,15 @@
           ""
         ],
         [
+          "http://www.ted.com/talks/",
+          ""
+        ],
+        [
           "https://www.ted.com/talks/",
+          ""
+        ],
+        [
+          "https://embed.ted.com/talks/",
           ""
         ]
       ],
@@ -6062,6 +5574,19 @@
       "domainWithoutSuffixOfUrl": "tella",
       "oembedUrl": "https://www.tella.tv/api/oembed",
       "domainWithoutSuffixOfOembedUrl": "tella"
+    },
+    {
+      "schemes": [
+        [
+          "https://rest-prod.tenet.textexpander.com/share/",
+          ""
+        ]
+      ],
+      "name": "TextExpander",
+      "url": "https://textexpander.com",
+      "domainWithoutSuffixOfUrl": "textexpander",
+      "oembedUrl": "https://rest-prod.tenet.textexpander.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "textexpander"
     },
     {
       "schemes": [
@@ -6218,6 +5743,19 @@
       "domainWithoutSuffixOfUrl": "tksn",
       "oembedUrl": "https://tksn.me/api/oembed/",
       "domainWithoutSuffixOfOembedUrl": "tksn"
+    },
+    {
+      "schemes": [
+        [
+          "https://tlexdr.com/episode/",
+          ""
+        ]
+      ],
+      "name": "TLexDR",
+      "url": "https://tlexdr.com/",
+      "domainWithoutSuffixOfUrl": "tlexdr",
+      "oembedUrl": "https://tlexdr.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "tlexdr"
     },
     {
       "schemes": [
@@ -6560,32 +6098,6 @@
     {
       "schemes": [
         [
-          "http://veer.tv/videos/",
-          ""
-        ]
-      ],
-      "name": "VeeR VR",
-      "url": "http://veer.tv/",
-      "domainWithoutSuffixOfUrl": "veer",
-      "oembedUrl": "https://api.veer.tv/oembed",
-      "domainWithoutSuffixOfOembedUrl": "veer"
-    },
-    {
-      "schemes": [
-        [
-          "http://veervr.tv/videos/",
-          ""
-        ]
-      ],
-      "name": "VeeR VR",
-      "url": "http://veer.tv/",
-      "domainWithoutSuffixOfUrl": "veer",
-      "oembedUrl": "https://api.veervr.tv/oembed",
-      "domainWithoutSuffixOfOembedUrl": "veervr"
-    },
-    {
-      "schemes": [
-        [
           "http://www.vevo.com/",
           ""
         ],
@@ -6612,6 +6124,23 @@
       "domainWithoutSuffixOfUrl": "videfit",
       "oembedUrl": "https://videfit.com/oembed",
       "domainWithoutSuffixOfOembedUrl": "videfit"
+    },
+    {
+      "schemes": [
+        [
+          "https://vidlink.it/videos/",
+          ""
+        ],
+        [
+          "https://www.vidlink.it/videos/",
+          ""
+        ]
+      ],
+      "name": "VidLink",
+      "url": "https://vidlink.it",
+      "domainWithoutSuffixOfUrl": "vidlink",
+      "oembedUrl": "https://www.vidlink.it/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "vidlink"
     },
     {
       "schemes": [
@@ -6740,19 +6269,6 @@
     {
       "schemes": [
         [
-          "https://vizydrop.com/shared/",
-          ""
-        ]
-      ],
-      "name": "Vizydrop",
-      "url": "https://vizydrop.com",
-      "domainWithoutSuffixOfUrl": "vizydrop",
-      "oembedUrl": "https://vizydrop.com/oembed",
-      "domainWithoutSuffixOfOembedUrl": "vizydrop"
-    },
-    {
-      "schemes": [
-        [
           "https://vlipsy.com/",
           ""
         ]
@@ -6858,19 +6374,6 @@
     {
       "schemes": [
         [
-          "https://plugins.webcrumbs.dev/",
-          ""
-        ]
-      ],
-      "name": "Webcrumbs",
-      "url": "https://webcrumbs.org/",
-      "domainWithoutSuffixOfUrl": "webcrumbs",
-      "oembedUrl": "https://webcrumbs.dev/oembed",
-      "domainWithoutSuffixOfOembedUrl": "webcrumbs"
-    },
-    {
-      "schemes": [
-        [
           "https://play.wecandeo.com/video/v/",
           ""
         ]
@@ -6929,6 +6432,11 @@
         [
           "https://",
           ".wistia.com/medias/",
+          ""
+        ],
+        [
+          "https://",
+          ".wistia.com/s/",
           ""
         ]
       ],
@@ -7030,6 +6538,23 @@
       "domainWithoutSuffixOfUrl": "wordpress",
       "oembedUrl": "http://public-api.wordpress.com/oembed/",
       "domainWithoutSuffixOfOembedUrl": "wordpress"
+    },
+    {
+      "schemes": [
+        [
+          "https://worldeventtrading.com/predictions/",
+          ""
+        ],
+        [
+          "https://www.worldeventtrading.com/predictions/",
+          ""
+        ]
+      ],
+      "name": "World Event Trading",
+      "url": "https://www.worldeventtrading.com/",
+      "domainWithoutSuffixOfUrl": "worldeventtrading",
+      "oembedUrl": "https://www.worldeventtrading.com/api/oembed",
+      "domainWithoutSuffixOfOembedUrl": "worldeventtrading"
     },
     {
       "schemes": [
@@ -7202,7 +6727,7 @@
   ],
   "index": {
     "2": [
-      306
+      277
     ],
     "23": [
       0
@@ -7239,26 +6764,26 @@
     ],
     "vod": [
       6,
-      312
+      282
     ],
     "afree": [
       6,
-      312
+      282
     ],
     "st": [
       6,
-      312
+      282
     ],
     "station": [
       6,
-      312
+      282
     ],
     "afreecatv": [
       6
     ],
     "openapi": [
       6,
-      312
+      282
     ],
     "altium": [
       7
@@ -7286,7 +6811,7 @@
     ],
     "animatron": [
       11,
-      269
+      243
     ],
     "animoto": [
       12
@@ -7313,2084 +6838,1950 @@
       15
     ],
     "stories": [
-      16,
-      100
+      16
     ],
     "storymaps": [
       16
     ],
-    "archivos": [
+    "studio": [
       17
     ],
-    "studio": [
-      18
-    ],
     "edu": [
-      18
+      17
     ],
     "assemblr": [
-      18
+      17
     ],
     "editor": [
-      18
+      17
     ],
     "creation": [
-      18
+      17
     ],
     "assemblrworld": [
-      18
+      17
     ],
     "audio": [
-      19,
-      221
+      18,
+      200
     ],
     "channels": [
-      20,
-      365
+      19,
+      337
     ],
-    "audioboom": [
-      20
+    "channel": [
+      19
     ],
     "playlists": [
-      20,
-      232
+      19,
+      211
     ],
     "podcasts": [
-      20
+      19
     ],
     "podcast": [
-      20
+      19
     ],
     "posts": [
-      20,
-      102
-    ],
-    "episodes": [
-      20,
-      186
-    ],
-    "publishing": [
-      20
-    ],
-    "clips": [
-      21,
-      128
-    ],
-    "audiobooks": [
-      21
-    ],
-    "audioclip": [
-      21
-    ],
-    "audiomack": [
-      22
-    ],
-    "album": [
-      22,
-      230,
-      365
-    ],
-    "audiomeans": [
-      23
-    ],
-    "audius": [
-      24
-    ],
-    "backtracks": [
-      25
-    ],
-    "balsamiq": [
-      26
-    ],
-    "beams": [
-      27
-    ],
-    "beautiful": [
-      28
-    ],
-    "behance": [
-      29
-    ],
-    "quellensuche": [
-      30,
-      264
-    ],
-    "biqapp": [
-      31
-    ],
-    "bitchute": [
-      32
-    ],
-    "profiles": [
-      33
-    ],
-    "compare": [
-      33
-    ],
-    "blackfire": [
-      33
-    ],
-    "blogcast": [
-      34
-    ],
-    "embedly": [
-      34
-    ],
-    "profile": [
-      35
-    ],
-    "bsky": [
-      35
-    ],
-    "bookingmood": [
-      36
-    ],
-    "bornetube": [
-      37
-    ],
-    "lasync": [
-      37,
-      305
-    ],
-    "boxofficebuz": [
-      38
-    ],
-    "videoid": [
-      39
-    ],
-    "playlistid": [
-      39
-    ],
-    "bcove": [
-      39
-    ],
-    "brightcove": [
-      39
-    ],
-    "worlds": [
-      40
-    ],
-    "briovr": [
-      40
-    ],
-    "bumper": [
-      41
-    ],
-    "mediadelivery": [
-      42
-    ],
-    "bunnycdn": [
-      42
-    ],
-    "bunny": [
-      42
-    ],
-    "OEmbed": [
-      42
-    ],
-    "buttondown": [
-      43
-    ],
-    "files": [
-      44
-    ],
-    "cmc": [
-      44
-    ],
-    "diagrams": [
-      45
-    ],
-    "cacoo": [
-      45
-    ],
-    "design": [
-      46,
-      108
-    ],
-    "canva": [
-      46
-    ],
-    "_oembed": [
-      46
-    ],
-    "carbon": [
-      47
-    ],
-    "minesweeper": [
-      48
-    ],
-    "castmake": [
-      49
-    ],
-    "catbo": [
-      50
-    ],
-    "embeds": [
-      51,
-      216
-    ],
-    "celero": [
-      51
-    ],
-    "ceros": [
-      52
-    ],
-    "chainflix": [
-      53
-    ],
-    "chartblocks": [
-      54
-    ],
-    "chirb": [
-      55
-    ],
-    "chirbit": [
-      55
-    ],
-    "mypage": [
-      56
-    ],
-    "story": [
-      56,
-      114
-    ],
-    "chroco": [
-      56
-    ],
-    "features": [
-      57
-    ],
-    "news": [
-      57
-    ],
-    "sport": [
-      57
-    ],
-    "style": [
-      57
-    ],
-    "culture": [
-      57
-    ],
-    "circlezeroeight": [
-      57
-    ],
-    "circuit": [
-      58
-    ],
-    "circuitlab": [
-      58
-    ],
-    "clipland": [
-      59
-    ],
-    "clueso": [
-      60
-    ],
-    "clyp": [
-      61
-    ],
-    "ilovecoco": [
-      62
-    ],
-    "share_abacus": [
-      63
-    ],
-    "codehs": [
-      63
-    ],
-    "sharedprogram": [
-      63
-    ],
-    "codepen": [
-      64
-    ],
-    "codepoints": [
-      65
-    ],
-    "codesandbox": [
-      66
-    ],
-    "collegehumor": [
-      67
-    ],
-    "commaful": [
-      68
-    ],
-    "coub": [
-      69
-    ],
-    "crowdranking": [
-      70
-    ],
-    "crumb": [
-      71
-    ],
-    "sounds": [
-      72
-    ],
-    "cueup": [
-      72
-    ],
-    "gql": [
-      72
-    ],
-    "curated": [
-      73
-    ],
-    "customerdb": [
-      74
-    ],
-    "dadan": [
-      75
-    ],
-    "stage": [
-      75
-    ],
-    "dailymotion": [
-      76
-    ],
-    "dalexni": [
-      77
-    ],
-    "dwcdn": [
-      78
-    ],
-    "datawrapper": [
-      78
-    ],
-    "demofly": [
-      79
-    ],
-    "deseret": [
-      80
-    ],
-    "art": [
-      81
-    ],
-    "d": [
-      81
-    ],
-    "fav": [
-      81
-    ],
-    "sta": [
-      81
-    ],
-    "deviantart": [
-      81
-    ],
-    "backend": [
-      81
-    ],
-    "central": [
-      82
-    ],
-    "showtitle": [
-      82
-    ],
-    "default": [
-      82
-    ],
-    "ultimedia": [
-      82
-    ],
-    "search": [
-      82
-    ],
-    "docdroid": [
-      83
-    ],
-    "docdro": [
-      83
-    ],
-    "docswell": [
-      84
-    ],
-    "service": [
-      84,
-      235
-    ],
-    "documents": [
-      85
-    ],
-    "documentcloud": [
-      85
-    ],
-    "dotsub": [
-      86
-    ],
-    "dreambroker": [
-      87
-    ],
-    "tube": [
-      88
-    ],
-    "echoeshq": [
-      89
-    ],
-    "edumedia": [
-      90,
-      91
-    ],
-    "xml": [
-      91
-    ],
-    "egliseinfo": [
-      92
-    ],
-    "elevenlabs": [
-      93
-    ],
-    "next": [
-      93
-    ],
-    "embases": [
-      94
-    ],
-    "embedery": [
+      19,
       95
     ],
+    "episodes": [
+      19,
+      166
+    ],
+    "audioboom": [
+      19
+    ],
+    "publishing": [
+      19
+    ],
+    "clips": [
+      20,
+      118
+    ],
+    "audiobooks": [
+      20
+    ],
+    "audioclip": [
+      20
+    ],
+    "audiomack": [
+      21
+    ],
+    "album": [
+      21,
+      209,
+      337
+    ],
+    "audiomeans": [
+      22
+    ],
+    "audius": [
+      23
+    ],
+    "backtracks": [
+      24
+    ],
+    "balsamiq": [
+      25
+    ],
+    "beautiful": [
+      26
+    ],
+    "behance": [
+      27
+    ],
+    "beta": [
+      28,
+      202
+    ],
+    "biqapp": [
+      29
+    ],
+    "bitchute": [
+      30
+    ],
+    "profiles": [
+      31
+    ],
+    "compare": [
+      31
+    ],
+    "blackfire": [
+      31
+    ],
+    "blogcast": [
+      32
+    ],
+    "embedly": [
+      32
+    ],
+    "profile": [
+      33
+    ],
+    "bsky": [
+      33
+    ],
+    "bookingmood": [
+      34
+    ],
+    "bornetube": [
+      35
+    ],
+    "lasync": [
+      35,
+      276
+    ],
+    "boxofficebuz": [
+      36
+    ],
+    "videoid": [
+      37
+    ],
+    "playlistid": [
+      37
+    ],
+    "bcove": [
+      37
+    ],
+    "brightcove": [
+      37
+    ],
+    "bumper": [
+      38
+    ],
+    "mediadelivery": [
+      39
+    ],
+    "bunnycdn": [
+      39
+    ],
+    "bunny": [
+      39
+    ],
+    "OEmbed": [
+      39
+    ],
+    "buttondown": [
+      40
+    ],
+    "files": [
+      41
+    ],
+    "cmc": [
+      41
+    ],
+    "diagrams": [
+      42
+    ],
+    "cacoo": [
+      42
+    ],
+    "design": [
+      43,
+      100
+    ],
+    "canva": [
+      43
+    ],
+    "_oembed": [
+      43
+    ],
+    "carbon": [
+      44
+    ],
+    "carbonvoice": [
+      45
+    ],
+    "m": [
+      45,
+      199
+    ],
+    "castmake": [
+      46
+    ],
+    "catbo": [
+      47
+    ],
+    "embeds": [
+      48,
+      195
+    ],
+    "celero": [
+      48
+    ],
+    "ceros": [
+      49
+    ],
+    "chanceindex": [
+      50
+    ],
+    "chartblocks": [
+      51
+    ],
+    "mypage": [
+      52
+    ],
+    "story": [
+      52,
+      106
+    ],
+    "chroco": [
+      52
+    ],
+    "features": [
+      53
+    ],
+    "news": [
+      53
+    ],
+    "sport": [
+      53
+    ],
+    "style": [
+      53
+    ],
+    "culture": [
+      53
+    ],
+    "circlezeroeight": [
+      53
+    ],
+    "circuit": [
+      54
+    ],
+    "circuitlab": [
+      54
+    ],
+    "clipform": [
+      55
+    ],
+    "clipland": [
+      56
+    ],
+    "clueso": [
+      57
+    ],
+    "clyp": [
+      58
+    ],
+    "share_abacus": [
+      59
+    ],
+    "codehs": [
+      59
+    ],
+    "sharedprogram": [
+      59
+    ],
+    "codepen": [
+      60
+    ],
+    "codepoints": [
+      61
+    ],
+    "codesandbox": [
+      62
+    ],
+    "collegehumor": [
+      63
+    ],
+    "coloring": [
+      64
+    ],
+    "monsterpieces": [
+      64
+    ],
+    "coloringmonster": [
+      64
+    ],
+    "commaful": [
+      65
+    ],
+    "coub": [
+      66
+    ],
+    "crumb": [
+      67
+    ],
+    "sounds": [
+      68
+    ],
+    "cueup": [
+      68
+    ],
+    "gql": [
+      68
+    ],
+    "curated": [
+      69
+    ],
+    "dadan": [
+      70
+    ],
+    "stage": [
+      70
+    ],
+    "dailymotion": [
+      71
+    ],
+    "geo": [
+      71
+    ],
+    "dalexni": [
+      72
+    ],
+    "dwcdn": [
+      73
+    ],
+    "datawrapper": [
+      73
+    ],
+    "demofly": [
+      74
+    ],
+    "deseret": [
+      75
+    ],
+    "art": [
+      76
+    ],
+    "d": [
+      76
+    ],
+    "fav": [
+      76
+    ],
+    "sta": [
+      76
+    ],
+    "deviantart": [
+      76
+    ],
+    "backend": [
+      76
+    ],
+    "central": [
+      77
+    ],
+    "showtitle": [
+      77
+    ],
+    "default": [
+      77
+    ],
+    "ultimedia": [
+      77
+    ],
+    "search": [
+      77
+    ],
+    "docdroid": [
+      78
+    ],
+    "docdro": [
+      78
+    ],
+    "docswell": [
+      79
+    ],
+    "service": [
+      79,
+      214
+    ],
+    "documents": [
+      80
+    ],
+    "documentcloud": [
+      80
+    ],
+    "dotsub": [
+      81
+    ],
+    "dreambroker": [
+      82
+    ],
+    "tube": [
+      83
+    ],
+    "ecency": [
+      84
+    ],
+    "edumedia": [
+      85,
+      86
+    ],
+    "xml": [
+      86
+    ],
+    "egliseinfo": [
+      87
+    ],
+    "elevenlabs": [
+      88
+    ],
+    "next": [
+      88
+    ],
+    "embases": [
+      89
+    ],
+    "embedery": [
+      90
+    ],
     "ethfiddle": [
-      96
+      91
     ],
     "evt": [
-      97
+      92
     ],
     "eventlive": [
-      97
+      92
     ],
     "everviz": [
-      98
+      93
     ],
     "everwall": [
+      94
+    ],
+    "activity": [
+      95
+    ],
+    "photos": [
+      95,
+      105
+    ],
+    "fbid": [
+      95
+    ],
+    "permalink": [
+      95
+    ],
+    "set": [
+      95,
+      128
+    ],
+    "questions": [
+      95
+    ],
+    "notes": [
+      95
+    ],
+    "facebook": [
+      95,
+      96,
+      97
+    ],
+    "oembed_post": [
+      95
+    ],
+    "videos": [
+      96
+    ],
+    "php": [
+      96
+    ],
+    "oembed_video": [
+      96
+    ],
+    "oembed_page": [
+      97
+    ],
+    "items": [
+      98
+    ],
+    "resource": [
+      98
+    ],
+    "faithlifetv": [
+      98
+    ],
+    "assets": [
+      98
+    ],
+    "haus": [
       99
     ],
-    "playbuzz": [
-      100
-    ],
-    "ex": [
-      100
-    ],
-    "item": [
+    "figma": [
       100
     ],
     "board": [
-      101,
-      108,
-      208
-    ],
-    "sparkfun": [
-      101
-    ],
-    "eyrie": [
-      101
-    ],
-    "activity": [
-      102
-    ],
-    "photos": [
-      102,
-      113
-    ],
-    "fbid": [
-      102
-    ],
-    "permalink": [
-      102
-    ],
-    "set": [
-      102,
-      139
-    ],
-    "questions": [
-      102
-    ],
-    "notes": [
-      102,
-      297
-    ],
-    "facebook": [
-      102,
-      103,
-      104
-    ],
-    "oembed_post": [
-      102
-    ],
-    "videos": [
-      103
-    ],
-    "php": [
-      103
-    ],
-    "oembed_video": [
-      103
-    ],
-    "oembed_page": [
-      104
-    ],
-    "projects": [
-      105,
-      175
-    ],
-    "getfader": [
-      105
-    ],
-    "items": [
-      106
-    ],
-    "resource": [
-      106
-    ],
-    "faithlifetv": [
-      106
-    ],
-    "assets": [
-      106
-    ],
-    "haus": [
-      107
-    ],
-    "figma": [
-      108
-    ],
-    "slides": [
-      108,
-      132
-    ],
-    "buzz": [
-      108
-    ],
-    "site": [
-      108
-    ],
-    "make": [
-      108
-    ],
-    "step": [
-      109
-    ],
-    "filestage": [
-      109
-    ],
-    "fireworktv": [
-      110
-    ],
-    "fite": [
-      111
-    ],
-    "score": [
-      112
-    ],
-    "flat": [
-      112
-    ],
-    "flic": [
-      113
-    ],
-    "flickr": [
-      113
-    ],
-    "visualisation": [
-      114
-    ],
-    "flourish": [
-      114
-    ],
-    "flowhub": [
-      115
-    ],
-    "flows": [
-      115
-    ],
-    "o": [
-      115
-    ],
-    "reviews": [
-      116
-    ],
-    "spots": [
-      116
-    ],
-    "fooday": [
-      116
-    ],
-    "forms": [
-      117
-    ],
-    "form": [
-      117
-    ],
-    "isomorphic": [
-      118
-    ],
-    "foxsports": [
-      118
-    ],
-    "fiso": [
-      118
-    ],
-    "framatube": [
-      119
-    ],
-    "framebuzz": [
-      120
-    ],
-    "framer": [
-      121
-    ],
-    "uk": [
-      122
-    ],
-    "ie": [
-      122
-    ],
-    "wikimedia": [
-      122
-    ],
-    "gg": [
-      123
-    ],
-    "je": [
-      123
-    ],
-    "islands": [
-      123
-    ],
-    "geographs": [
-      123
-    ],
-    "hlipp": [
-      124
-    ],
-    "germany": [
-      124
-    ],
-    "restapi": [
-      124
-    ],
-    "geometryviewer": [
-      125
-    ],
-    "gty": [
-      126
-    ],
-    "gettyimages": [
-      126
-    ],
-    "gifnote": [
-      127
-    ],
-    "gifs": [
-      128
-    ],
-    "gph": [
-      128
-    ],
-    "gif": [
-      128
-    ],
-    "giphy": [
-      128
-    ],
-    "gloria": [
-      129
-    ],
-    "gmetri": [
-      130
-    ],
-    "call": [
-      131
-    ],
-    "gong": [
-      131
-    ],
-    "good": [
-      132
-    ],
-    "highlight": [
-      133
-    ],
-    "grain": [
-      133
-    ],
-    "_": [
-      133
-    ],
-    "gtchannel": [
-      134
-    ],
-    "luminery": [
-      134
-    ],
-    "gumlet": [
-      135
-    ],
-    "gw2fashions": [
-      136
-    ],
-    "gyazo": [
-      137
-    ],
-    "hash": [
-      138
-    ],
-    "hearthis": [
-      139
-    ],
-    "helenenglish": [
-      140
-    ],
-    "flip": [
-      141
-    ],
-    "hflip": [
-      141
-    ],
-    "aflip": [
-      141
-    ],
-    "heyzine": [
-      141
-    ],
-    "api1": [
-      141
-    ],
-    "hihaho": [
-      142
-    ],
-    "hippovideo": [
-      143
-    ],
-    "hivo": [
-      144
-    ],
-    "uq": [
-      144
-    ],
-    "southerndesigngroup": [
-      144
-    ],
-    "freedom": [
-      144
-    ],
-    "cockburn": [
-      144
-    ],
-    "somnomed": [
-      144
-    ],
-    "snowtunnel": [
-      144
-    ],
-    "brenclosures": [
-      144
-    ],
-    "drupal": [
-      144
-    ],
-    "homey": [
-      145
-    ],
-    "flow": [
-      145
-    ],
-    "hopvue": [
-      146
-    ],
-    "portal": [
-      146
-    ],
-    "huffduffer": [
-      147
-    ],
-    "hulu": [
-      148
-    ],
-    "icosa": [
-      149
-    ],
-    "ideamapper": [
-      150
-    ],
-    "idomoo": [
-      151
-    ],
-    "guide": [
-      152
-    ],
-    "iFixit": [
-      152
-    ],
-    "Embed": [
-      152
-    ],
-    "ifttt": [
-      153
-    ],
-    "videocdn": [
-      154
-    ],
-    "euvideocdn": [
-      154
-    ],
-    "ignite": [
-      154
-    ],
-    "ignitevideo": [
-      154
-    ],
-    "iheart": [
-      155
-    ],
-    "qr": [
-      156
-    ],
-    "imenupro": [
-      156
-    ],
-    "incredible": [
-      157
-    ],
-    "jwp": [
-      158
-    ],
-    "indacolive": [
-      158
-    ],
-    "infogram": [
-      159
-    ],
-    "infoveave": [
-      160
-    ],
-    "exercises": [
-      161
-    ],
-    "injurymap": [
-      161
-    ],
-    "inoreader": [
-      162
-    ],
-    "inphood": [
-      163
-    ],
-    "insighttimer": [
-      164
-    ],
-    "widgets": [
-      164
-    ],
-    "instagram": [
-      165
-    ],
-    "instagr": [
-      165
-    ],
-    "reel": [
-      165
-    ],
-    "instagram_oembed": [
-      165
-    ],
-    "ppa": [
-      166
-    ],
-    "insticator": [
-      166
-    ],
-    "docs": [
-      167
-    ],
-    "issuu": [
-      167
-    ],
-    "samay": [
-      168
-    ],
-    "itemis": [
-      169
-    ],
-    "storage": [
-      169
-    ],
-    "case": [
-      170
-    ],
-    "jawafdehi": [
-      170
-    ],
-    "ml": [
-      171
-    ],
-    "jovian": [
-      171
-    ],
-    "viewer": [
-      171
-    ],
-    "solo": [
-      172
-    ],
-    "juntos": [
-      172
-    ],
-    "workouts": [
-      173
-    ],
-    "justspin": [
-      173
-    ],
-    "cliplink": [
-      174
-    ],
-    "kakao": [
-      174
-    ],
-    "livelink": [
-      174
-    ],
-    "l": [
-      174
-    ],
-    "kickstarter": [
-      175
-    ],
-    "kidoju": [
-      176
-    ],
-    "halaman": [
-      177
-    ],
-    "aplikasi": [
-      177
-    ],
-    "kirim": [
-      177
-    ],
-    "kit": [
-      178
-    ],
-    "recipe": [
-      179
-    ],
-    "kitchenbowl": [
-      179
-    ],
-    "h": [
-      180
-    ],
-    "history": [
-      180
-    ],
-    "kmdr": [
-      180
-    ],
-    "meuh": [
-      181
-    ],
-    "jdr": [
-      181
-    ],
-    "knowledgepad": [
-      182
-    ],
-    "spoonacular": [
-      182
-    ],
-    "recordings": [
-      183
-    ],
-    "guides": [
-      183
-    ],
-    "kommodo": [
-      183
-    ],
-    "koo": [
-      184
-    ],
-    "kooapp": [
-      184
-    ],
-    "kubit": [
-      185
-    ],
-    "songs": [
-      186,
-      275
-    ],
-    "kurozora": [
-      186
-    ],
-    "landofassets": [
+      100,
       187
     ],
-    "impact": [
-      188
+    "slides": [
+      100,
+      122
     ],
-    "im": [
-      188
+    "buzz": [
+      100
     ],
-    "laude": [
-      188
+    "site": [
+      100
     ],
-    "learningapps": [
-      189
+    "make": [
+      100
     ],
-    "umotion": [
-      190
+    "step": [
+      101
     ],
-    "lille": [
-      191
+    "filestage": [
+      101
     ],
-    "businesses": [
-      192
+    "fireworktv": [
+      102
     ],
-    "line": [
-      192
+    "fite": [
+      103
     ],
-    "irf": [
-      193
+    "score": [
+      104
     ],
-    "linkstackz": [
-      193
+    "flat": [
+      104
     ],
-    "livid": [
-      194
+    "flic": [
+      105
     ],
-    "loom": [
-      195
+    "flickr": [
+      105
     ],
-    "lottiefiles": [
-      196
+    "visualisation": [
+      106
     ],
-    "lottie": [
-      196
+    "flourish": [
+      106
     ],
-    "ludus": [
-      197
+    "flowhub": [
+      107
     ],
-    "lumiere": [
-      198
+    "flows": [
+      107
     ],
-    "latd": [
-      198
+    "o": [
+      107
     ],
-    "admin": [
-      198
+    "reviews": [
+      108
     ],
-    "marimo": [
-      199
+    "spots": [
+      108
     ],
-    "latex": [
-      200
+    "fooday": [
+      108
     ],
-    "mathembed": [
-      200
+    "forms": [
+      109
     ],
-    "matterport": [
-      201
+    "form": [
+      109
     ],
-    "my": [
-      201
+    "isomorphic": [
+      110
     ],
-    "i": [
-      202
+    "foxsports": [
+      110
     ],
-    "me": [
-      202
+    "fiso": [
+      110
     ],
-    "mdstrm": [
-      203
+    "framatube": [
+      111
     ],
-    "stream": [
-      203
+    "framebuzz": [
+      112
     ],
-    "image": [
-      203,
-      221
+    "framer": [
+      113
     ],
-    "entries": [
-      204
+    "fritube": [
+      114
     ],
-    "medienarchiv": [
-      204
+    "geometryviewer": [
+      115
     ],
-    "mermaid": [
-      205
+    "gty": [
+      116
     ],
-    "svg": [
-      205
+    "gettyimages": [
+      116
     ],
-    "microsoftstream": [
-      206
+    "gifnote": [
+      117
     ],
-    "microsoft": [
-      206
+    "gifs": [
+      118
     ],
-    "featured": [
-      207
+    "gph": [
+      118
     ],
-    "themes": [
-      207
+    "gif": [
+      118
+    ],
+    "giphy": [
+      118
+    ],
+    "gloria": [
+      119
+    ],
+    "gmetri": [
+      120
+    ],
+    "call": [
+      121
+    ],
+    "gong": [
+      121
+    ],
+    "good": [
+      122
+    ],
+    "highlight": [
+      123
+    ],
+    "grain": [
+      123
+    ],
+    "_": [
+      123
+    ],
+    "gumlet": [
+      124
+    ],
+    "gw2fashions": [
+      125
+    ],
+    "gyazo": [
+      126
+    ],
+    "hash": [
+      127
+    ],
+    "hearthis": [
+      128
+    ],
+    "flip": [
+      129
+    ],
+    "hflip": [
+      129
+    ],
+    "aflip": [
+      129
+    ],
+    "heyzine": [
+      129
+    ],
+    "api1": [
+      129
+    ],
+    "hihaho": [
+      130
+    ],
+    "hippovideo": [
+      131
+    ],
+    "hivo": [
+      132
+    ],
+    "digital": [
+      132
+    ],
+    "southerndesigngroup": [
+      132
+    ],
+    "freedom": [
+      132
+    ],
+    "cockburn": [
+      132
+    ],
+    "somnomed": [
+      132
+    ],
+    "snowtunnel": [
+      132
+    ],
+    "brenclosures": [
+      132
+    ],
+    "drupal": [
+      132
+    ],
+    "homey": [
+      133
+    ],
+    "flow": [
+      133
+    ],
+    "huffduffer": [
+      134
+    ],
+    "hulu": [
+      135
+    ],
+    "icosa": [
+      136
+    ],
+    "ideamapper": [
+      137
+    ],
+    "idomoo": [
+      138
+    ],
+    "guide": [
+      139
+    ],
+    "iFixit": [
+      139
+    ],
+    "Embed": [
+      139
     ],
     "recipes": [
-      207
+      140
     ],
-    "follow": [
-      207
+    "ifttt": [
+      140
     ],
-    "minervaknows": [
-      207
+    "videocdn": [
+      141
+    ],
+    "euvideocdn": [
+      141
+    ],
+    "ignite": [
+      141
+    ],
+    "ignitevideo": [
+      141
+    ],
+    "iheart": [
+      142
+    ],
+    "qr": [
+      143
+    ],
+    "imenupro": [
+      143
+    ],
+    "jwp": [
+      144
+    ],
+    "indacolive": [
+      144
+    ],
+    "infogram": [
+      145
+    ],
+    "infoveave": [
+      146
+    ],
+    "exercises": [
+      147
+    ],
+    "injurymap": [
+      147
+    ],
+    "inoreader": [
+      148
+    ],
+    "inphood": [
+      149
+    ],
+    "insighttimer": [
+      150
+    ],
+    "widgets": [
+      150,
+      217
+    ],
+    "instagram": [
+      151
+    ],
+    "instagr": [
+      151
+    ],
+    "reel": [
+      151
+    ],
+    "instagram_oembed": [
+      151
+    ],
+    "ppa": [
+      152
+    ],
+    "insticator": [
+      152
+    ],
+    "docs": [
+      153
+    ],
+    "issuu": [
+      153
+    ],
+    "samay": [
+      154
+    ],
+    "case": [
+      155
+    ],
+    "jawafdehi": [
+      155
+    ],
+    "ml": [
+      156
+    ],
+    "jovian": [
+      156
+    ],
+    "viewer": [
+      156
+    ],
+    "solo": [
+      157
+    ],
+    "juntos": [
+      157
+    ],
+    "workouts": [
+      158
+    ],
+    "justspin": [
+      158
+    ],
+    "projects": [
+      159
+    ],
+    "kickstarter": [
+      159
+    ],
+    "halaman": [
+      160
+    ],
+    "aplikasi": [
+      160
+    ],
+    "kirim": [
+      160
+    ],
+    "kit": [
+      161
+    ],
+    "recipe": [
+      162
+    ],
+    "kitchenbowl": [
+      162
+    ],
+    "knowledgepad": [
+      163
+    ],
+    "spoonacular": [
+      163
+    ],
+    "recordings": [
+      164
+    ],
+    "guides": [
+      164
+    ],
+    "kommodo": [
+      164
+    ],
+    "kubit": [
+      165
+    ],
+    "songs": [
+      166,
+      249
+    ],
+    "kurozora": [
+      166
+    ],
+    "landofassets": [
+      167
+    ],
+    "impact": [
+      168
+    ],
+    "im": [
+      168
+    ],
+    "laude": [
+      168
+    ],
+    "learningapps": [
+      169
+    ],
+    "lille": [
+      170
+    ],
+    "businesses": [
+      171
+    ],
+    "line": [
+      171
+    ],
+    "irf": [
+      172
+    ],
+    "linkstackz": [
+      172
+    ],
+    "livecodes": [
+      173
+    ],
+    "livid": [
+      174
+    ],
+    "loom": [
+      175
+    ],
+    "lottiefiles": [
+      176
+    ],
+    "lottie": [
+      176
+    ],
+    "ludus": [
+      177
+    ],
+    "lumiere": [
+      178
+    ],
+    "latd": [
+      178
+    ],
+    "admin": [
+      178
+    ],
+    "marimo": [
+      179
+    ],
+    "latex": [
+      180
+    ],
+    "mathembed": [
+      180
+    ],
+    "matterport": [
+      181
+    ],
+    "my": [
+      181
+    ],
+    "i": [
+      182,
+      206
+    ],
+    "me": [
+      182
+    ],
+    "mdstrm": [
+      183
+    ],
+    "stream": [
+      183
+    ],
+    "image": [
+      183,
+      200
+    ],
+    "entries": [
+      184
+    ],
+    "medienarchiv": [
+      184
+    ],
+    "mermaid": [
+      185
+    ],
+    "svg": [
+      185
+    ],
+    "microsoftstream": [
+      186
+    ],
+    "microsoft": [
+      186
     ],
     "miro": [
-      208,
-      209
+      187,
+      188
     ],
     "mixcloud": [
-      210
+      189
     ],
     "mixpanel": [
-      211
+      190
     ],
     "user": [
-      212
+      191
     ],
     "moby": [
-      212
+      191
     ],
     "mobypicture": [
-      212
-    ],
-    "melody": [
-      213
-    ],
-    "musicboxmaniacs": [
-      213
-    ],
-    "mybeweeg": [
-      214
-    ],
-    "explain": [
-      215
-    ],
-    "mysqlexplain": [
-      215
-    ],
-    "namchey": [
-      216
-    ],
-    "nanoo": [
-      217
-    ],
-    "pro": [
-      217
-    ],
-    "signatur": [
-      217
-    ],
-    "new": [
-      217
-    ],
-    "nb": [
-      218
-    ],
-    "catalog": [
-      218
-    ],
-    "naturalatlas": [
-      219
-    ],
-    "naver": [
-      220
-    ],
-    "m": [
-      220
+      191
     ],
     "oEmbed": [
-      220
+      191,
+      199
+    ],
+    "melody": [
+      192
+    ],
+    "musicboxmaniacs": [
+      192
+    ],
+    "mybeweeg": [
+      193
+    ],
+    "explain": [
+      194
+    ],
+    "mysqlexplain": [
+      194
+    ],
+    "namchey": [
+      195
+    ],
+    "nanoo": [
+      196
+    ],
+    "pro": [
+      196
+    ],
+    "signatur": [
+      196
+    ],
+    "new": [
+      196
+    ],
+    "nb": [
+      197
+    ],
+    "catalog": [
+      197
+    ],
+    "naturalatlas": [
+      198
+    ],
+    "naver": [
+      199
     ],
     "ndla": [
-      221
+      200
     ],
     "article": [
-      221,
-      373
+      200,
+      344
     ],
     "concept": [
-      221
+      200
     ],
     "nebula": [
-      222,
-      223
+      201
     ],
     "needle": [
-      224
+      203
     ],
     "run": [
-      224
+      203
     ],
     "neetorecord": [
-      225
+      204
     ],
     "film": [
-      226
+      205
     ],
     "nfb": [
-      226
+      205
     ],
     "remote": [
-      226
+      205
     ],
-    "nopaste": [
-      227
+    "brand": [
+      206
+    ],
+    "nouncify": [
+      206
+    ],
+    "sandbox": [
+      206
     ],
     "observablehq": [
-      228
+      207
     ],
     "odds": [
-      229
+      208
     ],
     "song": [
-      230
+      209
     ],
     "artist": [
-      230
+      209
     ],
     "playlist": [
-      230
+      209
     ],
     "pods": [
-      230
+      209
     ],
     "mylink": [
-      230
+      209
     ],
     "odesli": [
-      230
+      209
     ],
     "odysee": [
-      231
+      210
     ],
     "tracks": [
-      232
+      211
     ],
     "official": [
-      232
+      211
     ],
     "omniscope": [
-      233
+      212
     ],
     "_global_": [
-      233
+      212
     ],
     "shows": [
-      234
+      213
     ],
     "omnystudio": [
-      234
+      213
     ],
     "omny": [
-      234
+      213
     ],
     "ov3601": [
-      235
+      214
     ],
     "ov3602": [
-      235
+      214
     ],
     "orbittour": [
-      235
+      214
     ],
     "orbitvu": [
-      235
+      214
     ],
     "origits": [
-      236,
-      237
+      215,
+      216
+    ],
+    "frame": [
+      217
+    ],
+    "orizn": [
+      217
     ],
     "outplayed": [
-      238
+      218
     ],
     "overflow": [
-      239
-    ],
-    "oz": [
-      240
+      219
     ],
     "padlet": [
-      241
+      220
     ],
     "br": [
-      242
+      221
     ],
     "m3u8": [
-      242
+      221
     ],
     "dashboard": [
-      242,
-      364
+      221,
+      237,
+      336
     ],
     "pandavideo": [
-      242
+      221
+    ],
+    "parler": [
+      222
+    ],
+    "b": [
+      222
     ],
     "parta": [
-      243
+      223
     ],
     "pastery": [
-      244
+      224
     ],
     "peertube": [
-      245
-    ],
-    "picturelfy": [
-      246
-    ],
-    "piggy": [
-      247
-    ],
-    "builder": [
-      248
-    ],
-    "pingvp": [
-      249
-    ],
-    "kpnis": [
-      249
+      225
     ],
     "pinpoll": [
-      250
+      226
     ],
     "products": [
-      250
+      226
     ],
     "pinterest": [
-      251
+      227
     ],
     "pitchhub": [
-      252
+      228
     ],
     "marker": [
-      253
+      229
     ],
     "show": [
-      253
+      229
     ],
     "pixdor": [
-      253
+      229
     ],
     "store": [
-      253
+      229
     ],
     "model": [
-      254
+      230
     ],
     "plinth": [
-      254
+      230
     ],
     "snapshots": [
-      255
+      231
     ],
     "pages": [
-      255
+      231
     ],
     "plusdocs": [
-      255
+      231
     ],
     "podbean": [
-      256
+      232
     ],
     "polldaddy": [
-      257
+      233
     ],
     "poll": [
-      257
+      233
     ],
     "ratings": [
-      257
+      233
     ],
     "entry": [
-      258
+      234
     ],
     "portfolium": [
-      258
-    ],
-    "do": [
-      259
-    ],
-    "gateway": [
-      259
+      234
     ],
     "prezi": [
-      260
+      235
     ],
     "snippets": [
-      261
+      236
     ],
     "programmingly": [
-      261
+      236
+    ],
+    "chart": [
+      237
+    ],
+    "pyzia": [
+      237
     ],
     "qtpi": [
-      262
+      238
     ],
     "quartr": [
-      263
+      239
+    ],
+    "quellensuche": [
+      240
     ],
     "quiz": [
-      265
+      241
     ],
     "quizz": [
-      266
-    ],
-    "radiopublic": [
-      267
-    ],
-    "raindrop": [
-      268
-    ],
-    "pub": [
-      268
+      242
     ],
     "rcvis": [
-      269
+      243
     ],
     "visualize": [
-      269
+      243
     ],
     "ve": [
-      269
+      243
     ],
     "visualizeembedded": [
-      269
+      243
     ],
-    "r": [
-      270
+    "comments": [
+      244
     ],
     "reddit": [
-      270
+      244
     ],
     "redlof": [
-      271,
-      272
+      245,
+      246
     ],
     "wp": [
-      271,
-      385
-    ],
-    "wexcreator": [
-      272
-    ],
-    "showroom": [
-      272
-    ],
-    "rwire": [
-      273
-    ],
-    "releasewire": [
-      273
-    ],
-    "publisher": [
-      273
-    ],
-    "repl": [
-      274
-    ],
-    "replit": [
-      274
-    ],
-    "reverbnation": [
-      275
-    ],
-    "risky": [
-      276
-    ],
-    "roomshare": [
-      277
-    ],
-    "roosterteeth": [
-      278
-    ],
-    "rumble": [
-      279
-    ],
-    "Media": [
-      279
-    ],
-    "runkit": [
-      280
-    ],
-    "rushes": [
-      281
-    ],
-    "app2": [
-      282
-    ],
-    "sagenverse": [
-      282
-    ],
-    "main": [
-      283
-    ],
-    "octopus": [
-      283
-    ],
-    "sapo": [
-      284
-    ],
-    "sats": [
-      285
-    ],
-    "satcat": [
-      285
-    ],
-    "satoplayer": [
-      286
-    ],
-    "sbedit": [
-      287
-    ],
-    "getscenes": [
-      288
-    ],
-    "event": [
-      288,
-      365
-    ],
-    "console": [
-      289
-    ],
-    "screen9": [
-      289
-    ],
-    "screencast": [
-      290
-    ],
-    "external": [
-      290
-    ],
-    "screenr": [
-      291
-    ],
-    "maps": [
-      292
-    ],
-    "scribblemaps": [
-      292
-    ],
-    "doc": [
-      293
-    ],
-    "scribd": [
-      293
-    ],
-    "sendtonews": [
-      294
-    ],
-    "kappa": [
-      295
-    ],
-    "shopboard": [
-      296
-    ],
-    "shopcast": [
-      296
-    ],
-    "shopshare": [
-      296
-    ],
-    "shortnote": [
-      297
-    ],
-    "shoudio": [
-      298
-    ],
-    "shoud": [
-      298
-    ],
-    "getshow": [
-      299
-    ],
-    "showtheway": [
-      300
-    ],
-    "simplecast": [
-      301
-    ],
-    "onsizzle": [
-      302
-    ],
-    "sketch": [
-      303
-    ],
-    "preview": [
-      303,
-      382
-    ],
-    "graphql": [
-      303
-    ],
-    "models": [
-      304
-    ],
-    "folders": [
-      304
-    ],
-    "sketchfab": [
-      304
-    ],
-    "skoletube": [
-      305
-    ],
-    "studietube": [
-      305
-    ],
-    "slideshare": [
-      306
-    ],
-    "es": [
-      306
-    ],
-    "pt": [
-      306
-    ],
-    "smashnotes": [
-      307
-    ],
-    "smeme": [
-      308
-    ],
-    "book": [
-      309
-    ],
-    "smrthi": [
-      309
-    ],
-    "smugmug": [
-      310
-    ],
-    "explore": [
-      311
-    ],
-    "socialexplorer": [
-      311
-    ],
-    "edit": [
-      311
-    ],
-    "sooplive": [
-      312
-    ],
-    "soundcloud": [
-      313
-    ],
-    "on": [
-      313
-    ],
-    "goog": [
-      313
-    ],
-    "speakerdeck": [
-      314
-    ],
-    "open": [
-      315
-    ],
-    "spotify": [
-      315
-    ],
-    "spotlightr": [
-      316
-    ],
-    "publish": [
-      316,
-      350,
-      386
-    ],
-    "getOEmbed": [
-      316
-    ],
-    "spreaker": [
-      317
-    ],
-    "sproutvideo": [
-      318
-    ],
-    "vids": [
-      318
-    ],
-    "spyke": [
-      319
-    ],
-    "u": [
-      319
-    ],
-    "g": [
-      319
-    ],
-    "c": [
-      319
-    ],
-    "purl": [
-      320
-    ],
-    "streamable": [
-      321
-    ],
-    "s3m": [
-      322
-    ],
-    "23m": [
-      322
-    ],
-    "streamio": [
-      322
-    ],
-    "subscribi": [
-      323
-    ],
-    "sudomemo": [
-      324
-    ],
-    "archive": [
-      324
-    ],
-    "flipnot": [
-      324
-    ],
-    "supercut": [
-      325
-    ],
-    "sutori": [
-      326
-    ],
-    "sway": [
-      327
-    ],
-    "office": [
-      328
-    ],
-    "synthesia": [
-      329
-    ],
-    "69jr5v75rc": [
-      329
-    ],
-    "headline": [
-      330
-    ],
-    "techpostcast": [
-      330
-    ],
-    "talks": [
-      331
-    ],
-    "ted": [
-      331
-    ],
-    "tella": [
-      332
-    ],
-    "hubspot": [
-      333
-    ],
-    "svc": [
-      334
-    ],
-    "nytimes": [
-      334
-    ],
-    "theysaidso": [
-      335
-    ],
-    "extensions": [
-      335
-    ],
-    "widget": [
-      336
-    ],
-    "countdown": [
-      336
-    ],
-    "countup": [
-      336
-    ],
-    "ticker": [
-      336
-    ],
-    "clock": [
-      336
-    ],
-    "worldclock": [
-      336
-    ],
-    "tickcounter": [
-      336
-    ],
-    "full": [
-      336
-    ],
-    "tiktok": [
-      337
-    ],
-    "tksn": [
-      338
-    ],
-    "take": [
-      339
-    ],
-    "tonicaudio": [
-      339
-    ],
-    "tnic": [
-      339
-    ],
-    "information": [
-      340
-    ],
-    "registration": [
-      340
-    ],
-    "matches": [
-      340
-    ],
-    "stages": [
-      340
-    ],
-    "toornament": [
-      340
-    ],
-    "topy": [
-      341
-    ],
-    "totango": [
-      342
-    ],
-    "trackspace": [
-      343
-    ],
-    "trinitymedia": [
-      344
-    ],
-    "trinityaudio": [
-      344
-    ],
-    "trycli": [
-      345
-    ],
-    "tumblr": [
-      346
-    ],
-    "tuxx": [
-      347
-    ],
-    "tvcf": [
-      348
-    ],
-    "rest": [
-      348
-    ],
-    "presentation": [
-      349
-    ],
-    "panorama": [
-      349
-    ],
-    "twinmotion": [
-      349
-    ],
-    "twitter": [
-      350
-    ],
-    "status": [
-      350,
-      386
-    ],
-    "typecast": [
-      351
-    ],
-    "typlog": [
-      352
-    ],
-    "uapod": [
-      353
-    ],
-    "cam": [
-      354
-    ],
-    "mediatheque": [
+      245,
       355
     ],
-    "pec": [
-      356
+    "wexcreator": [
+      246
     ],
-    "ustream": [
+    "showroom": [
+      246
+    ],
+    "rwire": [
+      247
+    ],
+    "releasewire": [
+      247
+    ],
+    "publisher": [
+      247
+    ],
+    "repl": [
+      248
+    ],
+    "replit": [
+      248
+    ],
+    "reverbnation": [
+      249
+    ],
+    "risky": [
+      250
+    ],
+    "roomshare": [
+      251
+    ],
+    "roosterteeth": [
+      252
+    ],
+    "rumble": [
+      253
+    ],
+    "Media": [
+      253
+    ],
+    "rushes": [
+      254
+    ],
+    "app2": [
+      255
+    ],
+    "sagenverse": [
+      255
+    ],
+    "main": [
+      256
+    ],
+    "octopus": [
+      256
+    ],
+    "sapo": [
+      257
+    ],
+    "sats": [
+      258
+    ],
+    "satcat": [
+      258
+    ],
+    "satoplayer": [
+      259
+    ],
+    "sbedit": [
+      260
+    ],
+    "console": [
+      261
+    ],
+    "screen9": [
+      261
+    ],
+    "screencast": [
+      262
+    ],
+    "external": [
+      262
+    ],
+    "screenr": [
+      263
+    ],
+    "maps": [
+      264
+    ],
+    "scribblemaps": [
+      264
+    ],
+    "doc": [
+      265
+    ],
+    "scribd": [
+      265
+    ],
+    "sendtonews": [
+      266
+    ],
+    "shared": [
+      267
+    ],
+    "shoudio": [
+      268
+    ],
+    "shoud": [
+      268
+    ],
+    "getshow": [
+      269
+    ],
+    "to": [
+      270
+    ],
+    "showtheway": [
+      270
+    ],
+    "simplecast": [
+      271
+    ],
+    "onsizzle": [
+      272
+    ],
+    "sketch": [
+      273
+    ],
+    "preview": [
+      273,
+      352
+    ],
+    "graphql": [
+      273
+    ],
+    "models": [
+      274
+    ],
+    "folders": [
+      274
+    ],
+    "sketchfab": [
+      274
+    ],
+    "skhema": [
+      275
+    ],
+    "skoletube": [
+      276
+    ],
+    "studietube": [
+      276
+    ],
+    "slideshare": [
+      277
+    ],
+    "es": [
+      277
+    ],
+    "pt": [
+      277
+    ],
+    "smashnotes": [
+      278
+    ],
+    "book": [
+      279
+    ],
+    "smrthi": [
+      279
+    ],
+    "smugmug": [
+      280
+    ],
+    "explore": [
+      281
+    ],
+    "socialexplorer": [
+      281
+    ],
+    "edit": [
+      281
+    ],
+    "sooplive": [
+      282
+    ],
+    "soundcloud": [
+      283
+    ],
+    "on": [
+      283
+    ],
+    "goog": [
+      283
+    ],
+    "speakerdeck": [
+      284
+    ],
+    "open": [
+      285
+    ],
+    "spotify": [
+      285
+    ],
+    "spotlightr": [
+      286
+    ],
+    "publish": [
+      286,
+      323,
       357
     ],
+    "getOEmbed": [
+      286
+    ],
+    "spreaker": [
+      287
+    ],
+    "sproutvideo": [
+      288
+    ],
+    "vids": [
+      288
+    ],
+    "spyke": [
+      289
+    ],
+    "u": [
+      289
+    ],
+    "g": [
+      289
+    ],
+    "c": [
+      289
+    ],
+    "purl": [
+      290
+    ],
+    "streamable": [
+      291
+    ],
+    "s3m": [
+      292
+    ],
+    "23m": [
+      292
+    ],
+    "streamio": [
+      292
+    ],
+    "markers": [
+      293
+    ],
+    "streetartcities": [
+      293
+    ],
+    "sudomemo": [
+      294
+    ],
+    "archive": [
+      294
+    ],
+    "flipnot": [
+      294
+    ],
+    "supercut": [
+      295
+    ],
+    "sutori": [
+      296
+    ],
+    "sway": [
+      297
+    ],
+    "office": [
+      298
+    ],
+    "synthcamp": [
+      299
+    ],
+    "synthesia": [
+      300
+    ],
+    "69jr5v75rc": [
+      300
+    ],
+    "headline": [
+      301
+    ],
+    "techpostcast": [
+      301
+    ],
+    "talks": [
+      302
+    ],
+    "ted": [
+      302
+    ],
+    "tella": [
+      303
+    ],
+    "tenet": [
+      304
+    ],
+    "textexpander": [
+      304
+    ],
+    "hubspot": [
+      305
+    ],
+    "svc": [
+      306
+    ],
+    "nytimes": [
+      306
+    ],
+    "theysaidso": [
+      307
+    ],
+    "extensions": [
+      307
+    ],
+    "widget": [
+      308
+    ],
+    "countdown": [
+      308
+    ],
+    "countup": [
+      308
+    ],
+    "ticker": [
+      308
+    ],
+    "clock": [
+      308
+    ],
+    "worldclock": [
+      308
+    ],
+    "tickcounter": [
+      308
+    ],
+    "full": [
+      308
+    ],
+    "tiktok": [
+      309
+    ],
+    "tksn": [
+      310
+    ],
+    "episode": [
+      311
+    ],
+    "tlexdr": [
+      311
+    ],
+    "take": [
+      312
+    ],
+    "tonicaudio": [
+      312
+    ],
+    "tnic": [
+      312
+    ],
+    "information": [
+      313
+    ],
+    "registration": [
+      313
+    ],
+    "matches": [
+      313
+    ],
+    "stages": [
+      313
+    ],
+    "toornament": [
+      313
+    ],
+    "topy": [
+      314
+    ],
+    "test": [
+      315
+    ],
+    "totango": [
+      315
+    ],
+    "trackspace": [
+      316
+    ],
+    "trinitymedia": [
+      317
+    ],
+    "trinityaudio": [
+      317
+    ],
+    "trycli": [
+      318
+    ],
+    "tumblr": [
+      319
+    ],
+    "tuxx": [
+      320
+    ],
+    "tvcf": [
+      321
+    ],
+    "rest": [
+      321
+    ],
+    "presentation": [
+      322
+    ],
+    "panorama": [
+      322
+    ],
+    "twinmotion": [
+      322
+    ],
+    "twitter": [
+      323
+    ],
+    "status": [
+      323,
+      357
+    ],
+    "typecast": [
+      324
+    ],
+    "typlog": [
+      325
+    ],
+    "uapod": [
+      326
+    ],
+    "cam": [
+      327
+    ],
+    "mediatheque": [
+      328
+    ],
+    "pec": [
+      329
+    ],
+    "ustream": [
+      330
+    ],
     "ustudio": [
-      358
-    ],
-    "veer": [
-      359,
-      360
-    ],
-    "veervr": [
-      360
+      331
     ],
     "vevo": [
-      361
+      332
     ],
     "videfit": [
-      362
+      333
+    ],
+    "vidlink": [
+      334
     ],
     "vidmount": [
-      363
+      335
     ],
     "vidyard": [
-      364
+      336
     ],
     "hubs": [
-      364
+      336
     ],
     "vimeo": [
-      365
+      337
     ],
     "groups": [
-      365
+      337
     ],
     "ondemand": [
-      365
+      337
+    ],
+    "event": [
+      337
     ],
     "viostream": [
-      366
+      338
     ],
     "viously": [
-      367
+      339
     ],
     "vizdom": [
-      368
-    ],
-    "vizydrop": [
-      369
+      340
     ],
     "vlipsy": [
-      370
+      341
     ],
     "vlive": [
-      371
+      342
     ],
     "vouchfor": [
-      372
+      343
     ],
     "voxsnap": [
-      373
+      344
     ],
     "product": [
-      374
+      345
     ],
     "waltrack": [
-      374
+      345
     ],
     "wave": [
-      375
+      346
     ],
     "web3isgoinggreat": [
-      376
+      347
     ],
     "single": [
-      376
-    ],
-    "plugins": [
-      377
-    ],
-    "webcrumbs": [
-      377
+      347
     ],
     "wecandeo": [
-      378
+      348
     ],
     "voice": [
-      379
+      349
     ],
     "wewtalk": [
-      379
+      349
     ],
     "whimsical": [
-      380
+      350
     ],
     "fast": [
-      381
+      351
     ],
     "medias": [
-      381
+      351
     ],
     "wistia": [
-      381
+      351
     ],
     "learn": [
-      382
+      352
     ],
     "wizer": [
-      382
+      352
     ],
     "wokwi": [
-      383
+      353
     ],
     "wolframcloud": [
-      384
+      354
     ],
     "wordpress": [
-      385
+      355
     ],
     "public": [
-      385
+      355
+    ],
+    "predictions": [
+      356
+    ],
+    "worldeventtrading": [
+      356
     ],
     "x": [
-      386
+      357
     ],
     "youtube": [
-      387
+      358
     ],
     "youtu": [
-      387
+      358
     ],
     "list": [
-      387
+      358
     ],
     "shorts": [
-      387
+      358
     ],
     "document": [
-      388
+      359
     ],
     "yumpu": [
-      388
+      359
     ],
     "screen": [
-      389
+      360
     ],
     "version": [
-      389
+      360
     ],
     "styleguide": [
-      389
+      360
     ],
     "zeplin": [
-      389
+      360
     ],
     "zingsoft": [
-      390
+      361
     ],
     "znipe": [
-      391
+      362
     ],
     "srv2": [
-      392
+      363
     ],
     "zoomable": [
-      392
+      363
     ]
   }
 }
