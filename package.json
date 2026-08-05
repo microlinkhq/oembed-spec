@@ -1,6 +1,6 @@
 {
   "name": "oembed-spec",
-  "description": "A parser for oEmbed specification",
+  "description": "Parser and helpers for the oEmbed specification — validate and normalize provider responses.",
   "homepage": "https://github.com/microlinkhq/oembed-spec",
   "version": "1.4.11",
   "types": "src/index.d.ts",
@@ -36,9 +36,16 @@
     "url": "https://github.com/microlinkhq/oembed-spec/issues"
   },
   "keywords": [
+    "embed",
+    "json",
+    "media",
+    "normalize",
     "oembed",
     "parser",
-    "spec"
+    "provider",
+    "spec",
+    "validate",
+    "xml"
   ],
   "dependencies": {
     "got": "~11.8.6",
