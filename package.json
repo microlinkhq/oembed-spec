@@ -2,7 +2,7 @@
   "name": "oembed-spec",
   "description": "Parser and helpers for the oEmbed specification — validate and normalize provider responses.",
   "homepage": "https://github.com/microlinkhq/oembed-spec",
-  "version": "1.4.11",
+  "version": "1.4.12",
   "types": "src/index.d.ts",
   "main": "src/index.js",
   "author": {
