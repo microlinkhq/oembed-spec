@@ -48,7 +48,7 @@
     "xml"
   ],
   "dependencies": {
-    "got": "~11.8.6",
+    "got": "~16.0.0",
     "tldts": "~7.4.0"
   },
   "devDependencies": {
