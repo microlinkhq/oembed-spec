@@ -35,3 +35,4 @@ coverage
 .env
 .envrc
 install.log
+pnpm-lock.yaml

@@ -7,6 +7,9 @@ on:
     # https://crontab.guru/every-monday
     - cron: '0 0 * * MON'
 
+env:
+  pnpm_config_dangerously_allow_all_builds: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
