@@ -48,7 +48,7 @@
     "xml"
   ],
   "dependencies": {
-    "got": "~11.8.6",
+    "@kikobeats/got": "~11.8.8",
     "tldts": "~7.4.0"
   },
   "devDependencies": {
