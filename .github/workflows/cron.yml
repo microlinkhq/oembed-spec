@@ -7,6 +7,9 @@ on:
     # https://crontab.guru/every-monday
     - cron: '0 0 * * MON'
 
+env:
+  pnpm_config_dangerously_allow_all_builds: true
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -24,7 +27,7 @@ jobs:
         with:
           version: latest
       - name: Install
-        run: pnpm install --dangerously-allow-all-builds
+        run: pnpm install
       - name: Update
         run: |
           git config --global user.email ${{ secrets.GIT_EMAIL }}

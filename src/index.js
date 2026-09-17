@@ -1,7 +1,7 @@
 'use strict'
 
 const { URL } = require('url')
-const got = require('got')
+const got = require('@kikobeats/got')
 
 const findProvider = require('./find-provider')
 

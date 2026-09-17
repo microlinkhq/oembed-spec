@@ -4,7 +4,7 @@ const PROVIDERS_URL = 'https://oembed.com/providers.json'
 
 const { writeFile } = require('fs/promises')
 const path = require('path')
-const got = require('got')
+const got = require('@kikobeats/got')
 
 const normalizeProviders = require('./normalize')
 const tokenize = require('../src/tokenize')
