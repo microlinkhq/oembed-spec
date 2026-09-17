@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 1.4.19 (2026-09-17)
+
+
+### Bug Fixes
+
+* use @kikobeats/got to support Node.js 24.20 ([#52](https://github.com/microlinkhq/oembed-spec/issues/52)) ([f6bb31a](https://github.com/microlinkhq/oembed-spec/commit/f6bb31a0f8d0b858774c97f1dadbfafbc5b7dabc)), closes [nodejs/node#64847](https://github.com/nodejs/node/issues/64847)
+
 ### 1.4.18 (2026-09-14)
 
 ### 1.4.17 (2026-09-08)
