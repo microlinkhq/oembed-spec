@@ -6257,6 +6257,23 @@
     {
       "schemes": [
         [
+          "https://tuvelia.com/embed/",
+          ""
+        ],
+        [
+          "https://www.tuvelia.com/embed/",
+          ""
+        ]
+      ],
+      "name": "Tuvelia",
+      "url": "https://tuvelia.com/",
+      "domainWithoutSuffixOfUrl": "tuvelia",
+      "oembedUrl": "https://tuvelia.com/oembed",
+      "domainWithoutSuffixOfOembedUrl": "tuvelia"
+    },
+    {
+      "schemes": [
+        [
           "https://www.tuxx.be/",
           ""
         ]
@@ -7418,7 +7435,7 @@
     ],
     "channels": [
       21,
-      357
+      358
     ],
     "channel": [
       21
@@ -7462,7 +7479,7 @@
     "album": [
       23,
       220,
-      357
+      358
     ],
     "audiomeans": [
       24
@@ -8513,7 +8530,7 @@
     ],
     "article": [
       211,
-      366
+      367
     ],
     "concept": [
       211
@@ -8577,7 +8594,7 @@
     ],
     "tracks": [
       222,
-      373
+      374
     ],
     "official": [
       222
@@ -8637,7 +8654,7 @@
     "dashboard": [
       232,
       249,
-      356
+      357
     ],
     "pandavideo": [
       232
@@ -8701,7 +8718,7 @@
     ],
     "poll": [
       244,
-      343
+      344
     ],
     "ratings": [
       244
@@ -8766,7 +8783,7 @@
     ],
     "wp": [
       257,
-      379
+      380
     ],
     "wexcreator": [
       258
@@ -8905,7 +8922,7 @@
     ],
     "preview": [
       286,
-      376
+      377
     ],
     "graphql": [
       286
@@ -8987,8 +9004,8 @@
     ],
     "publish": [
       300,
-      339,
-      382
+      340,
+      383
     ],
     "getOEmbed": [
       300
@@ -9197,238 +9214,241 @@
     "tumblr": [
       335
     ],
-    "tuxx": [
+    "tuvelia": [
       336
     ],
-    "tvcf": [
+    "tuxx": [
       337
+    ],
+    "tvcf": [
+      338
     ],
     "rest": [
-      337
+      338
     ],
     "presentation": [
-      338
-    ],
-    "panorama": [
-      338
-    ],
-    "twinmotion": [
-      338
-    ],
-    "twitter": [
       339
     ],
-    "status": [
-      339,
-      382
+    "panorama": [
+      339
     ],
-    "typecast": [
+    "twinmotion": [
+      339
+    ],
+    "twitter": [
       340
     ],
-    "typecel": [
+    "status": [
+      340,
+      383
+    ],
+    "typecast": [
       341
     ],
-    "typlog": [
+    "typecel": [
       342
     ],
-    "uapod": [
-      344
+    "typlog": [
+      343
     ],
-    "cam": [
+    "uapod": [
       345
     ],
-    "mediatheque": [
+    "cam": [
       346
     ],
-    "pec": [
+    "mediatheque": [
       347
     ],
-    "ustream": [
+    "pec": [
       348
     ],
-    "ustudio": [
+    "ustream": [
       349
     ],
-    "vectree": [
+    "ustudio": [
       350
     ],
-    "vevo": [
+    "vectree": [
       351
     ],
-    "videfit": [
+    "vevo": [
       352
     ],
-    "videobot": [
+    "videfit": [
       353
     ],
-    "vidlink": [
+    "videobot": [
       354
     ],
-    "vidmount": [
+    "vidlink": [
       355
     ],
-    "vidyard": [
+    "vidmount": [
       356
+    ],
+    "vidyard": [
+      357
     ],
     "hubs": [
-      356
+      357
     ],
     "vimeo": [
-      357
-    ],
-    "groups": [
-      357
-    ],
-    "ondemand": [
-      357
-    ],
-    "event": [
-      357
-    ],
-    "viostream": [
       358
     ],
-    "viously": [
+    "groups": [
+      358
+    ],
+    "ondemand": [
+      358
+    ],
+    "event": [
+      358
+    ],
+    "viostream": [
       359
     ],
-    "vizdom": [
+    "viously": [
       360
     ],
+    "vizdom": [
+      361
+    ],
     "vizzlo": [
-      361,
-      362
-    ],
-    "eu": [
-      362
-    ],
-    "vlipsy": [
+      362,
       363
     ],
-    "vlive": [
+    "eu": [
+      363
+    ],
+    "vlipsy": [
       364
     ],
-    "vouchfor": [
+    "vlive": [
       365
     ],
-    "voxsnap": [
+    "vouchfor": [
       366
     ],
-    "watchpeoplefight": [
+    "voxsnap": [
       367
     ],
-    "wave": [
+    "watchpeoplefight": [
       368
     ],
+    "wave": [
+      369
+    ],
     "web3isgoinggreat": [
-      369
-    ],
-    "single": [
-      369
-    ],
-    "wecandeo": [
       370
     ],
+    "single": [
+      370
+    ],
+    "wecandeo": [
+      371
+    ],
     "voice": [
-      371
-    ],
-    "wewtalk": [
-      371
-    ],
-    "whimsical": [
       372
     ],
+    "wewtalk": [
+      372
+    ],
+    "whimsical": [
+      373
+    ],
     "collections": [
-      373
-    ],
-    "whyp": [
-      373
-    ],
-    "wikitolica": [
       374
     ],
-    "fast": [
+    "whyp": [
+      374
+    ],
+    "wikitolica": [
       375
+    ],
+    "fast": [
+      376
     ],
     "medias": [
-      375
+      376
     ],
     "wistia": [
-      375
+      376
     ],
     "learn": [
-      376
-    ],
-    "wizer": [
-      376
-    ],
-    "wokwi": [
       377
     ],
-    "wolframcloud": [
+    "wizer": [
+      377
+    ],
+    "wokwi": [
       378
     ],
-    "wordpress": [
+    "wolframcloud": [
       379
     ],
+    "wordpress": [
+      380
+    ],
     "predictions": [
-      380
-    ],
-    "worldeventtrading": [
-      380
-    ],
-    "wppaste": [
       381
     ],
-    "x": [
+    "worldeventtrading": [
+      381
+    ],
+    "wppaste": [
       382
     ],
-    "ranking": [
+    "x": [
       383
+    ],
+    "ranking": [
+      384
     ],
     "youpick": [
-      383
+      384
     ],
     "youtube": [
-      384
+      385
     ],
     "youtu": [
-      384
+      385
     ],
     "list": [
-      384
+      385
     ],
     "shorts": [
-      384
+      385
     ],
     "document": [
-      385
+      386
     ],
     "yumpu": [
-      385
+      386
     ],
     "screen": [
-      386
-    ],
-    "version": [
-      386
-    ],
-    "styleguide": [
-      386
-    ],
-    "zeplin": [
-      386
-    ],
-    "zingsoft": [
       387
     ],
-    "znipe": [
+    "version": [
+      387
+    ],
+    "styleguide": [
+      387
+    ],
+    "zeplin": [
+      387
+    ],
+    "zingsoft": [
       388
     ],
-    "srv2": [
+    "znipe": [
       389
     ],
+    "srv2": [
+      390
+    ],
     "zoomable": [
-      389
+      390
     ]
   }
 }
