@@ -72,6 +72,11 @@
         [
           "https://play.acast.com/s/",
           ""
+        ],
+        [
+          "https://shows.acast.com/",
+          "/episodes/",
+          ""
         ]
       ],
       "name": "Acast",
@@ -1691,6 +1696,19 @@
       "domainWithoutSuffixOfUrl": "catholique",
       "oembedUrl": "http://egliseinfo.catholique.fr/api/oembed",
       "domainWithoutSuffixOfOembedUrl": "catholique"
+    },
+    {
+      "schemes": [
+        [
+          "https://electiontracker.eu/",
+          ""
+        ]
+      ],
+      "name": "Election Tracker",
+      "url": "https://electiontracker.eu",
+      "domainWithoutSuffixOfUrl": "electiontracker",
+      "oembedUrl": "https://electiontracker.eu/oembed",
+      "domainWithoutSuffixOfOembedUrl": "electiontracker"
     },
     {
       "schemes": [
@@ -3559,6 +3577,19 @@
       "domainWithoutSuffixOfUrl": "zhdk",
       "oembedUrl": "https://medienarchiv.zhdk.ch/oembed.{format}",
       "domainWithoutSuffixOfOembedUrl": "zhdk"
+    },
+    {
+      "schemes": [
+        [
+          "https://memestack.ai/gallery/",
+          ""
+        ]
+      ],
+      "name": "MemeStack",
+      "url": "https://memestack.ai/",
+      "domainWithoutSuffixOfUrl": "memestack",
+      "oembedUrl": "https://api.memestack.ai/v1/oembed",
+      "domainWithoutSuffixOfOembedUrl": "memestack"
     },
     {
       "schemes": [
@@ -7298,7 +7329,7 @@
   ],
   "index": {
     "2": [
-      293
+      295
     ],
     "23": [
       1
@@ -7324,6 +7355,9 @@
     "acast": [
       4
     ],
+    "shows": [
+      4
+    ],
     "donate": [
       5
     ],
@@ -7338,26 +7372,26 @@
     ],
     "vod": [
       7,
-      298
+      300
     ],
     "afree": [
       7,
-      298
+      300
     ],
     "st": [
       7,
-      298
+      300
     ],
     "station": [
       7,
-      298
+      300
     ],
     "afreecatv": [
       7
     ],
     "openapi": [
       7,
-      298
+      300
     ],
     "altium": [
       8
@@ -7385,7 +7419,7 @@
     ],
     "animatron": [
       12,
-      257
+      259
     ],
     "animoto": [
       13
@@ -7440,7 +7474,7 @@
     ],
     "chart": [
       19,
-      251
+      253
     ],
     "curves": [
       19
@@ -7468,7 +7502,7 @@
     ],
     "channels": [
       21,
-      360
+      362
     ],
     "channel": [
       21
@@ -7484,11 +7518,10 @@
     ],
     "posts": [
       21,
-      103
+      104
     ],
     "episodes": [
-      21,
-      177
+      21
     ],
     "audioboom": [
       21
@@ -7498,7 +7531,7 @@
     ],
     "clips": [
       22,
-      129
+      130
     ],
     "audiobooks": [
       22
@@ -7511,8 +7544,8 @@
     ],
     "album": [
       23,
-      222,
-      360
+      224,
+      362
     ],
     "audiomeans": [
       24
@@ -7537,7 +7570,7 @@
     ],
     "beta": [
       31,
-      215
+      217
     ],
     "biqapp": [
       32
@@ -7574,7 +7607,7 @@
     ],
     "lasync": [
       38,
-      291
+      293
     ],
     "boxofficebuz": [
       39
@@ -7632,7 +7665,7 @@
     ],
     "design": [
       47,
-      108
+      109
     ],
     "canva": [
       47
@@ -7657,7 +7690,7 @@
     ],
     "embeds": [
       53,
-      208
+      210
     ],
     "celero": [
       53
@@ -7676,7 +7709,7 @@
     ],
     "story": [
       57,
-      114
+      115
     ],
     "chroco": [
       57
@@ -7839,7 +7872,7 @@
     ],
     "service": [
       85,
-      227
+      229
     ],
     "documents": [
       86
@@ -7869,1625 +7902,1625 @@
     "egliseinfo": [
       93
     ],
-    "elevenlabs": [
+    "electiontracker": [
       94
+    ],
+    "elevenlabs": [
+      95
     ],
     "next": [
-      94
+      95
     ],
     "elus": [
-      95
-    ],
-    "scrutins": [
-      95
-    ],
-    "elupedia": [
-      95
-    ],
-    "embases": [
       96
     ],
-    "embedery": [
+    "scrutins": [
+      96
+    ],
+    "elupedia": [
+      96
+    ],
+    "embases": [
       97
     ],
-    "ethfiddle": [
+    "embedery": [
       98
     ],
+    "ethfiddle": [
+      99
+    ],
     "evt": [
-      99
-    ],
-    "eventlive": [
-      99
-    ],
-    "everviz": [
       100
     ],
-    "everwall": [
+    "eventlive": [
+      100
+    ],
+    "everviz": [
       101
     ],
-    "everypage": [
+    "everwall": [
       102
     ],
-    "activity": [
+    "everypage": [
       103
+    ],
+    "activity": [
+      104
     ],
     "photos": [
-      103,
-      113
+      104,
+      114
     ],
     "fbid": [
-      103
+      104
     ],
     "permalink": [
-      103
+      104
     ],
     "set": [
-      103,
-      139
+      104,
+      140
     ],
     "questions": [
-      103
+      104
     ],
     "notes": [
-      103
+      104
     ],
     "facebook": [
-      103,
       104,
-      105
+      105,
+      106
     ],
     "oembed_post": [
-      103
+      104
     ],
     "videos": [
-      104
-    ],
-    "php": [
-      104
-    ],
-    "oembed_video": [
-      104
-    ],
-    "oembed_page": [
       105
     ],
+    "php": [
+      105
+    ],
+    "oembed_video": [
+      105
+    ],
+    "oembed_page": [
+      106
+    ],
     "items": [
-      106
-    ],
-    "resource": [
-      106
-    ],
-    "faithlifetv": [
-      106
-    ],
-    "assets": [
-      106
-    ],
-    "haus": [
       107
     ],
-    "figma": [
+    "resource": [
+      107
+    ],
+    "faithlifetv": [
+      107
+    ],
+    "assets": [
+      107
+    ],
+    "haus": [
       108
+    ],
+    "figma": [
+      109
     ],
     "board": [
-      108,
-      200
-    ],
-    "slides": [
-      108,
-      133
-    ],
-    "buzz": [
-      108
-    ],
-    "site": [
-      108
-    ],
-    "make": [
-      108
-    ],
-    "step": [
-      109
-    ],
-    "filestage": [
-      109
-    ],
-    "fireworktv": [
-      110
-    ],
-    "fite": [
-      111
-    ],
-    "score": [
-      112
-    ],
-    "flat": [
-      112
-    ],
-    "flic": [
-      113
-    ],
-    "flickr": [
-      113
-    ],
-    "visualisation": [
-      114
-    ],
-    "flourish": [
-      114
-    ],
-    "flowhub": [
-      115
-    ],
-    "flows": [
-      115
-    ],
-    "o": [
-      115
-    ],
-    "reviews": [
-      116
-    ],
-    "spots": [
-      116
-    ],
-    "fooday": [
-      116
-    ],
-    "forms": [
-      117
-    ],
-    "form": [
-      117
-    ],
-    "isomorphic": [
-      118
-    ],
-    "foxsports": [
-      118
-    ],
-    "fiso": [
-      118
-    ],
-    "framatube": [
-      119
-    ],
-    "framebuzz": [
-      120
-    ],
-    "framer": [
-      121
-    ],
-    "framerate": [
-      122
-    ],
-    "track": [
-      123
-    ],
-    "frequencing": [
-      123
-    ],
-    "user": [
-      123,
-      199
-    ],
-    "fritube": [
-      124
-    ],
-    "geometryviewer": [
-      125
-    ],
-    "gty": [
-      126
-    ],
-    "gettyimages": [
-      126
-    ],
-    "gifnote": [
-      127
-    ],
-    "gigngo": [
-      128
-    ],
-    "gifs": [
-      129
-    ],
-    "gph": [
-      129
-    ],
-    "gif": [
-      129
-    ],
-    "giphy": [
-      129
-    ],
-    "gloria": [
-      130
-    ],
-    "gmetri": [
-      131
-    ],
-    "call": [
-      132
-    ],
-    "gong": [
-      132
-    ],
-    "good": [
-      133
-    ],
-    "highlight": [
-      134
-    ],
-    "grain": [
-      134
-    ],
-    "_": [
-      134
-    ],
-    "gumlet": [
-      135
-    ],
-    "gw2fashions": [
-      136
-    ],
-    "gyazo": [
-      137
-    ],
-    "hash": [
-      138
-    ],
-    "hearthis": [
-      139
-    ],
-    "flip": [
-      140
-    ],
-    "hflip": [
-      140
-    ],
-    "aflip": [
-      140
-    ],
-    "heyzine": [
-      140
-    ],
-    "api1": [
-      140
-    ],
-    "hihaho": [
-      141
-    ],
-    "hippovideo": [
-      142
-    ],
-    "hivo": [
-      143
-    ],
-    "digital": [
-      143
-    ],
-    "southerndesigngroup": [
-      143
-    ],
-    "freedom": [
-      143
-    ],
-    "cockburn": [
-      143
-    ],
-    "somnomed": [
-      143
-    ],
-    "snowtunnel": [
-      143
-    ],
-    "brenclosures": [
-      143
-    ],
-    "drupal": [
-      143
-    ],
-    "homey": [
-      144
-    ],
-    "flow": [
-      144
-    ],
-    "huffduffer": [
-      145
-    ],
-    "hulu": [
-      146
-    ],
-    "icosa": [
-      147
-    ],
-    "ideamapper": [
-      148
-    ],
-    "idomoo": [
-      149
-    ],
-    "guide": [
-      150
-    ],
-    "iFixit": [
-      150
-    ],
-    "Embed": [
-      150
-    ],
-    "recipes": [
-      151
-    ],
-    "ifttt": [
-      151
-    ],
-    "videocdn": [
-      152
-    ],
-    "euvideocdn": [
-      152
-    ],
-    "ignite": [
-      152
-    ],
-    "ignitevideo": [
-      152
-    ],
-    "iheart": [
-      153
-    ],
-    "qr": [
-      154
-    ],
-    "imenupro": [
-      154
-    ],
-    "jwp": [
-      155
-    ],
-    "indacolive": [
-      155
-    ],
-    "infogram": [
-      156
-    ],
-    "infoveave": [
-      157
-    ],
-    "exercises": [
-      158
-    ],
-    "injurymap": [
-      158
-    ],
-    "inoreader": [
-      159
-    ],
-    "inphood": [
-      160
-    ],
-    "insighttimer": [
-      161
-    ],
-    "widgets": [
-      161,
-      230
-    ],
-    "instagram": [
-      162
-    ],
-    "instagr": [
-      162
-    ],
-    "reel": [
-      162
-    ],
-    "instagram_oembed": [
-      162
-    ],
-    "ppa": [
-      163
-    ],
-    "insticator": [
-      163
-    ],
-    "docs": [
-      164
-    ],
-    "issuu": [
-      164
-    ],
-    "samay": [
-      165
-    ],
-    "case": [
-      166
-    ],
-    "jawafdehi": [
-      166
-    ],
-    "ml": [
-      167
-    ],
-    "jovian": [
-      167
-    ],
-    "viewer": [
-      167
-    ],
-    "solo": [
-      168
-    ],
-    "juntos": [
-      168
-    ],
-    "workouts": [
-      169
-    ],
-    "justspin": [
-      169
-    ],
-    "keystonepractice": [
-      170
-    ],
-    "projects": [
-      171
-    ],
-    "kickstarter": [
-      171
-    ],
-    "halaman": [
-      172
-    ],
-    "aplikasi": [
-      172
-    ],
-    "kirim": [
-      172
-    ],
-    "recipe": [
-      173
-    ],
-    "kitchenbowl": [
-      173
-    ],
-    "knowledgepad": [
-      174
-    ],
-    "spoonacular": [
-      174
-    ],
-    "recordings": [
-      175
-    ],
-    "guides": [
-      175
-    ],
-    "kommodo": [
-      175
-    ],
-    "kubit": [
-      176
-    ],
-    "songs": [
-      177,
-      263
-    ],
-    "kurozora": [
-      177
-    ],
-    "landofassets": [
-      178
-    ],
-    "impact": [
-      179
-    ],
-    "im": [
-      179
-    ],
-    "laude": [
-      179
-    ],
-    "learningapps": [
-      180
-    ],
-    "lille": [
-      181
-    ],
-    "businesses": [
-      182
-    ],
-    "line": [
-      182
-    ],
-    "irf": [
-      183
-    ],
-    "linkstackz": [
-      183
-    ],
-    "livecodes": [
-      184
-    ],
-    "livid": [
-      185
-    ],
-    "loom": [
-      186
-    ],
-    "lottiefiles": [
-      187
-    ],
-    "lottie": [
-      187
-    ],
-    "ludus": [
-      188
-    ],
-    "lumiere": [
-      189
-    ],
-    "latd": [
-      189
-    ],
-    "admin": [
-      189
-    ],
-    "marbellawire": [
-      190
-    ],
-    "marimo": [
-      191
-    ],
-    "latex": [
-      192
-    ],
-    "mathembed": [
-      192
-    ],
-    "matterport": [
-      193
-    ],
-    "my": [
-      193
-    ],
-    "i": [
-      194,
-      219
-    ],
-    "me": [
-      194
-    ],
-    "mdstrm": [
-      195
-    ],
-    "stream": [
-      195
-    ],
-    "image": [
-      195,
-      213
-    ],
-    "entries": [
-      196
-    ],
-    "medienarchiv": [
-      196
-    ],
-    "mermaid": [
-      197
-    ],
-    "svg": [
-      197
-    ],
-    "microsoftstream": [
-      198
-    ],
-    "microsoft": [
-      198
-    ],
-    "mirame360": [
-      199
-    ],
-    "tour": [
-      199
-    ],
-    "url": [
-      199
-    ],
-    "miro": [
-      200,
-      201
-    ],
-    "mixcloud": [
+      109,
       202
     ],
-    "mixpanel": [
-      203
+    "slides": [
+      109,
+      134
     ],
-    "mobypicture": [
-      204
+    "buzz": [
+      109
     ],
-    "moby": [
-      204
+    "site": [
+      109
     ],
-    "oEmbed": [
-      204,
-      212
+    "make": [
+      109
     ],
-    "melody": [
-      205
+    "step": [
+      110
     ],
-    "musicboxmaniacs": [
-      205
+    "filestage": [
+      110
     ],
-    "mybeweeg": [
-      206
+    "fireworktv": [
+      111
     ],
-    "explain": [
-      207
+    "fite": [
+      112
     ],
-    "mysqlexplain": [
-      207
+    "score": [
+      113
     ],
-    "namchey": [
-      208
+    "flat": [
+      113
     ],
-    "nanoo": [
-      209
+    "flic": [
+      114
     ],
-    "pro": [
-      209
+    "flickr": [
+      114
     ],
-    "signatur": [
-      209
+    "visualisation": [
+      115
     ],
-    "new": [
-      209
+    "flourish": [
+      115
     ],
-    "nb": [
-      210
+    "flowhub": [
+      116
     ],
-    "catalog": [
-      210
+    "flows": [
+      116
     ],
-    "naturalatlas": [
-      211
+    "o": [
+      116
     ],
-    "naver": [
-      212
+    "reviews": [
+      117
     ],
-    "m": [
-      212,
-      320
+    "spots": [
+      117
     ],
-    "ndla": [
-      213
+    "fooday": [
+      117
     ],
-    "article": [
-      213,
-      369
+    "forms": [
+      118
     ],
-    "concept": [
-      213
+    "form": [
+      118
     ],
-    "nebula": [
-      214
+    "isomorphic": [
+      119
     ],
-    "needle": [
-      216
+    "foxsports": [
+      119
     ],
-    "run": [
-      216
+    "fiso": [
+      119
     ],
-    "neetorecord": [
-      217
+    "framatube": [
+      120
     ],
-    "film": [
-      218
+    "framebuzz": [
+      121
     ],
-    "nfb": [
-      218
+    "framer": [
+      122
     ],
-    "remote": [
-      218
+    "framerate": [
+      123
     ],
-    "brand": [
-      219
+    "track": [
+      124
     ],
-    "nouncify": [
-      219
+    "frequencing": [
+      124
     ],
-    "sandbox": [
-      219
+    "user": [
+      124,
+      201
     ],
-    "observablehq": [
-      220
+    "fritube": [
+      125
     ],
-    "odds": [
-      221
+    "geometryviewer": [
+      126
     ],
-    "song": [
-      222
+    "gty": [
+      127
     ],
-    "artist": [
-      222
+    "gettyimages": [
+      127
     ],
-    "playlist": [
-      222
+    "gifnote": [
+      128
     ],
-    "pods": [
-      222
+    "gigngo": [
+      129
     ],
-    "mylink": [
-      222
+    "gifs": [
+      130
     ],
-    "odesli": [
-      222
+    "gph": [
+      130
     ],
-    "odysee": [
-      223
+    "gif": [
+      130
     ],
-    "tracks": [
-      224,
-      376
+    "giphy": [
+      130
     ],
-    "official": [
-      224
+    "gloria": [
+      131
     ],
-    "omniscope": [
-      225
+    "gmetri": [
+      132
     ],
-    "_global_": [
-      225
+    "call": [
+      133
     ],
-    "shows": [
-      226
+    "gong": [
+      133
     ],
-    "omnystudio": [
-      226
+    "good": [
+      134
     ],
-    "omny": [
-      226
+    "highlight": [
+      135
     ],
-    "ov3601": [
-      227
+    "grain": [
+      135
     ],
-    "ov3602": [
-      227
+    "_": [
+      135
     ],
-    "orbittour": [
-      227
+    "gumlet": [
+      136
     ],
-    "orbitvu": [
-      227
+    "gw2fashions": [
+      137
     ],
-    "origits": [
-      228,
-      229
+    "gyazo": [
+      138
     ],
-    "frame": [
-      230
+    "hash": [
+      139
     ],
-    "orizn": [
-      230
+    "hearthis": [
+      140
     ],
-    "outplayed": [
-      231
+    "flip": [
+      141
     ],
-    "overflow": [
+    "hflip": [
+      141
+    ],
+    "aflip": [
+      141
+    ],
+    "heyzine": [
+      141
+    ],
+    "api1": [
+      141
+    ],
+    "hihaho": [
+      142
+    ],
+    "hippovideo": [
+      143
+    ],
+    "hivo": [
+      144
+    ],
+    "digital": [
+      144
+    ],
+    "southerndesigngroup": [
+      144
+    ],
+    "freedom": [
+      144
+    ],
+    "cockburn": [
+      144
+    ],
+    "somnomed": [
+      144
+    ],
+    "snowtunnel": [
+      144
+    ],
+    "brenclosures": [
+      144
+    ],
+    "drupal": [
+      144
+    ],
+    "homey": [
+      145
+    ],
+    "flow": [
+      145
+    ],
+    "huffduffer": [
+      146
+    ],
+    "hulu": [
+      147
+    ],
+    "icosa": [
+      148
+    ],
+    "ideamapper": [
+      149
+    ],
+    "idomoo": [
+      150
+    ],
+    "guide": [
+      151
+    ],
+    "iFixit": [
+      151
+    ],
+    "Embed": [
+      151
+    ],
+    "recipes": [
+      152
+    ],
+    "ifttt": [
+      152
+    ],
+    "videocdn": [
+      153
+    ],
+    "euvideocdn": [
+      153
+    ],
+    "ignite": [
+      153
+    ],
+    "ignitevideo": [
+      153
+    ],
+    "iheart": [
+      154
+    ],
+    "qr": [
+      155
+    ],
+    "imenupro": [
+      155
+    ],
+    "jwp": [
+      156
+    ],
+    "indacolive": [
+      156
+    ],
+    "infogram": [
+      157
+    ],
+    "infoveave": [
+      158
+    ],
+    "exercises": [
+      159
+    ],
+    "injurymap": [
+      159
+    ],
+    "inoreader": [
+      160
+    ],
+    "inphood": [
+      161
+    ],
+    "insighttimer": [
+      162
+    ],
+    "widgets": [
+      162,
       232
     ],
-    "padlet": [
-      233
+    "instagram": [
+      163
     ],
-    "br": [
-      234
+    "instagr": [
+      163
     ],
-    "m3u8": [
-      234
+    "reel": [
+      163
     ],
-    "dashboard": [
-      234,
-      251,
-      359
+    "instagram_oembed": [
+      163
     ],
-    "pandavideo": [
-      234
+    "ppa": [
+      164
     ],
-    "parler": [
-      235
+    "insticator": [
+      164
     ],
-    "b": [
-      235
+    "docs": [
+      165
     ],
-    "parta": [
-      236
+    "issuu": [
+      165
     ],
-    "pastery": [
-      237
+    "samay": [
+      166
     ],
-    "peertube": [
-      238
+    "case": [
+      167
     ],
-    "pinpoll": [
-      239
+    "jawafdehi": [
+      167
     ],
-    "products": [
-      239
+    "ml": [
+      168
     ],
-    "pinterest": [
-      240
+    "jovian": [
+      168
     ],
-    "pitchhub": [
-      241
+    "viewer": [
+      168
     ],
-    "marker": [
-      242
+    "solo": [
+      169
     ],
-    "show": [
-      242
+    "juntos": [
+      169
     ],
-    "pixdor": [
-      242
+    "workouts": [
+      170
     ],
-    "store": [
-      242
+    "justspin": [
+      170
     ],
-    "plinth": [
-      243
+    "keystonepractice": [
+      171
     ],
-    "snapshots": [
-      244
+    "projects": [
+      172
     ],
-    "pages": [
-      244
+    "kickstarter": [
+      172
     ],
-    "plusdocs": [
-      244
+    "halaman": [
+      173
     ],
-    "podbean": [
-      245
+    "aplikasi": [
+      173
     ],
-    "polldaddy": [
-      246
+    "kirim": [
+      173
     ],
-    "poll": [
-      246,
-      346
+    "recipe": [
+      174
     ],
-    "ratings": [
-      246
+    "kitchenbowl": [
+      174
     ],
-    "entry": [
-      247
+    "knowledgepad": [
+      175
     ],
-    "portfolium": [
-      247
+    "spoonacular": [
+      175
     ],
-    "prezi": [
-      248
+    "recordings": [
+      176
     ],
-    "snippets": [
-      249
+    "guides": [
+      176
     ],
-    "programmingly": [
-      249
+    "kommodo": [
+      176
     ],
-    "puzzel": [
-      250
+    "kubit": [
+      177
     ],
-    "pyzia": [
-      251
+    "kurozora": [
+      178
     ],
-    "qtpi": [
-      252
-    ],
-    "quartr": [
-      253
-    ],
-    "quellensuche": [
-      254
-    ],
-    "quiz": [
-      255
-    ],
-    "quizz": [
-      256
-    ],
-    "rcvis": [
-      257
-    ],
-    "visualize": [
-      257
-    ],
-    "ve": [
-      257
-    ],
-    "visualizeembedded": [
-      257
-    ],
-    "comments": [
-      258
-    ],
-    "reddit": [
-      258
-    ],
-    "redlof": [
-      259,
-      260
-    ],
-    "wp": [
-      259,
-      382
-    ],
-    "wexcreator": [
-      260
-    ],
-    "showroom": [
-      260
-    ],
-    "rwire": [
-      261
-    ],
-    "releasewire": [
-      261
-    ],
-    "publisher": [
-      261
-    ],
-    "repl": [
-      262
-    ],
-    "replit": [
-      262
-    ],
-    "reverbnation": [
-      263
-    ],
-    "risky": [
-      264
-    ],
-    "roomshare": [
+    "songs": [
+      178,
       265
     ],
-    "roosterteeth": [
-      266
+    "landofassets": [
+      179
     ],
-    "rumble": [
-      267
+    "impact": [
+      180
     ],
-    "Media": [
-      267
+    "im": [
+      180
     ],
-    "rushes": [
-      268
+    "laude": [
+      180
     ],
-    "app2": [
-      269
+    "learningapps": [
+      181
     ],
-    "sagenverse": [
-      269
+    "lille": [
+      182
     ],
-    "main": [
-      270
+    "businesses": [
+      183
     ],
-    "octopus": [
-      270
+    "line": [
+      183
     ],
-    "sapo": [
-      271
+    "irf": [
+      184
     ],
-    "sats": [
-      272
+    "linkstackz": [
+      184
     ],
-    "satcat": [
-      272
+    "livecodes": [
+      185
     ],
-    "satoplayer": [
-      273
+    "livid": [
+      186
     ],
-    "sbedit": [
-      274
+    "loom": [
+      187
     ],
-    "courses": [
-      275
+    "lottiefiles": [
+      188
     ],
-    "en": [
-      275
+    "lottie": [
+      188
     ],
-    "scibly": [
-      275
+    "ludus": [
+      189
     ],
-    "console": [
-      276
+    "lumiere": [
+      190
     ],
-    "screen9": [
-      276
+    "latd": [
+      190
     ],
-    "screencast": [
-      277
+    "admin": [
+      190
     ],
-    "external": [
-      277
+    "marbellawire": [
+      191
     ],
-    "screenr": [
-      278
+    "marimo": [
+      192
     ],
-    "maps": [
-      279
+    "latex": [
+      193
     ],
-    "scribblemaps": [
-      279
+    "mathembed": [
+      193
     ],
-    "doc": [
-      280
+    "matterport": [
+      194
     ],
-    "scribd": [
-      280
+    "my": [
+      194
     ],
-    "sendtonews": [
-      281
+    "i": [
+      195,
+      221
     ],
-    "shared": [
-      282
+    "me": [
+      195
     ],
-    "shoudio": [
-      283
+    "mdstrm": [
+      196
     ],
-    "shoud": [
-      283
+    "stream": [
+      196
     ],
-    "getshow": [
-      284
+    "image": [
+      196,
+      215
     ],
-    "to": [
-      285
+    "entries": [
+      197
     ],
-    "showtheway": [
-      285
+    "medienarchiv": [
+      197
     ],
-    "simplecast": [
-      286
+    "memestack": [
+      198
     ],
-    "onsizzle": [
-      287
+    "mermaid": [
+      199
     ],
-    "sketch": [
-      288
+    "svg": [
+      199
     ],
-    "preview": [
-      288,
-      379
+    "microsoftstream": [
+      200
     ],
-    "graphql": [
-      288
+    "microsoft": [
+      200
     ],
-    "models": [
-      289
+    "mirame360": [
+      201
     ],
-    "folders": [
-      289
+    "tour": [
+      201
     ],
-    "sketchfab": [
-      289
+    "url": [
+      201
     ],
-    "skhema": [
-      290
+    "miro": [
+      202,
+      203
     ],
-    "skoletube": [
-      291
+    "mixcloud": [
+      204
     ],
-    "studietube": [
-      291
+    "mixpanel": [
+      205
     ],
-    "slidesfly": [
-      292
+    "mobypicture": [
+      206
     ],
-    "slideshare": [
-      293
+    "moby": [
+      206
     ],
-    "es": [
-      293
+    "oEmbed": [
+      206,
+      214
     ],
-    "pt": [
-      293
+    "melody": [
+      207
     ],
-    "smashnotes": [
-      294
+    "musicboxmaniacs": [
+      207
     ],
-    "book": [
-      295
+    "mybeweeg": [
+      208
     ],
-    "smrthi": [
-      295
+    "explain": [
+      209
     ],
-    "smugmug": [
-      296
+    "mysqlexplain": [
+      209
     ],
-    "explore": [
-      297
+    "namchey": [
+      210
     ],
-    "socialexplorer": [
-      297
+    "nanoo": [
+      211
     ],
-    "edit": [
-      297
+    "pro": [
+      211
     ],
-    "sooplive": [
-      298
+    "signatur": [
+      211
     ],
-    "soundcloud": [
-      299
+    "new": [
+      211
     ],
-    "on": [
-      299
+    "nb": [
+      212
     ],
-    "goog": [
-      299
+    "catalog": [
+      212
     ],
-    "speakerdeck": [
-      300
+    "naturalatlas": [
+      213
     ],
-    "open": [
-      301
+    "naver": [
+      214
     ],
-    "spotify": [
-      301
-    ],
-    "spotlightr": [
-      302
-    ],
-    "publish": [
-      302,
-      342,
-      385
-    ],
-    "getOEmbed": [
-      302
-    ],
-    "spreaker": [
-      303
-    ],
-    "sproutvideo": [
-      304
-    ],
-    "vids": [
-      304
-    ],
-    "spyke": [
-      305
-    ],
-    "u": [
-      305
-    ],
-    "g": [
-      305
-    ],
-    "c": [
-      305
-    ],
-    "purl": [
-      306
-    ],
-    "session": [
-      307
-    ],
-    "stem": [
-      307
-    ],
-    "streamable": [
-      308
-    ],
-    "s3m": [
-      309
-    ],
-    "23m": [
-      309
-    ],
-    "streamio": [
-      309
-    ],
-    "markers": [
-      310
-    ],
-    "streetartcities": [
-      310
-    ],
-    "sudomemo": [
-      311
-    ],
-    "archive": [
-      311
-    ],
-    "flipnot": [
-      311
-    ],
-    "supercut": [
-      312
-    ],
-    "sutori": [
-      313
-    ],
-    "sway": [
-      314
-    ],
-    "office": [
-      315
-    ],
-    "synthcamp": [
-      316
-    ],
-    "synthesia": [
-      317
-    ],
-    "69jr5v75rc": [
-      317
-    ],
-    "headline": [
-      318
-    ],
-    "techpostcast": [
-      318
-    ],
-    "talks": [
-      319
-    ],
-    "ted": [
-      319
-    ],
-    "tegula": [
-      320
-    ],
-    "cat": [
-      320
-    ],
-    "tella": [
-      321
-    ],
-    "tenet": [
+    "m": [
+      214,
       322
     ],
-    "textexpander": [
-      322
-    ],
-    "hubspot": [
-      323
-    ],
-    "svc": [
-      324
-    ],
-    "nytimes": [
-      324
-    ],
-    "theysaidso": [
-      325
-    ],
-    "extensions": [
-      325
-    ],
-    "widget": [
-      326
-    ],
-    "countdown": [
-      326
-    ],
-    "countup": [
-      326
-    ],
-    "ticker": [
-      326
-    ],
-    "clock": [
-      326
-    ],
-    "worldclock": [
-      326
-    ],
-    "tickcounter": [
-      326
-    ],
-    "full": [
-      326
-    ],
-    "tiktok": [
-      327
-    ],
-    "tksn": [
-      328
-    ],
-    "episode": [
-      329
-    ],
-    "tlexdr": [
-      329
-    ],
-    "take": [
-      330
-    ],
-    "tonicaudio": [
-      330
-    ],
-    "tnic": [
-      330
-    ],
-    "information": [
-      331
-    ],
-    "registration": [
-      331
-    ],
-    "matches": [
-      331
-    ],
-    "stages": [
-      331
-    ],
-    "toornament": [
-      331
-    ],
-    "topy": [
-      332
-    ],
-    "test": [
-      333
-    ],
-    "totango": [
-      333
-    ],
-    "trackspace": [
-      334
-    ],
-    "trinitymedia": [
-      335
-    ],
-    "trinityaudio": [
-      335
-    ],
-    "trycli": [
-      336
-    ],
-    "tumblr": [
-      337
-    ],
-    "tuvelia": [
-      338
-    ],
-    "tuxx": [
-      339
-    ],
-    "tvcf": [
-      340
-    ],
-    "rest": [
-      340
-    ],
-    "presentation": [
-      341
-    ],
-    "panorama": [
-      341
-    ],
-    "twinmotion": [
-      341
-    ],
-    "twitter": [
-      342
-    ],
-    "status": [
-      342,
-      385
-    ],
-    "typecast": [
-      343
-    ],
-    "typecel": [
-      344
-    ],
-    "typlog": [
-      345
-    ],
-    "uapod": [
-      347
-    ],
-    "cam": [
-      348
-    ],
-    "mediatheque": [
-      349
-    ],
-    "pec": [
-      350
-    ],
-    "ustream": [
-      351
-    ],
-    "ustudio": [
-      352
-    ],
-    "vectree": [
-      353
-    ],
-    "vevo": [
-      354
-    ],
-    "videfit": [
-      355
-    ],
-    "videobot": [
-      356
-    ],
-    "vidlink": [
-      357
-    ],
-    "vidmount": [
-      358
-    ],
-    "vidyard": [
-      359
-    ],
-    "hubs": [
-      359
-    ],
-    "vimeo": [
-      360
-    ],
-    "groups": [
-      360
-    ],
-    "ondemand": [
-      360
-    ],
-    "event": [
-      360
-    ],
-    "viostream": [
-      361
-    ],
-    "viously": [
-      362
-    ],
-    "vizdom": [
-      363
-    ],
-    "vizzlo": [
-      364,
-      365
-    ],
-    "eu": [
-      365
-    ],
-    "vlipsy": [
-      366
-    ],
-    "vlive": [
-      367
-    ],
-    "vouchfor": [
-      368
-    ],
-    "voxsnap": [
-      369
-    ],
-    "watchpeoplefight": [
-      370
-    ],
-    "wave": [
+    "ndla": [
+      215
+    ],
+    "article": [
+      215,
       371
     ],
-    "web3isgoinggreat": [
-      372
+    "concept": [
+      215
     ],
-    "single": [
-      372
+    "nebula": [
+      216
     ],
-    "wecandeo": [
-      373
+    "needle": [
+      218
     ],
-    "voice": [
-      374
+    "run": [
+      218
     ],
-    "wewtalk": [
-      374
+    "neetorecord": [
+      219
     ],
-    "whimsical": [
-      375
+    "film": [
+      220
     ],
-    "collections": [
-      376
+    "nfb": [
+      220
     ],
-    "whyp": [
-      376
+    "remote": [
+      220
     ],
-    "wikitolica": [
-      377
+    "brand": [
+      221
     ],
-    "fast": [
+    "nouncify": [
+      221
+    ],
+    "sandbox": [
+      221
+    ],
+    "observablehq": [
+      222
+    ],
+    "odds": [
+      223
+    ],
+    "song": [
+      224
+    ],
+    "artist": [
+      224
+    ],
+    "playlist": [
+      224
+    ],
+    "pods": [
+      224
+    ],
+    "mylink": [
+      224
+    ],
+    "odesli": [
+      224
+    ],
+    "odysee": [
+      225
+    ],
+    "tracks": [
+      226,
       378
     ],
-    "medias": [
-      378
+    "official": [
+      226
     ],
-    "wistia": [
-      378
+    "omniscope": [
+      227
     ],
-    "learn": [
-      379
+    "_global_": [
+      227
     ],
-    "wizer": [
-      379
+    "omny": [
+      228
     ],
-    "wokwi": [
-      380
+    "omnystudio": [
+      228
     ],
-    "wolframcloud": [
-      381
+    "ov3601": [
+      229
     ],
-    "wordpress": [
-      382
+    "ov3602": [
+      229
     ],
-    "predictions": [
-      383
+    "orbittour": [
+      229
     ],
-    "worldeventtrading": [
-      383
+    "orbitvu": [
+      229
     ],
-    "wppaste": [
+    "origits": [
+      230,
+      231
+    ],
+    "frame": [
+      232
+    ],
+    "orizn": [
+      232
+    ],
+    "outplayed": [
+      233
+    ],
+    "overflow": [
+      234
+    ],
+    "padlet": [
+      235
+    ],
+    "br": [
+      236
+    ],
+    "m3u8": [
+      236
+    ],
+    "dashboard": [
+      236,
+      253,
+      361
+    ],
+    "pandavideo": [
+      236
+    ],
+    "parler": [
+      237
+    ],
+    "b": [
+      237
+    ],
+    "parta": [
+      238
+    ],
+    "pastery": [
+      239
+    ],
+    "peertube": [
+      240
+    ],
+    "pinpoll": [
+      241
+    ],
+    "products": [
+      241
+    ],
+    "pinterest": [
+      242
+    ],
+    "pitchhub": [
+      243
+    ],
+    "marker": [
+      244
+    ],
+    "show": [
+      244
+    ],
+    "pixdor": [
+      244
+    ],
+    "store": [
+      244
+    ],
+    "plinth": [
+      245
+    ],
+    "snapshots": [
+      246
+    ],
+    "pages": [
+      246
+    ],
+    "plusdocs": [
+      246
+    ],
+    "podbean": [
+      247
+    ],
+    "polldaddy": [
+      248
+    ],
+    "poll": [
+      248,
+      348
+    ],
+    "ratings": [
+      248
+    ],
+    "entry": [
+      249
+    ],
+    "portfolium": [
+      249
+    ],
+    "prezi": [
+      250
+    ],
+    "snippets": [
+      251
+    ],
+    "programmingly": [
+      251
+    ],
+    "puzzel": [
+      252
+    ],
+    "pyzia": [
+      253
+    ],
+    "qtpi": [
+      254
+    ],
+    "quartr": [
+      255
+    ],
+    "quellensuche": [
+      256
+    ],
+    "quiz": [
+      257
+    ],
+    "quizz": [
+      258
+    ],
+    "rcvis": [
+      259
+    ],
+    "visualize": [
+      259
+    ],
+    "ve": [
+      259
+    ],
+    "visualizeembedded": [
+      259
+    ],
+    "comments": [
+      260
+    ],
+    "reddit": [
+      260
+    ],
+    "redlof": [
+      261,
+      262
+    ],
+    "wp": [
+      261,
       384
     ],
-    "x": [
+    "wexcreator": [
+      262
+    ],
+    "showroom": [
+      262
+    ],
+    "rwire": [
+      263
+    ],
+    "releasewire": [
+      263
+    ],
+    "publisher": [
+      263
+    ],
+    "repl": [
+      264
+    ],
+    "replit": [
+      264
+    ],
+    "reverbnation": [
+      265
+    ],
+    "risky": [
+      266
+    ],
+    "roomshare": [
+      267
+    ],
+    "roosterteeth": [
+      268
+    ],
+    "rumble": [
+      269
+    ],
+    "Media": [
+      269
+    ],
+    "rushes": [
+      270
+    ],
+    "app2": [
+      271
+    ],
+    "sagenverse": [
+      271
+    ],
+    "main": [
+      272
+    ],
+    "octopus": [
+      272
+    ],
+    "sapo": [
+      273
+    ],
+    "sats": [
+      274
+    ],
+    "satcat": [
+      274
+    ],
+    "satoplayer": [
+      275
+    ],
+    "sbedit": [
+      276
+    ],
+    "courses": [
+      277
+    ],
+    "en": [
+      277
+    ],
+    "scibly": [
+      277
+    ],
+    "console": [
+      278
+    ],
+    "screen9": [
+      278
+    ],
+    "screencast": [
+      279
+    ],
+    "external": [
+      279
+    ],
+    "screenr": [
+      280
+    ],
+    "maps": [
+      281
+    ],
+    "scribblemaps": [
+      281
+    ],
+    "doc": [
+      282
+    ],
+    "scribd": [
+      282
+    ],
+    "sendtonews": [
+      283
+    ],
+    "shared": [
+      284
+    ],
+    "shoudio": [
+      285
+    ],
+    "shoud": [
+      285
+    ],
+    "getshow": [
+      286
+    ],
+    "to": [
+      287
+    ],
+    "showtheway": [
+      287
+    ],
+    "simplecast": [
+      288
+    ],
+    "onsizzle": [
+      289
+    ],
+    "sketch": [
+      290
+    ],
+    "preview": [
+      290,
+      381
+    ],
+    "graphql": [
+      290
+    ],
+    "models": [
+      291
+    ],
+    "folders": [
+      291
+    ],
+    "sketchfab": [
+      291
+    ],
+    "skhema": [
+      292
+    ],
+    "skoletube": [
+      293
+    ],
+    "studietube": [
+      293
+    ],
+    "slidesfly": [
+      294
+    ],
+    "slideshare": [
+      295
+    ],
+    "es": [
+      295
+    ],
+    "pt": [
+      295
+    ],
+    "smashnotes": [
+      296
+    ],
+    "book": [
+      297
+    ],
+    "smrthi": [
+      297
+    ],
+    "smugmug": [
+      298
+    ],
+    "explore": [
+      299
+    ],
+    "socialexplorer": [
+      299
+    ],
+    "edit": [
+      299
+    ],
+    "sooplive": [
+      300
+    ],
+    "soundcloud": [
+      301
+    ],
+    "on": [
+      301
+    ],
+    "goog": [
+      301
+    ],
+    "speakerdeck": [
+      302
+    ],
+    "open": [
+      303
+    ],
+    "spotify": [
+      303
+    ],
+    "spotlightr": [
+      304
+    ],
+    "publish": [
+      304,
+      344,
+      387
+    ],
+    "getOEmbed": [
+      304
+    ],
+    "spreaker": [
+      305
+    ],
+    "sproutvideo": [
+      306
+    ],
+    "vids": [
+      306
+    ],
+    "spyke": [
+      307
+    ],
+    "u": [
+      307
+    ],
+    "g": [
+      307
+    ],
+    "c": [
+      307
+    ],
+    "purl": [
+      308
+    ],
+    "session": [
+      309
+    ],
+    "stem": [
+      309
+    ],
+    "streamable": [
+      310
+    ],
+    "s3m": [
+      311
+    ],
+    "23m": [
+      311
+    ],
+    "streamio": [
+      311
+    ],
+    "markers": [
+      312
+    ],
+    "streetartcities": [
+      312
+    ],
+    "sudomemo": [
+      313
+    ],
+    "archive": [
+      313
+    ],
+    "flipnot": [
+      313
+    ],
+    "supercut": [
+      314
+    ],
+    "sutori": [
+      315
+    ],
+    "sway": [
+      316
+    ],
+    "office": [
+      317
+    ],
+    "synthcamp": [
+      318
+    ],
+    "synthesia": [
+      319
+    ],
+    "69jr5v75rc": [
+      319
+    ],
+    "headline": [
+      320
+    ],
+    "techpostcast": [
+      320
+    ],
+    "talks": [
+      321
+    ],
+    "ted": [
+      321
+    ],
+    "tegula": [
+      322
+    ],
+    "cat": [
+      322
+    ],
+    "tella": [
+      323
+    ],
+    "tenet": [
+      324
+    ],
+    "textexpander": [
+      324
+    ],
+    "hubspot": [
+      325
+    ],
+    "svc": [
+      326
+    ],
+    "nytimes": [
+      326
+    ],
+    "theysaidso": [
+      327
+    ],
+    "extensions": [
+      327
+    ],
+    "widget": [
+      328
+    ],
+    "countdown": [
+      328
+    ],
+    "countup": [
+      328
+    ],
+    "ticker": [
+      328
+    ],
+    "clock": [
+      328
+    ],
+    "worldclock": [
+      328
+    ],
+    "tickcounter": [
+      328
+    ],
+    "full": [
+      328
+    ],
+    "tiktok": [
+      329
+    ],
+    "tksn": [
+      330
+    ],
+    "episode": [
+      331
+    ],
+    "tlexdr": [
+      331
+    ],
+    "take": [
+      332
+    ],
+    "tonicaudio": [
+      332
+    ],
+    "tnic": [
+      332
+    ],
+    "information": [
+      333
+    ],
+    "registration": [
+      333
+    ],
+    "matches": [
+      333
+    ],
+    "stages": [
+      333
+    ],
+    "toornament": [
+      333
+    ],
+    "topy": [
+      334
+    ],
+    "test": [
+      335
+    ],
+    "totango": [
+      335
+    ],
+    "trackspace": [
+      336
+    ],
+    "trinitymedia": [
+      337
+    ],
+    "trinityaudio": [
+      337
+    ],
+    "trycli": [
+      338
+    ],
+    "tumblr": [
+      339
+    ],
+    "tuvelia": [
+      340
+    ],
+    "tuxx": [
+      341
+    ],
+    "tvcf": [
+      342
+    ],
+    "rest": [
+      342
+    ],
+    "presentation": [
+      343
+    ],
+    "panorama": [
+      343
+    ],
+    "twinmotion": [
+      343
+    ],
+    "twitter": [
+      344
+    ],
+    "status": [
+      344,
+      387
+    ],
+    "typecast": [
+      345
+    ],
+    "typecel": [
+      346
+    ],
+    "typlog": [
+      347
+    ],
+    "uapod": [
+      349
+    ],
+    "cam": [
+      350
+    ],
+    "mediatheque": [
+      351
+    ],
+    "pec": [
+      352
+    ],
+    "ustream": [
+      353
+    ],
+    "ustudio": [
+      354
+    ],
+    "vectree": [
+      355
+    ],
+    "vevo": [
+      356
+    ],
+    "videfit": [
+      357
+    ],
+    "videobot": [
+      358
+    ],
+    "vidlink": [
+      359
+    ],
+    "vidmount": [
+      360
+    ],
+    "vidyard": [
+      361
+    ],
+    "hubs": [
+      361
+    ],
+    "vimeo": [
+      362
+    ],
+    "groups": [
+      362
+    ],
+    "ondemand": [
+      362
+    ],
+    "event": [
+      362
+    ],
+    "viostream": [
+      363
+    ],
+    "viously": [
+      364
+    ],
+    "vizdom": [
+      365
+    ],
+    "vizzlo": [
+      366,
+      367
+    ],
+    "vlipsy": [
+      368
+    ],
+    "vlive": [
+      369
+    ],
+    "vouchfor": [
+      370
+    ],
+    "voxsnap": [
+      371
+    ],
+    "watchpeoplefight": [
+      372
+    ],
+    "wave": [
+      373
+    ],
+    "web3isgoinggreat": [
+      374
+    ],
+    "single": [
+      374
+    ],
+    "wecandeo": [
+      375
+    ],
+    "voice": [
+      376
+    ],
+    "wewtalk": [
+      376
+    ],
+    "whimsical": [
+      377
+    ],
+    "collections": [
+      378
+    ],
+    "whyp": [
+      378
+    ],
+    "wikitolica": [
+      379
+    ],
+    "fast": [
+      380
+    ],
+    "medias": [
+      380
+    ],
+    "wistia": [
+      380
+    ],
+    "learn": [
+      381
+    ],
+    "wizer": [
+      381
+    ],
+    "wokwi": [
+      382
+    ],
+    "wolframcloud": [
+      383
+    ],
+    "wordpress": [
+      384
+    ],
+    "predictions": [
       385
     ],
-    "ranking": [
+    "worldeventtrading": [
+      385
+    ],
+    "wppaste": [
       386
+    ],
+    "x": [
+      387
+    ],
+    "ranking": [
+      388
     ],
     "youpick": [
-      386
+      388
     ],
     "youtube": [
-      387
+      389
     ],
     "youtu": [
-      387
+      389
     ],
     "list": [
-      387
+      389
     ],
     "shorts": [
-      387
+      389
     ],
     "document": [
-      388
-    ],
-    "yumpu": [
-      388
-    ],
-    "screen": [
-      389
-    ],
-    "version": [
-      389
-    ],
-    "styleguide": [
-      389
-    ],
-    "zeplin": [
-      389
-    ],
-    "zingsoft": [
       390
     ],
-    "znipe": [
+    "yumpu": [
+      390
+    ],
+    "screen": [
       391
     ],
-    "srv2": [
+    "version": [
+      391
+    ],
+    "styleguide": [
+      391
+    ],
+    "zeplin": [
+      391
+    ],
+    "zingsoft": [
       392
     ],
+    "znipe": [
+      393
+    ],
+    "srv2": [
+      394
+    ],
     "zoomable": [
-      392
+      394
     ]
   }
 }
