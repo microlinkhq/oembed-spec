@@ -49,7 +49,7 @@
   ],
   "dependencies": {
     "@kikobeats/got": "~11.8.8",
-    "tldts": "~7.4.0"
+    "tldts": "~7.5.4"
   },
   "devDependencies": {
     "@commitlint/cli": "latest",
